@@ -1,0 +1,74 @@
+{
+    "id": 1554827479925,
+    "name": "TriviAnki-Cloze",
+    "type": 1,
+    "mod": 1746094473,
+    "usn": 0,
+    "sortf": 0,
+    "did": 1590595834392,
+    "tmpls": [
+        {
+            "name": "Cloze",
+            "ord": 0,
+            "qfmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"clozetext\">{{cloze:Text}}</div>\n</div>\n\n</div>",
+            "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"clozetext\">{{cloze:Text}}</div>\n  <div class=\"extra\">{{Extra}}</div>\n</div>\n\n</div>",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0,
+            "id": null
+        }
+    ],
+    "flds": [
+        {
+            "name": "Text",
+            "ord": 0,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Extra",
+            "ord": 1,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        }
+    ],
+    "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexPost": "\\end{document}",
+    "latexsvg": false,
+    "req": [
+        [
+            0,
+            "any",
+            [
+                0
+            ]
+        ]
+    ],
+    "originalId": 1554827479925,
+    "crowdanki_uuid": "df35bed9-bd66-11ea-b1d5-28565a51d1ae",
+    "vers": [],
+    "tags": []
+}

@@ -1,0 +1,116 @@
+{
+    "id": 1737640749997,
+    "name": "TriviAnki-IO",
+    "type": 1,
+    "mod": 1746094478,
+    "usn": 0,
+    "sortf": 0,
+    "did": null,
+    "tmpls": [
+        {
+            "name": "Image Occlusion",
+            "ord": 0,
+            "qfmt": "{{#Header}}<div class=\"header\">{{Header}}</div>{{/Header}}\n<div style=\"display: none\">{{cloze:Occlusion}}</div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    {{Image}}\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n\n\n<script>\ntry {\n    anki.imageOcclusion.setup();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n</script>\n",
+            "afmt": "{{#Header}}<div class=\"header\" style=\"margin-bottom: 1rem;\">{{Header}}</div>{{/Header}}\n<div style=\"display: none\">{{cloze:Occlusion}}</div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    {{Image}}\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.imageOcclusion.setup();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n</script>\n\n<div><button id=\"toggle\">Toggle Masks</button></div>\n{{#Back Extra}}<div>{{Back Extra}}</div>{{/Back Extra}}\n",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0,
+            "id": 4345614966088359262
+        }
+    ],
+    "flds": [
+        {
+            "name": "Occlusion",
+            "ord": 0,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": 8431926488949913619,
+            "tag": 0,
+            "preventDeletion": true
+        },
+        {
+            "name": "Image",
+            "ord": 1,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": -5722832216518605409,
+            "tag": 1,
+            "preventDeletion": true
+        },
+        {
+            "name": "Header",
+            "ord": 2,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": -2007884832506745056,
+            "tag": 2,
+            "preventDeletion": true
+        },
+        {
+            "name": "Back Extra",
+            "ord": 3,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": -1217712196628283458,
+            "tag": 3,
+            "preventDeletion": true
+        },
+        {
+            "name": "Comments",
+            "ord": 4,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 20,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": -5102584130837243330,
+            "tag": 4,
+            "preventDeletion": false
+        }
+    ],
+    "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}#image-occlusion-canvas{--inactive-shape-color: #ffeba2;--active-shape-color: #ff8e8e;--inactive-shape-border: 1px #212121;--active-shape-border: 1px #212121;--highlight-shape-color: #ff8e8e00;--highlight-shape-border: 1px #ff8e8e}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:center}.header{font-size:1.5rem;font-weight:600;margin-bottom:1rem}\n",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexPost": "\\end{document}",
+    "latexsvg": false,
+    "req": [
+        [
+            0,
+            "any",
+            [
+                0,
+                1,
+                2
+            ]
+        ]
+    ],
+    "originalStockKind": 6
+}

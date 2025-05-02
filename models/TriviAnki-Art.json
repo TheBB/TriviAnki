@@ -1,0 +1,228 @@
+{
+    "id": 1342707818481,
+    "name": "TriviAnki-Art",
+    "type": 0,
+    "mod": 1746094459,
+    "usn": 0,
+    "sortf": 2,
+    "did": 1554951378735,
+    "tmpls": [
+        {
+            "name": "Artist?",
+            "ord": 0,
+            "qfmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Art</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Artist</div>\n    {{Artwork}}\n  </div>\n</div>\n\n</div>",
+            "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Art</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Artist</div>\n    {{Artwork}}\n  </div>\n  <hr id=\"answer\">\n  <div class=\"highlight artist\">{{Artist}}</div>\n  <div class=\"supplement nationality\">{{Nationality}}</div>\n  <div class=\"gap\"></div>\n  <div class=\"title\">{{Title}}</div>\n  {{#Subtitle/Alternate Titles}}<div class=\"supplement subtitle\">{{Subtitle/Alternate Titles}}</div>{{/Subtitle/Alternate Titles}}\n  {{#Date}}<div class=\"supplement date\">{{Date}}</div>{{/Date}}\n  {{#Note}}<div class=\"supplement note\">{{Note}}</div>{{/Note}}\n</div>\n\n</div>",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0,
+            "id": null
+        },
+        {
+            "name": "Title?",
+            "ord": 1,
+            "qfmt": "{{#Title}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Art</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Title</div>\n    {{Artwork}}\n  </div>\n</div>\n\n</div>\n{{/Title}}\n",
+            "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Art</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Title</div>\n    {{Artwork}}\n  </div>\n  <hr id=\"answer\">\n  <div class=\"highlight title\">{{Title}}</div>\n  {{#Subtitle/Alternate Titles}}<div class=\"supplement subtitle\">{{Subtitle/Alternate Titles}}</div>{{/Subtitle/Alternate Titles}}\n  <div class=\"gap\"></div>\n  <div class=\"artist\">{{Artist}}</div>\n  <div class=\"supplement nationality\">{{Nationality}}</div>\n  {{#Date}}<div class=\"supplement date\">{{Date}}</div>{{/Date}}\n  {{#Note}}<div class=\"supplement note\">{{Note}}</div>{{/Note}}\n</div>\n\n</div>",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0,
+            "id": null
+        },
+        {
+            "name": "Period/Movement?",
+            "ord": 2,
+            "qfmt": "{{#Period/Movement}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Art</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Period or movement</div>\n    {{Artwork}}\n  </div>\n</div>\n\n</div>\n{{/Period/Movement}}\n",
+            "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Art</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Period or movement</div>\n    {{Artwork}}\n  </div>\n  <hr id=\"answer\">\n\t<div class=\"highlight\">{{Period/Movement}}</div>\n  <div class=\"gap\"></div>\n  <div class=\"title\">{{Title}}</div>\n  {{#Subtitle/Alternate Titles}}<div class=\"supplement subtitle\">{{Subtitle/Alternate Titles}}</div>{{/Subtitle/Alternate Titles}}\n  <div class=\"gap\"></div>\n  <div class=\"artist\">{{Artist}}</div>\n  <div class=\"supplement nationality\">{{Nationality}}</div>\n  {{#Date}}<div class=\"supplement date\">{{Date}}</div>{{/Date}}\n  {{#Note}}<div class=\"supplement note\">{{Note}}</div>{{/Note}}\n</div>\n\n</div>",
+            "bqfmt": "",
+            "bafmt": "",
+            "did": null,
+            "bfont": "",
+            "bsize": 0,
+            "id": null
+        }
+    ],
+    "flds": [
+        {
+            "name": "Artwork",
+            "ord": 0,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 14,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Artist",
+            "ord": 1,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 16,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Title",
+            "ord": 2,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 15,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Subtitle/Alternate Titles",
+            "ord": 3,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 12,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Date",
+            "ord": 4,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 15,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Period/Movement",
+            "ord": 5,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 12,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Medium",
+            "ord": 6,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 12,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Nationality",
+            "ord": 7,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 14,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        },
+        {
+            "name": "Note",
+            "ord": 8,
+            "sticky": false,
+            "rtl": false,
+            "font": "Arial",
+            "size": 13,
+            "description": "",
+            "plainText": false,
+            "collapsed": false,
+            "excludeFromSearch": false,
+            "id": null,
+            "tag": null,
+            "preventDeletion": false,
+            "media": []
+        }
+    ],
+    "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}.gap{height:1rem}\n",
+    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+    "latexPost": "\\end{document}",
+    "latexsvg": false,
+    "req": [
+        [
+            0,
+            "any",
+            [
+                0
+            ]
+        ],
+        [
+            1,
+            "all",
+            [
+                0,
+                2
+            ]
+        ],
+        [
+            2,
+            "all",
+            [
+                0,
+                5
+            ]
+        ]
+    ],
+    "originalId": 1342707818481,
+    "vers": [],
+    "crowdanki_uuid": "df2bb378-bd66-11ea-a8e3-28565a51d1ae",
+    "tags": [
+        ""
+    ]
+}
