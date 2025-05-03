@@ -1,209 +1,209 @@
 {
-    "id": 1358974128703,
-    "name": "TriviAnki-UG-China",
-    "type": 0,
-    "mod": 1746094496,
-    "usn": 0,
-    "sortf": 0,
-    "did": 1358974175502,
-    "tmpls": [
-        {
-            "name": "Map to Province",
-            "ord": 0,
-            "qfmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n</div>\n\n</div>",
-            "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n  <hr id=\"answer\">\n  <div>{{Name}}</div>\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Province to Capital",
-            "ord": 1,
-            "qfmt": "{{#Capital}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n\t<div>Capital of <span class=\"highlight\">{{Name}}</span>?</div>\n</div>\n\n</div>\n{{/Capital}}",
-            "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n\t<div>Capital of <span class=\"highlight\">{{Name}}</span>?</div>\n  <hr id=\"answer\">\n  <div>{{Capital}}</div>\n  {{Map}}\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "Arial",
-            "bsize": 12,
-            "id": null
-        },
-        {
-            "name": "Capital to Province",
-            "ord": 2,
-            "qfmt": "{{#Capital}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n\t<div><span class=\"highlight\">{{Capital}}</span> is the capital of?</div>\n</div>\n\n</div>\n{{/Capital}}",
-            "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n\t<div><span class=\"highlight\">{{Capital}}</span> is the capital of?</div>\n  <hr id=\"answer\">\n  <div>{{Name}}</div>\n  {{Map}}\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        }
+  "crowdanki_uuid": "df2bda5d-bd66-11ea-98f1-28565a51d1ae",
+  "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
+  "did": 1358974175502,
+  "flds": [
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Map",
+      "ord": 0,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 12,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Name",
+      "ord": 1,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 12,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Name in simplified Chinese",
+      "ord": 2,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 36,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Name in traditional Chinese",
+      "ord": 3,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 36,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Name in pinyin",
+      "ord": 4,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Pronunciation",
+      "ord": 5,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Capital",
+      "ord": 6,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Etymology",
+      "ord": 7,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    }
+  ],
+  "id": 1358974128703,
+  "latexPost": "\\end{document}",
+  "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+  "latexsvg": false,
+  "mod": 1746094496,
+  "name": "TriviAnki-UG-China",
+  "originalId": 1358974128703,
+  "req": [
+    [
+      0,
+      "any",
+      [
+        0
+      ]
     ],
-    "flds": [
-        {
-            "name": "Map",
-            "ord": 0,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 12,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Name",
-            "ord": 1,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 12,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Name in simplified Chinese",
-            "ord": 2,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 36,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Name in traditional Chinese",
-            "ord": 3,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 36,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Name in pinyin",
-            "ord": 4,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Pronunciation",
-            "ord": 5,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Capital",
-            "ord": 6,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Etymology",
-            "ord": 7,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        }
+    [
+      1,
+      "all",
+      [
+        1,
+        6
+      ]
     ],
-    "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
-    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "latexPost": "\\end{document}",
-    "latexsvg": false,
-    "req": [
-        [
-            0,
-            "any",
-            [
-                0
-            ]
-        ],
-        [
-            1,
-            "all",
-            [
-                1,
-                6
-            ]
-        ],
-        [
-            2,
-            "any",
-            [
-                6
-            ]
-        ]
-    ],
-    "originalId": 1358974128703,
-    "vers": [],
-    "tags": [],
-    "crowdanki_uuid": "df2bda5d-bd66-11ea-98f1-28565a51d1ae"
+    [
+      2,
+      "any",
+      [
+        6
+      ]
+    ]
+  ],
+  "sortf": 0,
+  "tags": [],
+  "tmpls": [
+    {
+      "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n  <hr id=\"answer\">\n  <div>{{Name}}</div>\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Map to Province",
+      "ord": 0,
+      "qfmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n</div>\n\n</div>"
+    },
+    {
+      "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n\t<div>Capital of <span class=\"highlight\">{{Name}}</span>?</div>\n  <hr id=\"answer\">\n  <div>{{Capital}}</div>\n  {{Map}}\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "Arial",
+      "bqfmt": "",
+      "bsize": 12,
+      "did": null,
+      "id": null,
+      "name": "Province to Capital",
+      "ord": 1,
+      "qfmt": "{{#Capital}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n\t<div>Capital of <span class=\"highlight\">{{Name}}</span>?</div>\n</div>\n\n</div>\n{{/Capital}}"
+    },
+    {
+      "afmt": "<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n\t<div><span class=\"highlight\">{{Capital}}</span> is the capital of?</div>\n  <hr id=\"answer\">\n  <div>{{Name}}</div>\n  {{Map}}\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Capital to Province",
+      "ord": 2,
+      "qfmt": "{{#Capital}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n\t<div><span class=\"highlight\">{{Capital}}</span> is the capital of?</div>\n</div>\n\n</div>\n{{/Capital}}"
+    }
+  ],
+  "type": 0,
+  "usn": 0,
+  "vers": []
 }

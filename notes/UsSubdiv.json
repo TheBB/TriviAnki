@@ -1,562 +1,818 @@
 {
-  "Washington": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "rndh~S<hR%",
-    "mtime": 1746190140,
-    "Name": "Washington",
-    "Map": "<img src=\"paste-6996501725351.jpg\">",
-    "Flag": "<img src=\"1024px-Flag_of_Washington.png\">",
-    "Capital": "Olympia",
-    "Postal code": "WA"
-  },
-  "Oregon": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "u@U3nC<gA6",
-    "mtime": 1746126323,
-    "Name": "Oregon",
-    "Map": "<img src=\"paste-6841882902695.jpg\">",
-    "Flag": "<img src=\"1024px-Flag_of_Oregon.png\">",
-    "Capital": "Salem",
-    "Postal code": "OR"
-  },
-  "California": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "s)ox6A~:]@",
-    "mtime": 1746126205,
-    "Name": "California",
-    "Map": "<img src=\"paste-8f9bb8d6344ebaa75f33defcbbe185418def9347.png\">",
-    "Flag": "<img src=\"800px-Flag_of_California.png\">",
-    "Capital": "Sacramento",
-    "Postal code": "CA"
-  },
-  "Idaho": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "d{nE`s:L+B",
-    "mtime": 1746126265,
-    "Name": "Idaho",
-    "Map": "<img src=\"paste-6618544603303.jpg\">",
-    "Flag": "<img src=\"Flag_of_Idaho.svg.png\">",
-    "Capital": "Boise",
-    "Postal code": "ID"
-  },
-  "Nevada": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "oIl@TZn8Vw",
-    "mtime": 1746126307,
-    "Name": "Nevada",
-    "Map": "<img src=\"paste-6588479832231.jpg\" />",
-    "Flag": "<img src=\"Flag_of_Nevada.png\">",
-    "Capital": "Carson City",
-    "Postal code": "NV"
-  },
-  "Montana": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "kOm8u;j>z}",
-    "mtime": 1746126304,
-    "Name": "Montana",
-    "Map": "<img src=\"paste-6562710028455.jpg\">",
-    "Flag": "<img src=\"800px-Flag_of_Montana.png\">",
-    "Capital": "Helena",
-    "Postal code": "MT"
-  },
-  "Wyoming": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "#H*z7l>9G",
-    "mtime": 1746126345,
-    "Name": "Wyoming",
-    "Map": "<img src=\"paste-6532645257383.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Wyoming.png\">",
-    "Capital": "Cheyenne",
-    "Postal code": "WY"
-  },
-  "Colorado": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "t/JX|)bfWg",
-    "mtime": 1746126252,
-    "Name": "Colorado",
-    "Map": "<img src=\"paste-6511170420903.jpg\" />",
-    "Flag": "<img src=\"Flag_of_Colorado.svg.png\">",
-    "Capital": "Denver",
-    "Postal code": "CO"
-  },
-  "New Mexico": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "lLh(&5KQiS",
-    "mtime": 1746126312,
-    "Name": "New Mexico",
-    "Map": "<img src=\"paste-6365141532839.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_New_Mexico.png\">",
-    "Capital": "Santa Fe",
-    "Postal code": "NM"
-  },
-  "North Dakota": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "d-;Pf4p60O",
-    "mtime": 1746126318,
-    "Name": "North Dakota",
-    "Map": "<img src=\"paste-6163278069927.jpg\" />",
-    "Flag": "<img class=\"\" src=\"800px-Flag_of_North_Dakota.png\">",
-    "Capital": "Bismarck",
-    "Postal code": "ND"
-  },
-  "South Dakota": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "srikjC:pS1",
-    "mtime": 1746126329,
-    "Name": "South Dakota",
-    "Map": "<img src=\"paste-6141803233447.jpg\" />",
-    "Flag": "<img src=\"Flag_of_South_Dakota.png\">",
-    "Capital": "Pierre",
-    "Postal code": "SD"
-  },
-  "Nebraska": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "qB8uou?R>",
-    "mtime": 1746126305,
-    "Name": "Nebraska",
-    "Map": "<img src=\"paste-6120328396967.jpg\" />",
-    "Flag": "<img src=\"1024px-Flag_of_Nebraska.png\">",
-    "Capital": "Lincoln",
-    "Postal code": "NE"
-  },
-  "Kansas": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "r.y^>_+e6l",
-    "mtime": 1746126275,
-    "Name": "Kansas",
-    "Map": "<img src=\"paste-6098853560487.jpg\">",
-    "Flag": "<img src=\"1024px-Flag_of_Kansas.png\">",
-    "Capital": "Topeka",
-    "Postal code": "KS"
-  },
-  "Oklahoma": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "eBoun.e_i$",
-    "mtime": 1746126321,
-    "Name": "Oklahoma",
-    "Map": "<img src=\"paste-6077378724007.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Oklahoma.png\">",
-    "Capital": "Oklahoma City",
-    "Postal code": "OK"
-  },
-  "Texas": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "cDUV;e3Jy<",
-    "mtime": 1746126333,
-    "Name": "Texas",
-    "Map": "<img src=\"paste-6055903887527.jpg\">",
-    "Flag": "<img src=\"800px-Flag_of_Texas.png\">",
-    "Capital": "Austin",
-    "Postal code": "TX"
-  },
-  "Minnesota": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "jV=q69ukPI",
-    "mtime": 1746126294,
-    "Name": "Minnesota",
-    "Map": "<img src=\"paste-5905580032167.jpg\">",
-    "Flag": "<img src=\"1024px-Flag_of_Minnesota.png\">",
-    "Capital": "St. Paul",
-    "Postal code": "MN"
-  },
-  "Iowa": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "lW!pzb[g;8",
-    "mtime": 1746126271,
-    "Name": "Iowa",
-    "Map": "<img src=\"paste-5703716569255.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Iowa.png\">",
-    "Capital": "Des Moines",
-    "Postal code": "IA"
-  },
-  "Missouri": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "u-Y:ii$>HG",
-    "mtime": 1746126301,
-    "Name": "Missouri",
-    "Map": "<img src=\"paste-5682241732775.jpg\" />",
-    "Flag": "<img src=\"1024px-Flag_of_Missouri.png\">",
-    "Capital": "Jefferson City",
-    "Postal code": "MO"
-  },
-  "Arkansas": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "o:bKg<]#6#",
-    "mtime": 1746126248,
-    "Name": "Arkansas",
-    "Map": "<img src=\"paste-5660766896295.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Arkansas.png\">",
-    "Capital": "Little Rock",
-    "Postal code": "AR"
-  },
-  "Louisiana": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "gI#sV*uXr[",
-    "mtime": 1746126280,
-    "Name": "Louisiana",
-    "Map": "<img src=\"paste-5639292059815.jpg\" />",
-    "Flag": "<img src=\"1024px-Flag_of_Louisiana.png\">",
-    "Capital": "Baton Rouge",
-    "Postal code": "LA"
-  },
-  "Wisconsin": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "b{kSe^swA(",
-    "mtime": 1746126343,
-    "Name": "Wisconsin",
-    "Map": "<img src=\"paste-5617817223335.jpg\" />",
-    "Flag": "<img src=\"Flag_of_Wisconsin.png\">",
-    "Capital": "Madison",
-    "Postal code": "WI"
-  },
-  "Illinois": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "rvYPW-a9u<",
-    "mtime": 1746127426,
-    "Name": "Illinois",
-    "Map": "<img src=\"paste-5579162517671.jpg\">",
-    "Flag": "<img src=\"1024px-Flag_of_Illinois.png\">",
-    "Capital": "Springfield",
-    "Postal code": "IL"
-  },
-  "Michigan": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "e1*Um%17_G",
-    "mtime": 1746126292,
-    "Name": "Michigan",
-    "Map": "<img src=\"paste-5424543695015.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Michigan.png\">",
-    "Capital": "Lansing",
-    "Postal code": "MI"
-  },
-  "Indiana": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "q!V:AerT=5",
-    "mtime": 1746126269,
-    "Name": "Indiana",
-    "Map": "<img src=\"paste-5222680232103.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Indiana.png\">",
-    "Capital": "Indianapolis",
-    "Postal code": "IN"
-  },
-  "Kentucky": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "mE<AF-+mCr",
-    "mtime": 1746126277,
-    "Name": "Kentucky",
-    "Map": "<img src=\"paste-5196910428327.jpg\">",
-    "Flag": "<img src=\"Flag_of_Kentucky.svg-db475dcf5dd12a8f9594b470446f2a62f430568e.png\">",
-    "Capital": "Frankfort",
-    "Postal code": "KY"
-  },
-  "Tennessee": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "b$a_)L+QAV",
-    "mtime": 1746126331,
-    "Name": "Tennessee",
-    "Map": "<img src=\"paste-5175435591847.jpg\" />",
-    "Flag": "<img src=\"1024px-Flag_of_Tennessee.png\">",
-    "Capital": "Nashville",
-    "Postal code": "TN"
-  },
-  "Mississippi": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "cSyF}w7X?t",
-    "mtime": 1746126296,
-    "Name": "Mississippi",
-    "Map": "<img src=\"paste-5153960755367.jpg\">",
-    "Flag": "<img src=\"Flag_of_Mississippi.svg\">",
-    "Capital": "Jackson",
-    "Postal code": "MS"
-  },
   "Alabama": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "jO@a*R]qWK",
-    "mtime": 1746126241,
-    "Name": "Alabama",
-    "Map": "<img src=\"paste-5132485918887.jpg\">",
-    "Flag": "<img src=\"1024px-Flag_of_Alabama.png\">",
     "Capital": "Montgomery",
-    "Postal code": "AL"
-  },
-  "Ohio": {
+    "Flag": "<img src=\"1024px-Flag_of_Alabama.png\">",
+    "Map": "<img src=\"paste-5132485918887.jpg\">",
+    "Name": "Alabama",
+    "Postal code": "AL",
+    "guid": "jO@a*R]qWK",
     "model_name": "TriviAnki-UG-USA",
-    "guid": "tiNDdL?nBZ",
-    "mtime": 1746126319,
-    "Name": "Ohio",
-    "Map": "<img src=\"paste-5080946311335.jpg\" />",
-    "Flag": "<img src=\"1024px-Flag_of_Ohio.png\">",
-    "Capital": "Columbus",
-    "Postal code": "OH"
-  },
-  "Georgia": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "t9z^+<*]?0",
-    "mtime": 1746126261,
-    "Name": "Georgia",
-    "Map": "<img src=\"paste-4960687227047.jpg\">",
-    "Flag": "<img src=\"1024px-Flag_of_Georgia.png\">",
-    "Capital": "Atlanta",
-    "Postal code": "GA"
-  },
-  "Florida": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "uRC|ie8O*N",
-    "mtime": 1746126259,
-    "Name": "Florida",
-    "Map": "<img src=\"paste-4930622455975.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Florida.png\">",
-    "Capital": "Tallahassee",
-    "Postal code": "FL"
-  },
-  "New York": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "k`/7Yek0l/",
-    "mtime": 1746126313,
-    "Name": "New York",
-    "Map": "<img src=\"paste-4900557684903.jpg\" />",
-    "Flag": "<img src=\"1280px-Flag_of_New_York.png\">",
-    "Capital": "Albany",
-    "Postal code": "NY"
-  },
-  "Pennsylvania": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "h#ad8;Lomt",
-    "mtime": 1746126325,
-    "Name": "Pennsylvania",
-    "Map": "<img src=\"paste-4879082848423.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Pennsylvania.png\">",
-    "Capital": "Harrisburg",
-    "Postal code": "PA"
-  },
-  "West Virginia": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "oKT7AxiLzU",
-    "mtime": 1746126342,
-    "Name": "West Virginia",
-    "Map": "<img src=\"paste-4677219385511.jpg\" />",
-    "Flag": "<img src=\"1024px-Flag_of_West_Virginia.png\">",
-    "Capital": "Charleston",
-    "Postal code": "WV"
-  },
-  "Vermont": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "ttnuC99Bd%",
-    "mtime": 1746126338,
-    "Name": "Vermont",
-    "Map": "<img src=\"paste-4655744549031.jpg\">",
-    "Flag": "<img src=\"1024px-Flag_of_Vermont.png\">",
-    "Capital": "Montpelier",
-    "Postal code": "VT"
-  },
-  "Massachusetts": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "ejw{.Msj5g",
-    "mtime": 1746126290,
-    "Name": "Massachusetts",
-    "Map": "<img src=\"paste-4634269712551.jpg\" />",
-    "Flag": "<img src=\"paste-14533e0f04d9a07570615756f62d725acea66b77.jpg\">",
-    "Capital": "Boston",
-    "Postal code": "MA"
-  },
-  "New Hampshire": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "b1>Lh;l]0t",
-    "mtime": 1746126309,
-    "Name": "New Hampshire",
-    "Map": "<img src=\"paste-4612794876071.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_New_Hampshire.png\">",
-    "Capital": "Concord",
-    "Postal code": "NH"
-  },
-  "Maine": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "bCOH@^a(a2",
-    "mtime": 1746126281,
-    "Name": "Maine",
-    "Map": "<img src=\"paste-4582730104999.jpg\" />",
-    "Flag": "<img src=\"paste-55c9abaee3f6dc09d9a47338a0f5cf44f8bacd82.jpg\">",
-    "Capital": "Augusta",
-    "Postal code": "ME"
-  },
-  "Rhode Island": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "p/}wg-@`,Z",
-    "mtime": 1746126326,
-    "Name": "Rhode Island",
-    "Map": "<img src=\"paste-4561255268519.jpg\" />",
-    "Flag": "<img src=\"paste-d96ffd77217850c7b7f468c214424601fb6c4853.jpg\">",
-    "Capital": "Providence",
-    "Postal code": "RI"
-  },
-  "Connecticut": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "r$%`-vTDx8",
-    "mtime": 1746126254,
-    "Name": "Connecticut",
-    "Map": "<img src=\"paste-4415226380455.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Connecticut.png\">",
-    "Capital": "Hartford",
-    "Postal code": "CT"
-  },
-  "New Jersey": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "e}O{8Z`Wx+",
-    "mtime": 1746126311,
-    "Name": "New Jersey",
-    "Map": "<img src=\"paste-4170413244583.jpg\" />",
-    "Flag": "<img src=\"1024px-Flag_of_New_Jersey.png\">",
-    "Capital": "Trenton",
-    "Postal code": "NJ"
-  },
-  "Delaware": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "f%_R8.H2pl",
-    "mtime": 1746127420,
-    "Name": "Delaware",
-    "Map": "<img src=\"paste-4140348473511.jpg\">",
-    "Flag": "<img src=\"800px-Flag_of_Delaware.png\">",
-    "Capital": "Dover",
-    "Postal code": "DE"
-  },
-  "Maryland": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "qlU~-(!u{~",
-    "mtime": 1746126283,
-    "Name": "Maryland",
-    "Map": "<img src=\"paste-4101693767847.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Maryland.png\">",
-    "Capital": "Annapolis",
-    "Postal code": "MD"
-  },
-  "Utah": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "t%<&j>8+zf",
-    "mtime": 1746126336,
-    "Name": "Utah",
-    "Map": "<img src=\"paste-7357278978215.jpg\">",
-    "Flag": "<img src=\"Flag_of_Utah.svg\">",
-    "Capital": "Salt Lake City",
-    "Postal code": "UT"
-  },
-  "Virginia": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "q[ITIxh/#[",
-    "mtime": 1746126339,
-    "Name": "Virginia",
-    "Map": "<img src=\"paste-76da6ed04083fc0afa55cc80f120528fa4a17ef7.jpg\">",
-    "Flag": "<img src=\"800px-Flag_of_Virginia.png\">",
-    "Capital": "Richmond",
-    "Postal code": "VA"
-  },
-  "North Carolina": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "c]6:J6dcuQ",
-    "mtime": 1746126316,
-    "Name": "North Carolina",
-    "Map": "<img src=\"paste-3633542332583.jpg\" />",
-    "Flag": "<img src=\"paste-9d77ef7ffb28906db12dc58655c9d1da10f92c80.jpg\">",
-    "Capital": "Raleigh",
-    "Postal code": "NC"
-  },
-  "South Carolina": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "vNr(e13yOQ",
-    "mtime": 1746126328,
-    "Name": "South Carolina",
-    "Map": "<img src=\"paste-3388729196711.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_South_Carolina.png\">",
-    "Capital": "Columbia",
-    "Postal code": "SC"
+    "mtime": 1746126241,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   },
   "Alaska": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "cC1yQbod~*",
-    "mtime": 1746126242,
-    "Name": "Alaska",
-    "Map": "<img src=\"paste-3332894621885.jpg\">",
-    "Flag": "<img src=\"800px-Flag_of_Alaska.png\">",
     "Capital": "Juneau",
-    "Postal code": "AK"
-  },
-  "Hawaii": {
+    "Flag": "<img src=\"800px-Flag_of_Alaska.png\">",
+    "Map": "<img src=\"paste-3332894621885.jpg\">",
+    "Name": "Alaska",
+    "Postal code": "AK",
+    "guid": "cC1yQbod~*",
     "model_name": "TriviAnki-UG-USA",
-    "guid": "gBhs6&dQ`W",
-    "mtime": 1746126263,
-    "Name": "Hawaii",
-    "Map": "<img src=\"paste-3311419785405.jpg\">",
-    "Flag": "<img src=\"1280px-Flag_of_Hawaii.png\">",
-    "Capital": "Honolulu",
-    "Postal code": "HI"
-  },
-  "Arizona": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "fR/tb{=vW*",
-    "mtime": 1746126245,
-    "Name": "Arizona",
-    "Map": "<img src=\"paste-3208340570279.jpg\" />",
-    "Flag": "<img src=\"800px-Flag_of_Arizona.png\">",
-    "Capital": "Phoenix",
-    "Postal code": "AZ"
-  },
-  "District of Columbia": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "Qvr|=%Xohe",
-    "mtime": 1746127368,
-    "Name": "District of Columbia",
-    "Map": "<img src=\"paste-813635b4aba7d42a7463b96d29f411d6b890a5da.png\">",
-    "Flag": "<img src=\"Flag_of_Washington,_D.C.svg.png\">",
-    "Capital": "",
-    "Postal code": "DC"
+    "mtime": 1746126242,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   },
   "American Samoa": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "fRoIc2T]rG",
-    "mtime": 1746127479,
-    "Name": "American Samoa",
-    "Map": "<img src=\"paste-21ca39907f9fa65128317596a320adcc11a694ba.png\">",
-    "Flag": "<img src=\"Flag_of_American_Samoa.svg.png\">",
     "Capital": "Pago Pago",
-    "Postal code": "AS"
+    "Flag": "<img src=\"Flag_of_American_Samoa.svg.png\">",
+    "Map": "<img src=\"paste-21ca39907f9fa65128317596a320adcc11a694ba.png\">",
+    "Name": "American Samoa",
+    "Postal code": "AS",
+    "guid": "fRoIc2T]rG",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746127479,
+    "tags": []
+  },
+  "Arizona": {
+    "Capital": "Phoenix",
+    "Flag": "<img src=\"800px-Flag_of_Arizona.png\">",
+    "Map": "<img src=\"paste-3208340570279.jpg\" />",
+    "Name": "Arizona",
+    "Postal code": "AZ",
+    "guid": "fR/tb{=vW*",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126245,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Arkansas": {
+    "Capital": "Little Rock",
+    "Flag": "<img src=\"800px-Flag_of_Arkansas.png\">",
+    "Map": "<img src=\"paste-5660766896295.jpg\" />",
+    "Name": "Arkansas",
+    "Postal code": "AR",
+    "guid": "o:bKg<]#6#",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126248,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "California": {
+    "Capital": "Sacramento",
+    "Flag": "<img src=\"800px-Flag_of_California.png\">",
+    "Map": "<img src=\"paste-8f9bb8d6344ebaa75f33defcbbe185418def9347.png\">",
+    "Name": "California",
+    "Postal code": "CA",
+    "guid": "s)ox6A~:]@",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126205,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Colorado": {
+    "Capital": "Denver",
+    "Flag": "<img src=\"Flag_of_Colorado.svg.png\">",
+    "Map": "<img src=\"paste-6511170420903.jpg\" />",
+    "Name": "Colorado",
+    "Postal code": "CO",
+    "guid": "t/JX|)bfWg",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126252,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Connecticut": {
+    "Capital": "Hartford",
+    "Flag": "<img src=\"800px-Flag_of_Connecticut.png\">",
+    "Map": "<img src=\"paste-4415226380455.jpg\" />",
+    "Name": "Connecticut",
+    "Postal code": "CT",
+    "guid": "r$%`-vTDx8",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126254,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Delaware": {
+    "Capital": "Dover",
+    "Flag": "<img src=\"800px-Flag_of_Delaware.png\">",
+    "Map": "<img src=\"paste-4140348473511.jpg\">",
+    "Name": "Delaware",
+    "Postal code": "DE",
+    "guid": "f%_R8.H2pl",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746127420,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "District of Columbia": {
+    "Capital": "",
+    "Flag": "<img src=\"Flag_of_Washington,_D.C.svg.png\">",
+    "Map": "<img src=\"paste-813635b4aba7d42a7463b96d29f411d6b890a5da.png\">",
+    "Name": "District of Columbia",
+    "Postal code": "DC",
+    "guid": "Qvr|=%Xohe",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746127368,
+    "tags": []
+  },
+  "Florida": {
+    "Capital": "Tallahassee",
+    "Flag": "<img src=\"800px-Flag_of_Florida.png\">",
+    "Map": "<img src=\"paste-4930622455975.jpg\" />",
+    "Name": "Florida",
+    "Postal code": "FL",
+    "guid": "uRC|ie8O*N",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126259,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Georgia": {
+    "Capital": "Atlanta",
+    "Flag": "<img src=\"1024px-Flag_of_Georgia.png\">",
+    "Map": "<img src=\"paste-4960687227047.jpg\">",
+    "Name": "Georgia",
+    "Postal code": "GA",
+    "guid": "t9z^+<*]?0",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126261,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   },
   "Guam": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "g,^8>Ot>?_",
-    "mtime": 1746127555,
-    "Name": "Guam",
-    "Map": "<img src=\"paste-6c575ed9bf447929d4d71547c40832a87727fc76.png\">",
-    "Flag": "<img src=\"Flag_of_Guam.svg.png\">",
     "Capital": "Hag\u00e5t\u00f1a",
-    "Postal code": "GU"
+    "Flag": "<img src=\"Flag_of_Guam.svg.png\">",
+    "Map": "<img src=\"paste-6c575ed9bf447929d4d71547c40832a87727fc76.png\">",
+    "Name": "Guam",
+    "Postal code": "GU",
+    "guid": "g,^8>Ot>?_",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746127555,
+    "tags": []
+  },
+  "Hawaii": {
+    "Capital": "Honolulu",
+    "Flag": "<img src=\"1280px-Flag_of_Hawaii.png\">",
+    "Map": "<img src=\"paste-3311419785405.jpg\">",
+    "Name": "Hawaii",
+    "Postal code": "HI",
+    "guid": "gBhs6&dQ`W",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126263,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Idaho": {
+    "Capital": "Boise",
+    "Flag": "<img src=\"Flag_of_Idaho.svg.png\">",
+    "Map": "<img src=\"paste-6618544603303.jpg\">",
+    "Name": "Idaho",
+    "Postal code": "ID",
+    "guid": "d{nE`s:L+B",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126265,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Illinois": {
+    "Capital": "Springfield",
+    "Flag": "<img src=\"1024px-Flag_of_Illinois.png\">",
+    "Map": "<img src=\"paste-5579162517671.jpg\">",
+    "Name": "Illinois",
+    "Postal code": "IL",
+    "guid": "rvYPW-a9u<",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746127426,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Indiana": {
+    "Capital": "Indianapolis",
+    "Flag": "<img src=\"800px-Flag_of_Indiana.png\">",
+    "Map": "<img src=\"paste-5222680232103.jpg\" />",
+    "Name": "Indiana",
+    "Postal code": "IN",
+    "guid": "q!V:AerT=5",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126269,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Iowa": {
+    "Capital": "Des Moines",
+    "Flag": "<img src=\"800px-Flag_of_Iowa.png\">",
+    "Map": "<img src=\"paste-5703716569255.jpg\" />",
+    "Name": "Iowa",
+    "Postal code": "IA",
+    "guid": "lW!pzb[g;8",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126271,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Kansas": {
+    "Capital": "Topeka",
+    "Flag": "<img src=\"1024px-Flag_of_Kansas.png\">",
+    "Map": "<img src=\"paste-6098853560487.jpg\">",
+    "Name": "Kansas",
+    "Postal code": "KS",
+    "guid": "r.y^>_+e6l",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126275,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Kentucky": {
+    "Capital": "Frankfort",
+    "Flag": "<img src=\"Flag_of_Kentucky.svg-db475dcf5dd12a8f9594b470446f2a62f430568e.png\">",
+    "Map": "<img src=\"paste-5196910428327.jpg\">",
+    "Name": "Kentucky",
+    "Postal code": "KY",
+    "guid": "mE<AF-+mCr",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126277,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Louisiana": {
+    "Capital": "Baton Rouge",
+    "Flag": "<img src=\"1024px-Flag_of_Louisiana.png\">",
+    "Map": "<img src=\"paste-5639292059815.jpg\" />",
+    "Name": "Louisiana",
+    "Postal code": "LA",
+    "guid": "gI#sV*uXr[",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126280,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Maine": {
+    "Capital": "Augusta",
+    "Flag": "<img src=\"paste-55c9abaee3f6dc09d9a47338a0f5cf44f8bacd82.jpg\">",
+    "Map": "<img src=\"paste-4582730104999.jpg\" />",
+    "Name": "Maine",
+    "Postal code": "ME",
+    "guid": "bCOH@^a(a2",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126281,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Maryland": {
+    "Capital": "Annapolis",
+    "Flag": "<img src=\"800px-Flag_of_Maryland.png\">",
+    "Map": "<img src=\"paste-4101693767847.jpg\" />",
+    "Name": "Maryland",
+    "Postal code": "MD",
+    "guid": "qlU~-(!u{~",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126283,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Massachusetts": {
+    "Capital": "Boston",
+    "Flag": "<img src=\"paste-14533e0f04d9a07570615756f62d725acea66b77.jpg\">",
+    "Map": "<img src=\"paste-4634269712551.jpg\" />",
+    "Name": "Massachusetts",
+    "Postal code": "MA",
+    "guid": "ejw{.Msj5g",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126290,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Michigan": {
+    "Capital": "Lansing",
+    "Flag": "<img src=\"800px-Flag_of_Michigan.png\">",
+    "Map": "<img src=\"paste-5424543695015.jpg\" />",
+    "Name": "Michigan",
+    "Postal code": "MI",
+    "guid": "e1*Um%17_G",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126292,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Minnesota": {
+    "Capital": "St. Paul",
+    "Flag": "<img src=\"1024px-Flag_of_Minnesota.png\">",
+    "Map": "<img src=\"paste-5905580032167.jpg\">",
+    "Name": "Minnesota",
+    "Postal code": "MN",
+    "guid": "jV=q69ukPI",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126294,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Mississippi": {
+    "Capital": "Jackson",
+    "Flag": "<img src=\"Flag_of_Mississippi.svg\">",
+    "Map": "<img src=\"paste-5153960755367.jpg\">",
+    "Name": "Mississippi",
+    "Postal code": "MS",
+    "guid": "cSyF}w7X?t",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126296,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Missouri": {
+    "Capital": "Jefferson City",
+    "Flag": "<img src=\"1024px-Flag_of_Missouri.png\">",
+    "Map": "<img src=\"paste-5682241732775.jpg\" />",
+    "Name": "Missouri",
+    "Postal code": "MO",
+    "guid": "u-Y:ii$>HG",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126301,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Montana": {
+    "Capital": "Helena",
+    "Flag": "<img src=\"800px-Flag_of_Montana.png\">",
+    "Map": "<img src=\"paste-6562710028455.jpg\">",
+    "Name": "Montana",
+    "Postal code": "MT",
+    "guid": "kOm8u;j>z}",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126304,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Nebraska": {
+    "Capital": "Lincoln",
+    "Flag": "<img src=\"1024px-Flag_of_Nebraska.png\">",
+    "Map": "<img src=\"paste-6120328396967.jpg\" />",
+    "Name": "Nebraska",
+    "Postal code": "NE",
+    "guid": "qB8uou?R>",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126305,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Nevada": {
+    "Capital": "Carson City",
+    "Flag": "<img src=\"Flag_of_Nevada.png\">",
+    "Map": "<img src=\"paste-6588479832231.jpg\" />",
+    "Name": "Nevada",
+    "Postal code": "NV",
+    "guid": "oIl@TZn8Vw",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126307,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "New Hampshire": {
+    "Capital": "Concord",
+    "Flag": "<img src=\"800px-Flag_of_New_Hampshire.png\">",
+    "Map": "<img src=\"paste-4612794876071.jpg\" />",
+    "Name": "New Hampshire",
+    "Postal code": "NH",
+    "guid": "b1>Lh;l]0t",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126309,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "New Jersey": {
+    "Capital": "Trenton",
+    "Flag": "<img src=\"1024px-Flag_of_New_Jersey.png\">",
+    "Map": "<img src=\"paste-4170413244583.jpg\" />",
+    "Name": "New Jersey",
+    "Postal code": "NJ",
+    "guid": "e}O{8Z`Wx+",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126311,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "New Mexico": {
+    "Capital": "Santa Fe",
+    "Flag": "<img src=\"800px-Flag_of_New_Mexico.png\">",
+    "Map": "<img src=\"paste-6365141532839.jpg\" />",
+    "Name": "New Mexico",
+    "Postal code": "NM",
+    "guid": "lLh(&5KQiS",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126312,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "New York": {
+    "Capital": "Albany",
+    "Flag": "<img src=\"1280px-Flag_of_New_York.png\">",
+    "Map": "<img src=\"paste-4900557684903.jpg\" />",
+    "Name": "New York",
+    "Postal code": "NY",
+    "guid": "k`/7Yek0l/",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126313,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "North Carolina": {
+    "Capital": "Raleigh",
+    "Flag": "<img src=\"paste-9d77ef7ffb28906db12dc58655c9d1da10f92c80.jpg\">",
+    "Map": "<img src=\"paste-3633542332583.jpg\" />",
+    "Name": "North Carolina",
+    "Postal code": "NC",
+    "guid": "c]6:J6dcuQ",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126316,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "North Dakota": {
+    "Capital": "Bismarck",
+    "Flag": "<img class=\"\" src=\"800px-Flag_of_North_Dakota.png\">",
+    "Map": "<img src=\"paste-6163278069927.jpg\" />",
+    "Name": "North Dakota",
+    "Postal code": "ND",
+    "guid": "d-;Pf4p60O",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126318,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   },
   "Northern Mariana Islands": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "Ct,-4O+-3!",
-    "mtime": 1746127706,
-    "Name": "Northern Mariana Islands",
-    "Map": "<img src=\"paste-fd96887ef4bc99a1fc48caa38a6cabda94356b93.png\">",
-    "Flag": "<img src=\"Flag_of_the_Northern_Mariana_Islands.svg.png\">",
     "Capital": "Saipan",
-    "Postal code": "MP"
+    "Flag": "<img src=\"Flag_of_the_Northern_Mariana_Islands.svg.png\">",
+    "Map": "<img src=\"paste-fd96887ef4bc99a1fc48caa38a6cabda94356b93.png\">",
+    "Name": "Northern Mariana Islands",
+    "Postal code": "MP",
+    "guid": "Ct,-4O+-3!",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746127706,
+    "tags": []
+  },
+  "Ohio": {
+    "Capital": "Columbus",
+    "Flag": "<img src=\"1024px-Flag_of_Ohio.png\">",
+    "Map": "<img src=\"paste-5080946311335.jpg\" />",
+    "Name": "Ohio",
+    "Postal code": "OH",
+    "guid": "tiNDdL?nBZ",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126319,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Oklahoma": {
+    "Capital": "Oklahoma City",
+    "Flag": "<img src=\"800px-Flag_of_Oklahoma.png\">",
+    "Map": "<img src=\"paste-6077378724007.jpg\" />",
+    "Name": "Oklahoma",
+    "Postal code": "OK",
+    "guid": "eBoun.e_i$",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126321,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Oregon": {
+    "Capital": "Salem",
+    "Flag": "<img src=\"1024px-Flag_of_Oregon.png\">",
+    "Map": "<img src=\"paste-6841882902695.jpg\">",
+    "Name": "Oregon",
+    "Postal code": "OR",
+    "guid": "u@U3nC<gA6",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126323,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Pennsylvania": {
+    "Capital": "Harrisburg",
+    "Flag": "<img src=\"800px-Flag_of_Pennsylvania.png\">",
+    "Map": "<img src=\"paste-4879082848423.jpg\" />",
+    "Name": "Pennsylvania",
+    "Postal code": "PA",
+    "guid": "h#ad8;Lomt",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126325,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   },
   "Puerto Rico": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "v=g|}|/m*M",
-    "mtime": 1746127744,
-    "Name": "Puerto Rico",
-    "Map": "<img src=\"paste-06dede24ded53da61e51122094a038a3a48d6bad.png\">",
-    "Flag": "<img src=\"Flag_of_Puerto_Rico.svg.png\">",
     "Capital": "San Juan",
-    "Postal code": "PR"
+    "Flag": "<img src=\"Flag_of_Puerto_Rico.svg.png\">",
+    "Map": "<img src=\"paste-06dede24ded53da61e51122094a038a3a48d6bad.png\">",
+    "Name": "Puerto Rico",
+    "Postal code": "PR",
+    "guid": "v=g|}|/m*M",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746127744,
+    "tags": []
+  },
+  "Rhode Island": {
+    "Capital": "Providence",
+    "Flag": "<img src=\"paste-d96ffd77217850c7b7f468c214424601fb6c4853.jpg\">",
+    "Map": "<img src=\"paste-4561255268519.jpg\" />",
+    "Name": "Rhode Island",
+    "Postal code": "RI",
+    "guid": "p/}wg-@`,Z",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126326,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "South Carolina": {
+    "Capital": "Columbia",
+    "Flag": "<img src=\"800px-Flag_of_South_Carolina.png\">",
+    "Map": "<img src=\"paste-3388729196711.jpg\" />",
+    "Name": "South Carolina",
+    "Postal code": "SC",
+    "guid": "vNr(e13yOQ",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126328,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "South Dakota": {
+    "Capital": "Pierre",
+    "Flag": "<img src=\"Flag_of_South_Dakota.png\">",
+    "Map": "<img src=\"paste-6141803233447.jpg\" />",
+    "Name": "South Dakota",
+    "Postal code": "SD",
+    "guid": "srikjC:pS1",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126329,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Tennessee": {
+    "Capital": "Nashville",
+    "Flag": "<img src=\"1024px-Flag_of_Tennessee.png\">",
+    "Map": "<img src=\"paste-5175435591847.jpg\" />",
+    "Name": "Tennessee",
+    "Postal code": "TN",
+    "guid": "b$a_)L+QAV",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126331,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Texas": {
+    "Capital": "Austin",
+    "Flag": "<img src=\"800px-Flag_of_Texas.png\">",
+    "Map": "<img src=\"paste-6055903887527.jpg\">",
+    "Name": "Texas",
+    "Postal code": "TX",
+    "guid": "cDUV;e3Jy<",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126333,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   },
   "U.S. Virgin Islands": {
-    "model_name": "TriviAnki-UG-USA",
-    "guid": "OdC`Q8/~E5",
-    "mtime": 1746127779,
-    "Name": "U.S. Virgin Islands",
-    "Map": "<img src=\"paste-106ad4f2fbcf2ba18e7bc0793240181c3e92008f.png\">",
-    "Flag": "<img src=\"Flag_of_the_United_States_Virgin_Islands.svg.png\">",
     "Capital": "Charlotte Amalie",
-    "Postal code": "VI"
+    "Flag": "<img src=\"Flag_of_the_United_States_Virgin_Islands.svg.png\">",
+    "Map": "<img src=\"paste-106ad4f2fbcf2ba18e7bc0793240181c3e92008f.png\">",
+    "Name": "U.S. Virgin Islands",
+    "Postal code": "VI",
+    "guid": "OdC`Q8/~E5",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746127779,
+    "tags": []
+  },
+  "Utah": {
+    "Capital": "Salt Lake City",
+    "Flag": "<img src=\"Flag_of_Utah.svg\">",
+    "Map": "<img src=\"paste-7357278978215.jpg\">",
+    "Name": "Utah",
+    "Postal code": "UT",
+    "guid": "t%<&j>8+zf",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126336,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Vermont": {
+    "Capital": "Montpelier",
+    "Flag": "<img src=\"1024px-Flag_of_Vermont.png\">",
+    "Map": "<img src=\"paste-4655744549031.jpg\">",
+    "Name": "Vermont",
+    "Postal code": "VT",
+    "guid": "ttnuC99Bd%",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126338,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Virginia": {
+    "Capital": "Richmond",
+    "Flag": "<img src=\"800px-Flag_of_Virginia.png\">",
+    "Map": "<img src=\"paste-76da6ed04083fc0afa55cc80f120528fa4a17ef7.jpg\">",
+    "Name": "Virginia",
+    "Postal code": "VA",
+    "guid": "q[ITIxh/#[",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126339,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Washington": {
+    "Capital": "Olympia",
+    "Flag": "<img src=\"1024px-Flag_of_Washington.png\">",
+    "Map": "<img src=\"paste-6996501725351.jpg\">",
+    "Name": "Washington",
+    "Postal code": "WA",
+    "guid": "rndh~S<hR%",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746190140,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "West Virginia": {
+    "Capital": "Charleston",
+    "Flag": "<img src=\"1024px-Flag_of_West_Virginia.png\">",
+    "Map": "<img src=\"paste-4677219385511.jpg\" />",
+    "Name": "West Virginia",
+    "Postal code": "WV",
+    "guid": "oKT7AxiLzU",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126342,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Wisconsin": {
+    "Capital": "Madison",
+    "Flag": "<img src=\"Flag_of_Wisconsin.png\">",
+    "Map": "<img src=\"paste-5617817223335.jpg\" />",
+    "Name": "Wisconsin",
+    "Postal code": "WI",
+    "guid": "b{kSe^swA(",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126343,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Wyoming": {
+    "Capital": "Cheyenne",
+    "Flag": "<img src=\"800px-Flag_of_Wyoming.png\">",
+    "Map": "<img src=\"paste-6532645257383.jpg\" />",
+    "Name": "Wyoming",
+    "Postal code": "WY",
+    "guid": "#H*z7l>9G",
+    "model_name": "TriviAnki-UG-USA",
+    "mtime": 1746126345,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::USA",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   }
 }

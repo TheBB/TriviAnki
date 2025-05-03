@@ -1,152 +1,242 @@
 {
   "Bavaria": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "nZ<NZ{m&%l",
-    "mtime": 1723753382,
-    "German State": "Bavaria",
     "Capital": "Munich",
-    "Map": "<img src=\"paste-00df8f05bdd68c29eff82cab2108ca2858a163c8.jpg\">",
     "Coat of Arms": "<img src=\"Bayern_Wappen.png\">",
-    "Flag": "<img src=\"paste-85f0bfe5d6315ac433d7ce1933ddc4dd7c3b5494.jpg\"><br>"
+    "Flag": "<img src=\"paste-85f0bfe5d6315ac433d7ce1933ddc4dd7c3b5494.jpg\"><br>",
+    "German State": "Bavaria",
+    "Map": "<img src=\"paste-00df8f05bdd68c29eff82cab2108ca2858a163c8.jpg\">",
+    "guid": "nZ<NZ{m&%l",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Berlin": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "d6F;24@]]s",
-    "mtime": 1723753382,
-    "German State": "Berlin",
     "Capital": "Berlin",
-    "Map": "<img src=\"paste-5f8ef03b73ee7b6e6a1172a2c9bfc1f7a7566692.jpg\">",
     "Coat of Arms": "<img src=\"Berlin_Wappen.png\" />",
-    "Flag": "<img src=\"Berlin_Landesflagge.png\" />"
+    "Flag": "<img src=\"Berlin_Landesflagge.png\" />",
+    "German State": "Berlin",
+    "Map": "<img src=\"paste-5f8ef03b73ee7b6e6a1172a2c9bfc1f7a7566692.jpg\">",
+    "guid": "d6F;24@]]s",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Brandenburg": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "KpUe.P^8.W",
-    "mtime": 1723753382,
-    "German State": "Brandenburg",
     "Capital": "Potsdam",
-    "Map": "<img src=\"paste-c507f461c194baab6e0ad59987c58ff147d0271e.jpg\">",
     "Coat of Arms": "<img src=\"Brandenburg_Wappen.png\" />",
-    "Flag": "<img src=\"Brandenburg_Landesflagge (1).png\" />"
+    "Flag": "<img src=\"Brandenburg_Landesflagge (1).png\" />",
+    "German State": "Brandenburg",
+    "Map": "<img src=\"paste-c507f461c194baab6e0ad59987c58ff147d0271e.jpg\">",
+    "guid": "KpUe.P^8.W",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Bremen": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "gZXCPB|Nyk",
-    "mtime": 1743852389,
-    "German State": "Bremen",
     "Capital": "Bremen",
-    "Map": "<img src=\"paste-c7e60ebe78e25fa73503d7d40a43979a114ea1ca.jpg\">",
     "Coat of Arms": "<img src=\"Bremen_Wappen.png\" />",
-    "Flag": "<img src=\"Bremen_Landesflagge (1).png\">"
+    "Flag": "<img src=\"Bremen_Landesflagge (1).png\">",
+    "German State": "Bremen",
+    "Map": "<img src=\"paste-c7e60ebe78e25fa73503d7d40a43979a114ea1ca.jpg\">",
+    "guid": "gZXCPB|Nyk",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1743852389,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Hamburg": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "wJ_b/zGGC#",
-    "mtime": 1723753382,
-    "German State": "Hamburg",
     "Capital": "Hamburg",
-    "Map": "<img src=\"paste-69087ba59fb37625d5c6faa6c479598f6f976fcd.jpg\">",
     "Coat of Arms": "<img src=\"Hamburg_Wappen.png\" />",
-    "Flag": "<img src=\"Hamburg_Landesflagge.png\" />"
+    "Flag": "<img src=\"Hamburg_Landesflagge.png\" />",
+    "German State": "Hamburg",
+    "Map": "<img src=\"paste-69087ba59fb37625d5c6faa6c479598f6f976fcd.jpg\">",
+    "guid": "wJ_b/zGGC#",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Hesse": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "sL#f.Ls6y2",
-    "mtime": 1743852377,
-    "German State": "Hesse",
     "Capital": "Wiesbaden",
-    "Map": "<img src=\"paste-a7cc5f41598d4470fec1eda5a858a24730ffee1d.jpg\">",
     "Coat of Arms": "<img src=\"Hessen_Wappen.png\" />",
-    "Flag": "<img src=\"Hessen_Landesflagge (1).png\">"
-  },
-  "Mecklenburg-Western Pomerania": {
+    "Flag": "<img src=\"Hessen_Landesflagge (1).png\">",
+    "German State": "Hesse",
+    "Map": "<img src=\"paste-a7cc5f41598d4470fec1eda5a858a24730ffee1d.jpg\">",
+    "guid": "sL#f.Ls6y2",
     "model_name": "TriviAnki-UG-Germany",
-    "guid": "o!{$Q3Ks5F",
-    "mtime": 1743852383,
-    "German State": "Mecklenburg-Western Pomerania",
-    "Capital": "Schwerin",
-    "Map": "<img src=\"paste-38923d9a91be73b9db977b358f08794bb5f37364.jpg\">",
-    "Coat of Arms": "<img src=\"Mecklenburg-Vorpommern_Wappen.png\" />",
-    "Flag": "<img src=\"Mecklenburg-Vorpommern_Landesflagge.png\">"
+    "mtime": 1743852377,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Lower Saxony": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "Ct7c`@CyI]",
-    "mtime": 1743852385,
-    "German State": "Lower Saxony",
     "Capital": "Hannover",
-    "Map": "<img src=\"paste-066276ef6632a6eabbf1fecf61dc6a4949364589.jpg\">",
     "Coat of Arms": "<img src=\"Niedersachsen_Wappen.png\" />",
-    "Flag": "<img src=\"Niedersachsen_Landesflagge.png\">"
+    "Flag": "<img src=\"Niedersachsen_Landesflagge.png\">",
+    "German State": "Lower Saxony",
+    "Map": "<img src=\"paste-066276ef6632a6eabbf1fecf61dc6a4949364589.jpg\">",
+    "guid": "Ct7c`@CyI]",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1743852385,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
+  },
+  "Mecklenburg-Western Pomerania": {
+    "Capital": "Schwerin",
+    "Coat of Arms": "<img src=\"Mecklenburg-Vorpommern_Wappen.png\" />",
+    "Flag": "<img src=\"Mecklenburg-Vorpommern_Landesflagge.png\">",
+    "German State": "Mecklenburg-Western Pomerania",
+    "Map": "<img src=\"paste-38923d9a91be73b9db977b358f08794bb5f37364.jpg\">",
+    "guid": "o!{$Q3Ks5F",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1743852383,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "North Rhine-Westphalia": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "FG8bAzhE*f",
-    "mtime": 1723753382,
-    "German State": "North Rhine-Westphalia",
     "Capital": "D\u00fcsseldorf",
-    "Map": "<img src=\"paste-18cd00c2416f2ca5d172cf1a825352b13eaa9736.jpg\">",
     "Coat of Arms": "<img src=\"Nordrhein-Westfalen_Wappen.png\" />",
-    "Flag": "<img src=\"Nordrhein-Westfalen_Landesflagge.png\" />"
+    "Flag": "<img src=\"Nordrhein-Westfalen_Landesflagge.png\" />",
+    "German State": "North Rhine-Westphalia",
+    "Map": "<img src=\"paste-18cd00c2416f2ca5d172cf1a825352b13eaa9736.jpg\">",
+    "guid": "FG8bAzhE*f",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Rheinland&nbsp;Palatinate": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "A[W58,_FF,",
-    "mtime": 1743626214,
-    "German State": "Rheinland&nbsp;Palatinate",
     "Capital": "Mainz",
-    "Map": "<img src=\"paste-57432308a0d8504972112366a022ad06c0c00c20.jpg\">",
     "Coat of Arms": "<img src=\"Rheinland-Pfalz_Wappen.png\" />",
-    "Flag": "<img src=\"Rheinland-Pfalz_Landesflagge.png\">"
+    "Flag": "<img src=\"Rheinland-Pfalz_Landesflagge.png\">",
+    "German State": "Rheinland&nbsp;Palatinate",
+    "Map": "<img src=\"paste-57432308a0d8504972112366a022ad06c0c00c20.jpg\">",
+    "guid": "A[W58,_FF,",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1743626214,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Saarland": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "ej<P3.P#T!",
-    "mtime": 1723753382,
-    "German State": "Saarland",
     "Capital": "Saarbr\u00fccken",
-    "Map": "<img src=\"paste-96c3eaf4a107ad9f8e3b91a35ff003163c5dfe08.jpg\">",
     "Coat of Arms": "<img src=\"Saarland_Wappen.png\" />",
-    "Flag": "<img src=\"Saarland_Landesflagge.png\" />"
+    "Flag": "<img src=\"Saarland_Landesflagge.png\" />",
+    "German State": "Saarland",
+    "Map": "<img src=\"paste-96c3eaf4a107ad9f8e3b91a35ff003163c5dfe08.jpg\">",
+    "guid": "ej<P3.P#T!",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Saxony": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "v&=d$55YV~",
-    "mtime": 1723753382,
-    "German State": "Saxony",
     "Capital": "Dresden",
-    "Map": "<img src=\"paste-28f66f4043aee46d12c7fec40f25c122e9d1f960.jpg\">",
     "Coat of Arms": "<img src=\"Sachsen_Wappen.png\" />",
-    "Flag": "<img src=\"Sachsen_Landesflagge (1).png\" />"
+    "Flag": "<img src=\"Sachsen_Landesflagge (1).png\" />",
+    "German State": "Saxony",
+    "Map": "<img src=\"paste-28f66f4043aee46d12c7fec40f25c122e9d1f960.jpg\">",
+    "guid": "v&=d$55YV~",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Saxony-Anhalt": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "doo}NN7[6V",
-    "mtime": 1723753382,
-    "German State": "Saxony-Anhalt",
     "Capital": "Magdeburg",
-    "Map": "<img src=\"paste-0c6fe0c496f4643385ec5d930d6024e70e196b40.jpg\">",
     "Coat of Arms": "<img src=\"Sachsen-Anhalt_Wappen.png\" />",
-    "Flag": "<img src=\"Sachsen-Anhalt_Landesflagge.png\" />"
+    "Flag": "<img src=\"Sachsen-Anhalt_Landesflagge.png\" />",
+    "German State": "Saxony-Anhalt",
+    "Map": "<img src=\"paste-0c6fe0c496f4643385ec5d930d6024e70e196b40.jpg\">",
+    "guid": "doo}NN7[6V",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Schleswig-Holstein": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "v(6vTyOmD>",
-    "mtime": 1723753382,
-    "German State": "Schleswig-Holstein",
     "Capital": "Kiel",
-    "Map": "<img src=\"paste-1d7a49dcdc2453e65ce38f615f2e924cb22735ba.jpg\">",
     "Coat of Arms": "<img src=\"Schleswig-Holstein_Wappen.png\" />",
-    "Flag": "<img src=\"Schleswig-Holstein_Landesflagge.png\" />"
+    "Flag": "<img src=\"Schleswig-Holstein_Landesflagge.png\" />",
+    "German State": "Schleswig-Holstein",
+    "Map": "<img src=\"paste-1d7a49dcdc2453e65ce38f615f2e924cb22735ba.jpg\">",
+    "guid": "v(6vTyOmD>",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   },
   "Thuringia": {
-    "model_name": "TriviAnki-UG-Germany",
-    "guid": "cMkDiM1-Cl",
-    "mtime": 1723753382,
-    "German State": "Thuringia",
     "Capital": "Erfurt",
-    "Map": "<img src=\"paste-5594da60effb9b39d0b071f76b24a6a9ce66fc37.jpg\">",
     "Coat of Arms": "<img src=\"Th\u00fcringen_Wappen.png\" />",
-    "Flag": "<img src=\"Th\u00fcringen_Landesflagge (1).png\">"
+    "Flag": "<img src=\"Th\u00fcringen_Landesflagge (1).png\">",
+    "German State": "Thuringia",
+    "Map": "<img src=\"paste-5594da60effb9b39d0b071f76b24a6a9ce66fc37.jpg\">",
+    "guid": "cMkDiM1-Cl",
+    "model_name": "TriviAnki-UG-Germany",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::GermanStates",
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Germany"
+    ]
   }
 }

@@ -1,230 +1,230 @@
 {
-    "id": 1552818477320,
-    "name": "TriviAnki-UG-Country",
-    "type": 0,
-    "mod": 1746126771,
-    "usn": 0,
-    "sortf": 0,
-    "did": 1554829697915,
-    "tmpls": [
-        {
-            "name": "Country - Capital",
-            "ord": 0,
-            "qfmt": "{{#Capital}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>Capital of <span class=\"highlight\">{{Country}}?</span></div>\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n</div>\n\n</div>\n{{/Capital}}",
-            "afmt": "{{#Capital}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>Capital of <span class=\"highlight\">{{Country}}?</span></div>\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n  <hr id=\"answer\">\n  <div>{{Capital}}</div>\n  {{#Capital info}}<div class=\"supplement\">{{Capital info}}</div>{{/Capital info}}\n  {{Map}}\n</div>\n\n</div>\n{{/Capital}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Capital - Country",
-            "ord": 1,
-            "qfmt": "{{#Capital}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div><span class=\"highlight\">{{Capital}}</span> is the capital of?</div>\n  {{#Capital hint}}<div class=\"supplement\">{{Capital hint}}</div>{{/Capital hint}}\n</div>\n\n</div>\n{{/Capital}}",
-            "afmt": "{{#Capital}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div><span class=\"highlight\">{{Capital}}</span> is the capital of?</div>\n  {{#Capital hint}}<div class=\"supplement\">{{Capital hint}}</div>{{/Capital hint}}\n  <hr id=\"answer\">\n  <div>{{Country}}</div>\n  {{#Capital info}}<div class=\"supplement\">{{Capital info}}</div>{{/Capital info}}\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n  {{Map}}\n</div>\n\n</div>\n{{/Capital}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Flag - Country",
-            "ord": 2,
-            "qfmt": "{{#Flag}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Flag of</div>\n    {{Flag}}\n  </div>\n</div>\n\n</div>\n{{/Flag}}",
-            "afmt": "{{#Flag}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>  \n  <div class=\"imgblock\">\n    <div class=\"question\">Flag of</div>\n    {{Flag}}\n  </div>\n  <hr id=\"answer\">\n  <div>{{Country}}</div>\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n  {{#Flag similarity}}<div class=\"supplement\">{{Flag similarity}}</div>{{/Flag similarity}}\n</div>\n\n</div>\n{{/Flag}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Map - Country",
-            "ord": 3,
-            "qfmt": "{{#Map}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n</div>\n\n</div>\n{{/Map}}",
-            "afmt": "{{#Map}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n  <hr id=\"answer\">\n  <div>{{Country}}</div>\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n</div>\n\n</div>\n{{/Map}}",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        }
+  "crowdanki_uuid": "43e2586a-9a65-11e8-a777-a0481cc15658",
+  "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
+  "did": 1554829697915,
+  "flds": [
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Country",
+      "ord": 0,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Country info",
+      "ord": 1,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Capital",
+      "ord": 2,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Capital info",
+      "ord": 3,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Capital hint",
+      "ord": 4,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Flag",
+      "ord": 5,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Flag similarity",
+      "ord": 6,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Map",
+      "ord": 7,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    }
+  ],
+  "id": 1552818477320,
+  "latexPost": "\\end{document}",
+  "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+  "latexsvg": false,
+  "mod": 1746126771,
+  "name": "TriviAnki-UG-Country",
+  "originalId": 1552818477320,
+  "req": [
+    [
+      0,
+      "all",
+      [
+        2
+      ]
     ],
-    "flds": [
-        {
-            "name": "Country",
-            "ord": 0,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Country info",
-            "ord": 1,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Capital",
-            "ord": 2,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Capital info",
-            "ord": 3,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Capital hint",
-            "ord": 4,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Flag",
-            "ord": 5,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Flag similarity",
-            "ord": 6,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Map",
-            "ord": 7,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        }
+    [
+      1,
+      "any",
+      [
+        2
+      ]
     ],
-    "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
-    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "latexPost": "\\end{document}",
-    "latexsvg": false,
-    "req": [
-        [
-            0,
-            "all",
-            [
-                2
-            ]
-        ],
-        [
-            1,
-            "any",
-            [
-                2
-            ]
-        ],
-        [
-            2,
-            "any",
-            [
-                5
-            ]
-        ],
-        [
-            3,
-            "any",
-            [
-                7
-            ]
-        ]
+    [
+      2,
+      "any",
+      [
+        5
+      ]
     ],
-    "originalId": 1552818477320,
-    "tags": [
-        "Geography",
-        "UG::Europe"
-    ],
-    "vers": [],
-    "crowdanki_uuid": "43e2586a-9a65-11e8-a777-a0481cc15658"
+    [
+      3,
+      "any",
+      [
+        7
+      ]
+    ]
+  ],
+  "sortf": 0,
+  "tags": [
+    "Geography",
+    "UG::Europe"
+  ],
+  "tmpls": [
+    {
+      "afmt": "{{#Capital}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>Capital of <span class=\"highlight\">{{Country}}?</span></div>\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n  <hr id=\"answer\">\n  <div>{{Capital}}</div>\n  {{#Capital info}}<div class=\"supplement\">{{Capital info}}</div>{{/Capital info}}\n  {{Map}}\n</div>\n\n</div>\n{{/Capital}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Country - Capital",
+      "ord": 0,
+      "qfmt": "{{#Capital}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>Capital of <span class=\"highlight\">{{Country}}?</span></div>\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n</div>\n\n</div>\n{{/Capital}}"
+    },
+    {
+      "afmt": "{{#Capital}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div><span class=\"highlight\">{{Capital}}</span> is the capital of?</div>\n  {{#Capital hint}}<div class=\"supplement\">{{Capital hint}}</div>{{/Capital hint}}\n  <hr id=\"answer\">\n  <div>{{Country}}</div>\n  {{#Capital info}}<div class=\"supplement\">{{Capital info}}</div>{{/Capital info}}\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n  {{Map}}\n</div>\n\n</div>\n{{/Capital}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Capital - Country",
+      "ord": 1,
+      "qfmt": "{{#Capital}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div><span class=\"highlight\">{{Capital}}</span> is the capital of?</div>\n  {{#Capital hint}}<div class=\"supplement\">{{Capital hint}}</div>{{/Capital hint}}\n</div>\n\n</div>\n{{/Capital}}"
+    },
+    {
+      "afmt": "{{#Flag}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>  \n  <div class=\"imgblock\">\n    <div class=\"question\">Flag of</div>\n    {{Flag}}\n  </div>\n  <hr id=\"answer\">\n  <div>{{Country}}</div>\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n  {{#Flag similarity}}<div class=\"supplement\">{{Flag similarity}}</div>{{/Flag similarity}}\n</div>\n\n</div>\n{{/Flag}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Flag - Country",
+      "ord": 2,
+      "qfmt": "{{#Flag}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Flag of</div>\n    {{Flag}}\n  </div>\n</div>\n\n</div>\n{{/Flag}}"
+    },
+    {
+      "afmt": "{{#Map}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n  <hr id=\"answer\">\n  <div>{{Country}}</div>\n  {{#Country info}}<div class=\"supplement\">{{Country info}}</div>{{/Country info}}\n</div>\n\n</div>\n{{/Map}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Map - Country",
+      "ord": 3,
+      "qfmt": "{{#Map}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n</div>\n\n</div>\n{{/Map}}"
+    }
+  ],
+  "type": 0,
+  "usn": 0,
+  "vers": []
 }

@@ -12,15 +12,15 @@ from tempfile import TemporaryDirectory
 from typing import TYPE_CHECKING, Any, Literal, Self, TypeAlias
 
 import click
-from anki.collection import Collection, ExportAnkiPackageOptions, DeckIdLimit
+from anki.collection import Collection, DeckIdLimit, ExportAnkiPackageOptions
 from anki.media import MediaManager
-from anki.models import NotetypeDict
-from pydantic import BaseModel, Field, ValidationError, model_validator, model_serializer
+from pydantic import BaseModel, Field, ValidationError, model_serializer, model_validator
 from tqdm import tqdm
 
 if TYPE_CHECKING:
     from collections.abc import Iterator
 
+    from anki.models import NotetypeDict
     from anki.notes import Note as AnkiNote
 
 
@@ -47,6 +47,7 @@ class NoteBase(BaseModel, ABC):
     model_name: str
     guid: str
     mtime: int
+    tags: list[str]
 
     @classmethod
     def load_all(cls, path: Path) -> dict[str, Self]:
@@ -56,20 +57,23 @@ class NoteBase(BaseModel, ABC):
             return {}
         with filename.open("r") as f:
             data = json.load(f)
-        return {
-            key: cls.model_validate(item) for key, item in data.items()
-        }
+        return {key: cls.model_validate(item) for key, item in data.items()}
 
     @classmethod
     def dump_all(cls, path: Path, notes: dict[str, Self]) -> None:
         filename = path / f"{cls.__name__}.json"
         with filename.open("w") as f:
-            json.dump({key: note.model_dump(by_alias=True) for key, note in notes.items()}, f, indent=2)
+            json.dump(
+                {key: note.model_dump(by_alias=True) for key, note in notes.items()},
+                f,
+                indent=2,
+                sort_keys=True,
+            )
 
     @classmethod
     def field_names(cls) -> Iterator[str]:
         for field in cls.model_fields:
-            if field not in {"model_name", "guid", "mtime"}:
+            if field not in NoteBase.model_fields:
                 yield field
 
     def files(self) -> Iterator[str]:
@@ -79,15 +83,16 @@ class NoteBase(BaseModel, ABC):
 
     def update_anki_note(self, anki_note: AnkiNote) -> None:
         for key, value in self.model_dump(by_alias=True).items():
-            if key in {"model_name", "guid", "mtime"}:
+            if key in {"model_name", "guid", "mtime", "tags"}:
                 continue
             anki_note[key] = value
         anki_note.guid = self.guid
+        for tag in self.tags:
+            anki_note.add_tag(tag)
 
     @property
     @abstractmethod
-    def uid(self) -> str:
-        ...
+    def uid(self) -> str: ...
 
 
 class UsSubdiv(NoteBase):
@@ -307,11 +312,12 @@ class List(NoteBase):
             "model_name": self.model_name,
             "guid": self.guid,
             "mtime": self.mtime,
+            "tags": self.tags,
             "Header": self.header,
             "ItemName": self.item_name,
             "FirstContext": self.first_context,
-            **{f"Item{i+1}": item for i, item in enumerate(self.items)},
-            **{f"Extra{i+1}": item for i, item in enumerate(self.extra)},
+            **{f"Item{i + 1}": item for i, item in enumerate(self.items)},
+            **{f"Extra{i + 1}": item for i, item in enumerate(self.extra)},
         }
 
     @property
@@ -359,6 +365,7 @@ class NoteLoader(BaseModel):
                         "model_name": model["name"],
                         "guid": note.guid,
                         "mtime": note.mod,
+                        "tags": note.tags,
                         **dict(note),
                     },
                 }
@@ -400,14 +407,18 @@ class Database(BaseModel):
         return self.root_path / "models"
 
     def update_model(self, model: NotetypeDict) -> None:
-        filename = self.models_path / f'{model["name"]}.json'
+        filename = self.models_path / f"{model['name']}.json"
         with filename.open("w") as f:
-            json.dump(model, f, indent=4)
+            json.dump(model, f, indent=2, sort_keys=True)
 
     def get_model(self, name: str) -> NotetypeDict:
-        filename = self.models_path / f'{name}.json'
+        filename = self.models_path / f"{name}.json"
         with filename.open("r") as f:
             return json.load(f)
+
+    def models(self) -> Iterator[NotetypeDict]:
+        for filename in self.models_path.iterdir():
+            yield self.get_model(filename.with_suffix("").name)
 
     def insert_note(self, anki_note: AnkiNote) -> None:
         note = NoteLoader.from_anki(anki_note)
@@ -614,9 +625,7 @@ def clean() -> None:
 
 @main.command("build")
 @click.option("--with-media/--without-media", "with_media", default=True)
-@click.argument(
-    "output_path", type=click.Path(file_okay=True, dir_okay=False, path_type=Path)
-)
+@click.argument("output_path", type=click.Path(file_okay=True, dir_okay=False, path_type=Path))
 def build(output_path: Path, with_media: bool) -> None:
     with TemporaryDirectory() as path_str, Database.enter(Path()) as db:
         path = Path(path_str)
@@ -652,10 +661,13 @@ def build(output_path: Path, with_media: bool) -> None:
         connection = sqlite3.connect(str(collection_path(path)))
         for note in tqdm(db.notes(), desc="Updating modification timestamps", total=db.note_count()):
             connection.execute("UPDATE notes SET mod = ? WHERE guid = ?", (note.mtime, note.guid))
+        for model in db.models():
+            connection.execute(
+                "UPDATE notetypes SET mtime_secs = ? WHERE id = ?",
+                (model["mod"], model["id"]),
+            )
         connection.commit()
         connection.close()
-
-        shutil.copy(str(collection_path(path)), "test.col")
 
         with collection(Path(path_str)) as col:
             # Check database integrity

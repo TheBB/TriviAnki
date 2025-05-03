@@ -1,158 +1,206 @@
 {
   "Alberta": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "eP}~gvaYp`",
-    "mtime": 1746126531,
-    "Territory": "Alberta",
-    "Capital": "Edmonton",
-    "Map": "<img src=\"paste-ee95aee86858fde91984a701c142db638b544109.jpg\">",
-    "Extra Map": "",
     "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Alberta (1).png\">",
+    "Capital": "Edmonton",
     "Extra": "ALberta has the ALpine flag",
-    "Spare": ""
+    "Extra Map": "",
+    "Flag": "<img src=\"Alberta (1).png\">",
+    "Map": "<img src=\"paste-ee95aee86858fde91984a701c142db638b544109.jpg\">",
+    "Spare": "",
+    "Territory": "Alberta",
+    "guid": "eP}~gvaYp`",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126531,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
   },
   "British Columbia": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "j!eO<lVnHo",
-    "mtime": 1746126537,
-    "Territory": "British Columbia",
-    "Capital": "Victoria",
-    "Map": "<img src=\"paste-dddab47768a98c7e60641bb89617998765424559.jpg\">",
-    "Extra Map": "",
     "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"British Columbia (1).png\" />",
+    "Capital": "Victoria",
     "Extra": "(Canadian Province)",
-    "Spare": ""
+    "Extra Map": "",
+    "Flag": "<img src=\"British Columbia (1).png\" />",
+    "Map": "<img src=\"paste-dddab47768a98c7e60641bb89617998765424559.jpg\">",
+    "Spare": "",
+    "Territory": "British Columbia",
+    "guid": "j!eO<lVnHo",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126537,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
   },
   "Manitoba": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "qCNdW||:*k",
-    "mtime": 1746126551,
-    "Territory": "Manitoba",
-    "Capital": "Winnipeg",
-    "Map": "<img src=\"paste-58b78f2dc960d64fece2ebdeeb730194964cdea8.jpg\">",
-    "Extra Map": "",
     "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Manitoba (1).png\">",
+    "Capital": "Winnipeg",
     "Extra": "",
-    "Spare": ""
+    "Extra Map": "",
+    "Flag": "<img src=\"Manitoba (1).png\">",
+    "Map": "<img src=\"paste-58b78f2dc960d64fece2ebdeeb730194964cdea8.jpg\">",
+    "Spare": "",
+    "Territory": "Manitoba",
+    "guid": "qCNdW||:*k",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126551,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
   },
   "New Brunswick": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "gdkCRJ]pUo",
-    "mtime": 1746126553,
-    "Territory": "New Brunswick",
-    "Capital": "Fredericton",
-    "Map": "<img src=\"paste-20292fd8180b21f7bf51078d915e29d633752da7.jpg\">",
-    "Extra Map": "",
     "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"New Brunswick (1).png\" />",
+    "Capital": "Fredericton",
     "Extra": "",
-    "Spare": ""
+    "Extra Map": "",
+    "Flag": "<img src=\"New Brunswick (1).png\" />",
+    "Map": "<img src=\"paste-20292fd8180b21f7bf51078d915e29d633752da7.jpg\">",
+    "Spare": "",
+    "Territory": "New Brunswick",
+    "guid": "gdkCRJ]pUo",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126553,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
   },
   "Newfoundland and Labrador": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "vau5Icj-lV",
-    "mtime": 1746126556,
-    "Territory": "Newfoundland and Labrador",
+    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
     "Capital": "St. John's",
-    "Map": "<img src=\"paste-103b9ce6f250a28b6f150e7bdc80a6378c3fdf1b.jpg\">",
-    "Extra Map": "",
-    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Newfoundland and Labrador (1).png\" />",
     "Extra": "Canadian Province",
-    "Spare": ""
-  },
-  "Nova Scotia": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "e/(_FRS<cc",
-    "mtime": 1746126563,
-    "Territory": "Nova Scotia",
-    "Capital": "Halifax",
-    "Map": "<img src=\"paste-bcb4a1cdf305667f098874890c0f385f856a9c5c.jpg\">",
     "Extra Map": "",
-    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Nova Scotia (1).png\" />",
-    "Extra": "",
-    "Spare": ""
-  },
-  "Ontario": {
+    "Flag": "<img src=\"Newfoundland and Labrador (1).png\" />",
+    "Map": "<img src=\"paste-103b9ce6f250a28b6f150e7bdc80a6378c3fdf1b.jpg\">",
+    "Spare": "",
+    "Territory": "Newfoundland and Labrador",
+    "guid": "vau5Icj-lV",
     "model_name": "TriviAnki-UG-Canada",
-    "guid": "m},n>=)<*g",
-    "mtime": 1746126569,
-    "Territory": "Ontario",
-    "Capital": "Toronto",
-    "Map": "<img src=\"paste-39f088f56407e42a6c51c8d05e7bb6fd7c4aea35.jpg\">",
-    "Extra Map": "",
-    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Ontario.png\" />",
-    "Extra": "",
-    "Spare": ""
-  },
-  "Prince Edward Island": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "i-&MH+a]zZ",
-    "mtime": 1746126573,
-    "Territory": "Prince Edward Island",
-    "Capital": "Charlottetown",
-    "Map": "<img src=\"paste-5328e221590a39ad6049c68b208cf2623bc88ff9.jpg\">",
-    "Extra Map": "",
-    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Prince Edward Island (1).png\" />",
-    "Extra": "",
-    "Spare": ""
-  },
-  "Quebec": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "cSG!?a<r[F",
-    "mtime": 1746126575,
-    "Territory": "Quebec",
-    "Capital": "Qu\u00e9bec City",
-    "Map": "<img src=\"paste-2e1d856d1edb64d04f4f3302389a4bded73df89a.jpg\">",
-    "Extra Map": "",
-    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Quebec.png\" />",
-    "Extra": "",
-    "Spare": ""
-  },
-  "Yukon": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "tI$p!nqW?c",
-    "mtime": 1746126583,
-    "Territory": "Yukon",
-    "Capital": "Whitehorse",
-    "Map": "<img src=\"paste-50ee3b2a31c7a7d6cf8425b71bb39407f04797cb.jpg\">",
-    "Extra Map": "",
-    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Yukon (1).png\" />",
-    "Extra": "The dog is looking forward like \"Yukon Ho!\"",
-    "Spare": ""
-  },
-  "Nunavut": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "q(ifViKohG",
-    "mtime": 1746126565,
-    "Territory": "Nunavut",
-    "Capital": "Iqaluit",
-    "Map": "<img src=\"paste-9d9f559413afa6fb3d310c5e8812a71b07cc6d70.jpg\">",
-    "Extra Map": "",
-    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Nunavut (1).png\">",
-    "Extra": "",
-    "Spare": ""
+    "mtime": 1746126556,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
   },
   "Northwest Territories": {
-    "model_name": "TriviAnki-UG-Canada",
-    "guid": "b1#sPI1brc",
-    "mtime": 1746126561,
-    "Territory": "Northwest Territories",
-    "Capital": "Yellowknife",
-    "Map": "<img src=\"paste-c5acfe45eacd7520d90cb8c9a749097ca5e82eb9.jpg\">",
-    "Extra Map": "",
     "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
-    "Flag": "<img src=\"Northwest Territories (1).png\" />",
+    "Capital": "Yellowknife",
     "Extra": "",
-    "Spare": ""
+    "Extra Map": "",
+    "Flag": "<img src=\"Northwest Territories (1).png\" />",
+    "Map": "<img src=\"paste-c5acfe45eacd7520d90cb8c9a749097ca5e82eb9.jpg\">",
+    "Spare": "",
+    "Territory": "Northwest Territories",
+    "guid": "b1#sPI1brc",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126561,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
+  },
+  "Nova Scotia": {
+    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
+    "Capital": "Halifax",
+    "Extra": "",
+    "Extra Map": "",
+    "Flag": "<img src=\"Nova Scotia (1).png\" />",
+    "Map": "<img src=\"paste-bcb4a1cdf305667f098874890c0f385f856a9c5c.jpg\">",
+    "Spare": "",
+    "Territory": "Nova Scotia",
+    "guid": "e/(_FRS<cc",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126563,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
+  },
+  "Nunavut": {
+    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
+    "Capital": "Iqaluit",
+    "Extra": "",
+    "Extra Map": "",
+    "Flag": "<img src=\"Nunavut (1).png\">",
+    "Map": "<img src=\"paste-9d9f559413afa6fb3d310c5e8812a71b07cc6d70.jpg\">",
+    "Spare": "",
+    "Territory": "Nunavut",
+    "guid": "q(ifViKohG",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126565,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
+  },
+  "Ontario": {
+    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
+    "Capital": "Toronto",
+    "Extra": "",
+    "Extra Map": "",
+    "Flag": "<img src=\"Ontario.png\" />",
+    "Map": "<img src=\"paste-39f088f56407e42a6c51c8d05e7bb6fd7c4aea35.jpg\">",
+    "Spare": "",
+    "Territory": "Ontario",
+    "guid": "m},n>=)<*g",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126569,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
+  },
+  "Prince Edward Island": {
+    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
+    "Capital": "Charlottetown",
+    "Extra": "",
+    "Extra Map": "",
+    "Flag": "<img src=\"Prince Edward Island (1).png\" />",
+    "Map": "<img src=\"paste-5328e221590a39ad6049c68b208cf2623bc88ff9.jpg\">",
+    "Spare": "",
+    "Territory": "Prince Edward Island",
+    "guid": "i-&MH+a]zZ",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126573,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
+  },
+  "Quebec": {
+    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
+    "Capital": "Qu\u00e9bec City",
+    "Extra": "",
+    "Extra Map": "",
+    "Flag": "<img src=\"Quebec.png\" />",
+    "Map": "<img src=\"paste-2e1d856d1edb64d04f4f3302389a4bded73df89a.jpg\">",
+    "Spare": "",
+    "Territory": "Quebec",
+    "guid": "cSG!?a<r[F",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126575,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
+  },
+  "Yukon": {
+    "BlankMap": "<img src=\"paste-e8655dabe439301e5069b33438780c72c334cebc.jpg\">",
+    "Capital": "Whitehorse",
+    "Extra": "The dog is looking forward like \"Yukon Ho!\"",
+    "Extra Map": "",
+    "Flag": "<img src=\"Yukon (1).png\" />",
+    "Map": "<img src=\"paste-50ee3b2a31c7a7d6cf8425b71bb39407f04797cb.jpg\">",
+    "Spare": "",
+    "Territory": "Yukon",
+    "guid": "tI$p!nqW?c",
+    "model_name": "TriviAnki-UG-Canada",
+    "mtime": 1746126583,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Canada"
+    ]
   }
 }

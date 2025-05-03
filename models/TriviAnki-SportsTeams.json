@@ -1,319 +1,319 @@
 {
-    "id": 1562185726807,
-    "name": "TriviAnki-SportsTeams",
-    "type": 0,
-    "mod": 1746094487,
-    "usn": 0,
-    "sortf": 0,
-    "did": 1562187181461,
-    "tmpls": [
-        {
-            "name": "Sport",
-            "ord": 0,
-            "qfmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>The <span class=\"highlight\">{{City}} {{Team Name}}</span> play?</div>\n</div>\n\n</div>",
-            "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>The <span class=\"highlight\">{{City}} {{Team Name}}</span> play?</div>\n  <hr id=\"answer\">\n  <div>{{Sport Played}}</div>\n  {{Logo}}\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Team Name",
-            "ord": 1,
-            "qfmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div>The <span class=\"highlight\">{{Sport Played}}</span> team from <span class=\"highlight\">{{City}}</span>?</div>\n</div>\n\n</div>",
-            "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div>The <span class=\"highlight\">{{Sport Played}}</span> team from <span class=\"highlight\">{{City}}</span>?</div>\n  <hr id=\"answer\">\n  <div>The {{City}} {{Team Name}}</div>\n  {{Logo}}\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Logo 1",
-            "ord": 2,
-            "qfmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n\n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo}}\n  </div>\n</div>\n\n</div>",
-            "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n\n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo}}\n  </div>\n\n  <hr id=\"answer\">\n  <div>The {{City}} {{Team Name}}</div>\n  <div class=\"supplement\">{{Sport Played}}</div>\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "City + Sport",
-            "ord": 3,
-            "qfmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div>The <span class=\"highlight\">{{Sport Played}}</span> team <span class=\"highlight\">{{Team Name}}</span> are from?</div>\n</div>\n\n</div>",
-            "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div>The <span class=\"highlight\">{{Sport Played}}</span> team <span class=\"highlight\">{{Team Name}}</span> are from?</div>\n  <hr id=\"answer\">\n  <div>{{City}}</div> \n  {{Logo}}\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Logo 2",
-            "ord": 4,
-            "qfmt": "{{#Logo 2}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo 2}}\n  </div>\n</div>\n\n</div>\n{{/Logo 2}}",
-            "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo 2}}\n  </div>\n  <hr id=\"answer\">\n  <div>The {{City}} {{Team Name}}</div>\n  <div class=\"supplement\">{{Sport Played}}</div>\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Logo 3",
-            "ord": 5,
-            "qfmt": "{{#Logo 3}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo 3}}\n  </div>\n</div>\n\n</div>\n{{/Logo 3}}",
-            "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo 3}}\n  </div>\n  <hr id=\"answer\">\n  <div>The {{City}} {{Team Name}}</div>\n  <div class=\"supplement\">{{Sport Played}}</div>\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "What division?",
-            "ord": 6,
-            "qfmt": "{{#Division}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>The <span class=\"highlight\">{{City}} {{Team Name}}</span> play in what division?</div>\n</div>\n\n</div>\n{{/Division}}",
-            "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>The <span class=\"highlight\">{{City}} {{Team Name}}</span> play in what division?</div>\n  <hr id=\"answer\">\n  <div>{{Division}}</div>\n  {{Logo}}\n</div>\n\n</div>",
-            "bqfmt": "",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        }
+  "crowdanki_uuid": "df921e8f-bd66-11ea-8dad-28565a51d1ae",
+  "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
+  "did": 1562187181461,
+  "flds": [
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Team Name",
+      "ord": 0,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "City",
+      "ord": 1,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Sport Played",
+      "ord": 2,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Logo",
+      "ord": 3,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Logo 2",
+      "ord": 4,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Logo 3",
+      "ord": 5,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Map",
+      "ord": 6,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Division",
+      "ord": 7,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Same Location Teams",
+      "ord": 8,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Spare",
+      "ord": 9,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    }
+  ],
+  "id": 1562185726807,
+  "latexPost": "\\end{document}",
+  "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+  "latexsvg": false,
+  "mod": 1746094487,
+  "name": "TriviAnki-SportsTeams",
+  "originalId": 1562185726807,
+  "req": [
+    [
+      0,
+      "any",
+      [
+        0,
+        1
+      ]
     ],
-    "flds": [
-        {
-            "name": "Team Name",
-            "ord": 0,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "City",
-            "ord": 1,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Sport Played",
-            "ord": 2,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Logo",
-            "ord": 3,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Logo 2",
-            "ord": 4,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Logo 3",
-            "ord": 5,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Map",
-            "ord": 6,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Division",
-            "ord": 7,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Same Location Teams",
-            "ord": 8,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Spare",
-            "ord": 9,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        }
+    [
+      1,
+      "any",
+      [
+        1,
+        2
+      ]
     ],
-    "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
-    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "latexPost": "\\end{document}",
-    "latexsvg": false,
-    "req": [
-        [
-            0,
-            "any",
-            [
-                0,
-                1
-            ]
-        ],
-        [
-            1,
-            "any",
-            [
-                1,
-                2
-            ]
-        ],
-        [
-            2,
-            "any",
-            [
-                3
-            ]
-        ],
-        [
-            3,
-            "any",
-            [
-                0,
-                2
-            ]
-        ],
-        [
-            4,
-            "any",
-            [
-                4
-            ]
-        ],
-        [
-            5,
-            "any",
-            [
-                5
-            ]
-        ],
-        [
-            6,
-            "all",
-            [
-                7
-            ]
-        ]
+    [
+      2,
+      "any",
+      [
+        3
+      ]
     ],
-    "originalId": 1562185726807,
-    "vers": [],
-    "tags": [],
-    "crowdanki_uuid": "df921e8f-bd66-11ea-8dad-28565a51d1ae"
+    [
+      3,
+      "any",
+      [
+        0,
+        2
+      ]
+    ],
+    [
+      4,
+      "any",
+      [
+        4
+      ]
+    ],
+    [
+      5,
+      "any",
+      [
+        5
+      ]
+    ],
+    [
+      6,
+      "all",
+      [
+        7
+      ]
+    ]
+  ],
+  "sortf": 0,
+  "tags": [],
+  "tmpls": [
+    {
+      "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>The <span class=\"highlight\">{{City}} {{Team Name}}</span> play?</div>\n  <hr id=\"answer\">\n  <div>{{Sport Played}}</div>\n  {{Logo}}\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Sport",
+      "ord": 0,
+      "qfmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>The <span class=\"highlight\">{{City}} {{Team Name}}</span> play?</div>\n</div>\n\n</div>"
+    },
+    {
+      "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div>The <span class=\"highlight\">{{Sport Played}}</span> team from <span class=\"highlight\">{{City}}</span>?</div>\n  <hr id=\"answer\">\n  <div>The {{City}} {{Team Name}}</div>\n  {{Logo}}\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Team Name",
+      "ord": 1,
+      "qfmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div>The <span class=\"highlight\">{{Sport Played}}</span> team from <span class=\"highlight\">{{City}}</span>?</div>\n</div>\n\n</div>"
+    },
+    {
+      "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n\n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo}}\n  </div>\n\n  <hr id=\"answer\">\n  <div>The {{City}} {{Team Name}}</div>\n  <div class=\"supplement\">{{Sport Played}}</div>\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Logo 1",
+      "ord": 2,
+      "qfmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n\n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo}}\n  </div>\n</div>\n\n</div>"
+    },
+    {
+      "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div>The <span class=\"highlight\">{{Sport Played}}</span> team <span class=\"highlight\">{{Team Name}}</span> are from?</div>\n  <hr id=\"answer\">\n  <div>{{City}}</div> \n  {{Logo}}\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "City + Sport",
+      "ord": 3,
+      "qfmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div>The <span class=\"highlight\">{{Sport Played}}</span> team <span class=\"highlight\">{{Team Name}}</span> are from?</div>\n</div>\n\n</div>"
+    },
+    {
+      "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo 2}}\n  </div>\n  <hr id=\"answer\">\n  <div>The {{City}} {{Team Name}}</div>\n  <div class=\"supplement\">{{Sport Played}}</div>\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Logo 2",
+      "ord": 4,
+      "qfmt": "{{#Logo 2}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo 2}}\n  </div>\n</div>\n\n</div>\n{{/Logo 2}}"
+    },
+    {
+      "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo 3}}\n  </div>\n  <hr id=\"answer\">\n  <div>The {{City}} {{Team Name}}</div>\n  <div class=\"supplement\">{{Sport Played}}</div>\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Logo 3",
+      "ord": 5,
+      "qfmt": "{{#Logo 3}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div> \n  <div class=\"imgblock\">\n    <div class=\"question\">Logo of</div>\n    {{Logo 3}}\n  </div>\n</div>\n\n</div>\n{{/Logo 3}}"
+    },
+    {
+      "afmt": "<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>The <span class=\"highlight\">{{City}} {{Team Name}}</span> play in what division?</div>\n  <hr id=\"answer\">\n  <div>{{Division}}</div>\n  {{Logo}}\n</div>\n\n</div>",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "What division?",
+      "ord": 6,
+      "qfmt": "{{#Division}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>The <span class=\"highlight\">{{City}} {{Team Name}}</span> play in what division?</div>\n</div>\n\n</div>\n{{/Division}}"
+    }
+  ],
+  "type": 0,
+  "usn": 0,
+  "vers": []
 }

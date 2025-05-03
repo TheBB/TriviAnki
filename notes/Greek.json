@@ -1,310 +1,442 @@
 {
-  "\u0391 ": {
+  "H": {
+    "Back": "Eta (uppercase)",
+    "Front": "H",
+    "guid": "IHm;a%&.1^",
     "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "E#;5b2jxVQ",
     "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
+  },
+  "\u0391 ": {
+    "Back": "Alpha (uppercase)",
     "Front": "\u0391 ",
-    "Back": "Alpha (uppercase)"
+    "guid": "E#;5b2jxVQ",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u0392": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "s81)#F&->.",
-    "mtime": 1723753382,
+    "Back": "Beta (uppercase)",
     "Front": "\u0392",
-    "Back": "Beta (uppercase)"
+    "guid": "s81)#F&->.",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u0393": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "Q3)uO6QLb1",
-    "mtime": 1723753382,
+    "Back": "Gamma (uppercase)",
     "Front": "\u0393",
-    "Back": "Gamma (uppercase)"
+    "guid": "Q3)uO6QLb1",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u0394": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "Nag8VmB5k$",
-    "mtime": 1723753382,
+    "Back": "Delta (uppercase)",
     "Front": "\u0394",
-    "Back": "Delta (uppercase)"
+    "guid": "Nag8VmB5k$",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u0395": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "w(c,gZ/[X`",
-    "mtime": 1723753382,
+    "Back": "Epsilon (uppercase)",
     "Front": "\u0395",
-    "Back": "Epsilon (uppercase)"
+    "guid": "w(c,gZ/[X`",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u0396": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "hC:s![~d3l",
-    "mtime": 1723753382,
+    "Back": "Zeta (uppercase)",
     "Front": "\u0396",
-    "Back": "Zeta (uppercase)"
-  },
-  "H": {
+    "guid": "hC:s![~d3l",
     "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "IHm;a%&.1^",
     "mtime": 1723753382,
-    "Front": "H",
-    "Back": "Eta (uppercase)"
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u0398": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "gi}]>*`gv/",
-    "mtime": 1723753382,
+    "Back": "Theta (uppercase)",
     "Front": "\u0398",
-    "Back": "Theta (uppercase)"
+    "guid": "gi}]>*`gv/",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u0399": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "oPcc]Zh,zg",
-    "mtime": 1723753382,
+    "Back": "Iota (uppercase)",
     "Front": "\u0399",
-    "Back": "Iota (uppercase)"
+    "guid": "oPcc]Zh,zg",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u039a": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "nz7j!5!B3=",
-    "mtime": 1723753382,
+    "Back": "Kappa (uppercase)",
     "Front": "\u039a",
-    "Back": "Kappa (uppercase)"
+    "guid": "nz7j!5!B3=",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u039b": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "spvPl^,F_N",
-    "mtime": 1723753382,
+    "Back": "Lambda (uppercase)",
     "Front": "\u039b",
-    "Back": "Lambda (uppercase)"
+    "guid": "spvPl^,F_N",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u039c": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "gQQUtXh(|o",
-    "mtime": 1723753382,
+    "Back": "Mu (uppercase)",
     "Front": "\u039c",
-    "Back": "Mu (uppercase)"
+    "guid": "gQQUtXh(|o",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u039d": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "yn=vQcESZ3",
-    "mtime": 1723753382,
+    "Back": "Nu (uppercase)",
     "Front": "\u039d",
-    "Back": "Nu (uppercase)"
+    "guid": "yn=vQcESZ3",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u039e": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "M#`hBA8!@A",
-    "mtime": 1723753382,
+    "Back": "Xi (uppercase)",
     "Front": "\u039e",
-    "Back": "Xi (uppercase)"
+    "guid": "M#`hBA8!@A",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u039f": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "wS@,[|Tr:",
-    "mtime": 1723753382,
+    "Back": "Omicron (uppercase)",
     "Front": "\u039f",
-    "Back": "Omicron (uppercase)"
+    "guid": "wS@,[|Tr:",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a0": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "o<MYw<JQLv",
-    "mtime": 1723753382,
+    "Back": "PI (uppercase)",
     "Front": "\u03a0",
-    "Back": "PI (uppercase)"
+    "guid": "o<MYw<JQLv",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a1": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "u9bpUlN?s#",
-    "mtime": 1723753382,
+    "Back": "Rho (uppercase)",
     "Front": "\u03a1",
-    "Back": "Rho (uppercase)"
+    "guid": "u9bpUlN?s#",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a3": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "oyZQ*e>A`6",
-    "mtime": 1723753382,
+    "Back": "Sigma (uppercase)",
     "Front": "\u03a3",
-    "Back": "Sigma (uppercase)"
+    "guid": "oyZQ*e>A`6",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a4": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "i*]UIENiG6",
-    "mtime": 1723753382,
+    "Back": "Tau (uppercase)",
     "Front": "\u03a4",
-    "Back": "Tau (uppercase)"
+    "guid": "i*]UIENiG6",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a5": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "b]]:Uvk<cT",
-    "mtime": 1737638865,
+    "Back": "Upsilon (uppercase)",
     "Front": "\u03a5",
-    "Back": "Upsilon (uppercase)"
+    "guid": "b]]:Uvk<cT",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1737638865,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a6": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "s(Yql47C5:",
-    "mtime": 1723753382,
+    "Back": "Phi (uppercase)",
     "Front": "\u03a6",
-    "Back": "Phi (uppercase)"
+    "guid": "s(Yql47C5:",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a7": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "GQPqmB>:33",
-    "mtime": 1723753382,
+    "Back": "Chi (uppercase)",
     "Front": "\u03a7",
-    "Back": "Chi (uppercase)"
+    "guid": "GQPqmB>:33",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a8": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "hMAR7kqd9O",
-    "mtime": 1723753382,
+    "Back": "Psi (uppercase)",
     "Front": "\u03a8",
-    "Back": "Psi (uppercase)"
+    "guid": "hMAR7kqd9O",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03a9": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "P=v:0ry^`L",
-    "mtime": 1723753382,
+    "Back": "Omega (uppercase)",
     "Front": "\u03a9",
-    "Back": "Omega (uppercase)"
+    "guid": "P=v:0ry^`L",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03b1": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "mG^<McpAr`",
-    "mtime": 1723753382,
+    "Back": "Alpha (lowercase)",
     "Front": "\u03b1",
-    "Back": "Alpha (lowercase)"
+    "guid": "mG^<McpAr`",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03b2": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "v3Nu&2C0fn",
-    "mtime": 1723753382,
+    "Back": "Beta (lowercase)",
     "Front": "\u03b2",
-    "Back": "Beta (lowercase)"
+    "guid": "v3Nu&2C0fn",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03b3": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "n&:/JEKYrM",
-    "mtime": 1723753382,
+    "Back": "Gamma (lowercase)",
     "Front": "\u03b3",
-    "Back": "Gamma (lowercase)"
+    "guid": "n&:/JEKYrM",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03b4": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "x^JQDA4}9>",
-    "mtime": 1723753382,
+    "Back": "Delta (lowercase)",
     "Front": "\u03b4",
-    "Back": "Delta (lowercase)"
+    "guid": "x^JQDA4}9>",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03b5": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "g+*04RL;jU",
-    "mtime": 1723753382,
+    "Back": "Epsilon (lowercase)",
     "Front": "\u03b5",
-    "Back": "Epsilon (lowercase)"
+    "guid": "g+*04RL;jU",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03b8": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "tjQ>9_4A2e",
-    "mtime": 1723753382,
+    "Back": "Theta (lowercase)",
     "Front": "\u03b8",
-    "Back": "Theta (lowercase)"
+    "guid": "tjQ>9_4A2e",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03b9": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "wRg1vZYv(#",
-    "mtime": 1723753382,
+    "Back": "Iota (lowercase)",
     "Front": "\u03b9",
-    "Back": "Iota (lowercase)"
+    "guid": "wRg1vZYv(#",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03ba": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "i0/+S7{mGA",
-    "mtime": 1723753382,
+    "Back": "Kappa (lowercase)",
     "Front": "\u03ba",
-    "Back": "Kappa (lowercase)"
+    "guid": "i0/+S7{mGA",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03bb": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "zrU&?+Zrt8",
-    "mtime": 1723753382,
+    "Back": "Lambda (lowercase)",
     "Front": "\u03bb",
-    "Back": "Lambda (lowercase)"
+    "guid": "zrU&?+Zrt8",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03bc": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "IB}*+xxxBw",
-    "mtime": 1723753382,
+    "Back": "Mu (lowercase)",
     "Front": "\u03bc",
-    "Back": "Mu (lowercase)"
+    "guid": "IB}*+xxxBw",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03bf": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "3/s_l@iqw",
-    "mtime": 1723753382,
+    "Back": "Omicron (lowercase)",
     "Front": "\u03bf",
-    "Back": "Omicron (lowercase)"
+    "guid": "3/s_l@iqw",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c0": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "j@+5)(I,U0",
-    "mtime": 1723753382,
+    "Back": "Pi (lowercase)",
     "Front": "\u03c0",
-    "Back": "Pi (lowercase)"
+    "guid": "j@+5)(I,U0",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c1": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "q0x37W*bc^",
-    "mtime": 1723753382,
+    "Back": "Rho (lowercase)",
     "Front": "\u03c1",
-    "Back": "Rho (lowercase)"
+    "guid": "q0x37W*bc^",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c3": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "OSjOrIMuh*",
-    "mtime": 1723753382,
+    "Back": "Sigma (lowercase)",
     "Front": "\u03c3",
-    "Back": "Sigma (lowercase)"
+    "guid": "OSjOrIMuh*",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c4": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "mrJWi>y3wP",
-    "mtime": 1723753382,
+    "Back": "Tau (lowercase)",
     "Front": "\u03c4",
-    "Back": "Tau (lowercase)"
+    "guid": "mrJWi>y3wP",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c5": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "c<u~EV*A+B",
-    "mtime": 1723753382,
+    "Back": "Upsilon (lowercase)",
     "Front": "\u03c5",
-    "Back": "Upsilon (lowercase)"
+    "guid": "c<u~EV*A+B",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c6": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "vCAh]SLLu$",
-    "mtime": 1723753382,
+    "Back": "Phi (lowercase)",
     "Front": "\u03c6",
-    "Back": "Phi (lowercase)"
+    "guid": "vCAh]SLLu$",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c7": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "f.72q5:(+I",
-    "mtime": 1723753382,
+    "Back": "Chi (lowercase)",
     "Front": "\u03c7",
-    "Back": "Chi (lowercase)"
+    "guid": "f.72q5:(+I",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c8": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "O0V&~q[P@m",
-    "mtime": 1723753382,
+    "Back": "Psi (lowercase)",
     "Front": "\u03c8",
-    "Back": "Psi (lowercase)"
+    "guid": "O0V&~q[P@m",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   },
   "\u03c9": {
-    "model_name": "TriviAnki-GreekAlphabet",
-    "guid": "p#}c}+2/0R",
-    "mtime": 1723753382,
+    "Back": "Omega (lowercase)",
     "Front": "\u03c9",
-    "Back": "Omega (lowercase)"
+    "guid": "p#}c}+2/0R",
+    "model_name": "TriviAnki-GreekAlphabet",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Greek_Alphabet"
+    ]
   }
 }

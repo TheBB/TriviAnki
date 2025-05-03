@@ -1,82 +1,122 @@
 {
-  "New South Wales": {
-    "model_name": "TriviAnki-UG-Australia",
-    "guid": "vkz%7ATU,Q",
-    "mtime": 1737636616,
-    "Name": "New South Wales",
-    "Picture": "<img src=\"667px-New_South_Wales_in_Australia.svg.png\">",
-    "Capital": "Sydney",
-    "Flag": "<img src=\"800px-Flag_of_New_South_Wales.svg.png\">",
-    "Extra": ""
-  },
-  "Queensland": {
-    "model_name": "TriviAnki-UG-Australia",
-    "guid": "KW3fT6C,[J",
-    "mtime": 1737636621,
-    "Name": "Queensland",
-    "Picture": "<img src=\"667px-Queensland_in_Australia.svg.png\">",
-    "Capital": "Brisbane",
-    "Flag": "<img src=\"800px-Flag_of_Queensland.svg.png\">",
-    "Extra": ""
-  },
-  "South Australia": {
-    "model_name": "TriviAnki-UG-Australia",
-    "guid": "yHk1hD7or2",
-    "mtime": 1737636625,
-    "Name": "South Australia",
-    "Picture": "<img src=\"667px-South_Australia_in_Australia.svg.png\">",
-    "Capital": "Adelaide",
-    "Flag": "<img src=\"800px-Flag_of_South_Australia.svg.png\">",
-    "Extra": "<b><u>S</u></b>preading wings = <b><u>S</u></b>outh"
-  },
-  "Tasmania": {
-    "model_name": "TriviAnki-UG-Australia",
-    "guid": "wKz0dv;f8p",
-    "mtime": 1737636871,
-    "Name": "Tasmania",
-    "Picture": "<img src=\"667px-Tasmania_in_Australia.svg.png\">",
-    "Capital": "Hobart",
-    "Flag": "<img src=\"800px-Flag_of_Tasmania.svg.png\">",
-    "Extra": ""
-  },
-  "Victoria": {
-    "model_name": "TriviAnki-UG-Australia",
-    "guid": "sD/v6E:>^#",
-    "mtime": 1737636633,
-    "Name": "Victoria",
-    "Picture": "<img src=\"667px-Victoria_in_Australia.svg.png\">",
-    "Capital": "Melbourne",
-    "Flag": "<img src=\"800px-Flag_of_Victoria_(Australia).svg.png\">",
-    "Extra": ""
-  },
-  "Western Australia": {
-    "model_name": "TriviAnki-UG-Australia",
-    "guid": "J**hS7|m];",
-    "mtime": 1737636637,
-    "Name": "Western Australia",
-    "Picture": "<img src=\"667px-Western_Australia_in_Australia.svg.png\">",
-    "Capital": "Perth",
-    "Flag": "<img src=\"800px-Flag_of_Western_Australia.svg.png\">",
-    "Extra": ""
-  },
   "Australian Capital Territory": {
-    "model_name": "TriviAnki-UG-Australia",
-    "guid": "j(cI>U+Npx",
-    "mtime": 1737636641,
+    "Capital": "Canberra",
+    "Extra": "",
+    "Flag": "<img src=\"800px-Flag_of_the_Australian_Capital_Territory.svg.png\">",
     "Name": "Australian Capital Territory",
     "Picture": "<img src=\"667px-Australian_Capital_Territory_in_Australia_(zoom).svg.png\">",
-    "Capital": "Canberra",
-    "Flag": "<img src=\"800px-Flag_of_the_Australian_Capital_Territory.svg.png\">",
-    "Extra": ""
+    "guid": "j(cI>U+Npx",
+    "model_name": "TriviAnki-UG-Australia",
+    "mtime": 1737636641,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Australia",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "New South Wales": {
+    "Capital": "Sydney",
+    "Extra": "",
+    "Flag": "<img src=\"800px-Flag_of_New_South_Wales.svg.png\">",
+    "Name": "New South Wales",
+    "Picture": "<img src=\"667px-New_South_Wales_in_Australia.svg.png\">",
+    "guid": "vkz%7ATU,Q",
+    "model_name": "TriviAnki-UG-Australia",
+    "mtime": 1737636616,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Australia",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   },
   "Northern Territory": {
-    "model_name": "TriviAnki-UG-Australia",
-    "guid": "qBb1>x&W*q",
-    "mtime": 1737636645,
+    "Capital": "Darwin",
+    "Extra": "",
+    "Flag": "<img src=\"600px-Flag_of_the_Northern_Territory.svg.png\">",
     "Name": "Northern Territory",
     "Picture": "<img src=\"667px-Northern_Territory_in_Australia.svg.png\">",
-    "Capital": "Darwin",
-    "Flag": "<img src=\"600px-Flag_of_the_Northern_Territory.svg.png\">",
-    "Extra": ""
+    "guid": "qBb1>x&W*q",
+    "model_name": "TriviAnki-UG-Australia",
+    "mtime": 1737636645,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Australia",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Queensland": {
+    "Capital": "Brisbane",
+    "Extra": "",
+    "Flag": "<img src=\"800px-Flag_of_Queensland.svg.png\">",
+    "Name": "Queensland",
+    "Picture": "<img src=\"667px-Queensland_in_Australia.svg.png\">",
+    "guid": "KW3fT6C,[J",
+    "model_name": "TriviAnki-UG-Australia",
+    "mtime": 1737636621,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Australia",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "South Australia": {
+    "Capital": "Adelaide",
+    "Extra": "<b><u>S</u></b>preading wings = <b><u>S</u></b>outh",
+    "Flag": "<img src=\"800px-Flag_of_South_Australia.svg.png\">",
+    "Name": "South Australia",
+    "Picture": "<img src=\"667px-South_Australia_in_Australia.svg.png\">",
+    "guid": "yHk1hD7or2",
+    "model_name": "TriviAnki-UG-Australia",
+    "mtime": 1737636625,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Australia",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Tasmania": {
+    "Capital": "Hobart",
+    "Extra": "",
+    "Flag": "<img src=\"800px-Flag_of_Tasmania.svg.png\">",
+    "Name": "Tasmania",
+    "Picture": "<img src=\"667px-Tasmania_in_Australia.svg.png\">",
+    "guid": "wKz0dv;f8p",
+    "model_name": "TriviAnki-UG-Australia",
+    "mtime": 1737636871,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Australia",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Victoria": {
+    "Capital": "Melbourne",
+    "Extra": "",
+    "Flag": "<img src=\"800px-Flag_of_Victoria_(Australia).svg.png\">",
+    "Name": "Victoria",
+    "Picture": "<img src=\"667px-Victoria_in_Australia.svg.png\">",
+    "guid": "sD/v6E:>^#",
+    "model_name": "TriviAnki-UG-Australia",
+    "mtime": 1737636633,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Australia",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Western Australia": {
+    "Capital": "Perth",
+    "Extra": "",
+    "Flag": "<img src=\"800px-Flag_of_Western_Australia.svg.png\">",
+    "Name": "Western Australia",
+    "Picture": "<img src=\"667px-Western_Australia_in_Australia.svg.png\">",
+    "guid": "J**hS7|m];",
+    "model_name": "TriviAnki-UG-Australia",
+    "mtime": 1737636637,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::Australia",
+      "trivia::UE::UltimateGeographyRemastered"
+    ]
   }
 }

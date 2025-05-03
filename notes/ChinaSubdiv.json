@@ -1,431 +1,563 @@
 {
-  "\u0100nhu\u012b": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "r>W6]XX~BS",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Anhui.png\" />",
-    "Name": "\u0100nhu\u012b",
-    "Name in simplified Chinese": "\u5b89\u5fbd",
-    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u5b89\u5fbd</span>",
-    "Name in pinyin": "\u0100nhu\u012b",
-    "Pronunciation": "[sound:Zh-Anhui.ogg]",
-    "Capital": "Hefei",
-    "Etymology": "<div>\u5b89 \u0101n - Anqing</div><div>\u5fbd hu\u012b - Huizhou (now Huangshan city)</div>"
-  },
-  "Ch\u00f3ngq\u00ecng": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "g?0QZk@q3:",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Chongqing.png\" />",
-    "Name": "Ch\u00f3ngq\u00ecng",
-    "Name in simplified Chinese": "\u91cd\u5e86",
-    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u91cd\u6176</span>",
-    "Name in pinyin": "Ch\u00f3ngq\u00ecng",
-    "Pronunciation": "[sound:Zh-Chongqing.ogg]",
-    "Capital": "",
-    "Etymology": "double celebration or celebrate again"
-  },
-  "F\u00faji\u00e0n": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "mHZ*q?+l{6",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Fujian.png\">",
-    "Name": "F\u00faji\u00e0n",
-    "Name in simplified Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u798f\u5efa</span>",
-    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u798f\u5efa</span>",
-    "Name in pinyin": "F\u00faji\u00e0n",
-    "Pronunciation": "[sound:Zh-Fujian.ogg]",
-    "Capital": "Fuzhou",
-    "Etymology": "<div>\u798f f\u00fa \u2013 Fuzhou</div><div>\u5efa ji\u00e0n \u2013 Jianzhou (today's Jian'ou)</div>"
-  },
-  "G\u0101ns\u00f9": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": ";]Jq#5ECE",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Gansu.png\" />",
-    "Name": "G\u0101ns\u00f9",
-    "Name in simplified Chinese": "\u7518\u8083",
-    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u7518\u8085</span>",
-    "Name in pinyin": "G\u0101ns\u00f9",
-    "Pronunciation": "[sound:Zh-Gansu.ogg]",
-    "Capital": "Lanzhou",
-    "Etymology": "<div>\u7518 g\u0101n - Ganzhou District, Zhangye</div><div>\u8083 s\u00f9 - Suzhou District, Jiuquan</div>"
-  },
-  "Gu\u01cengd\u014dng": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "Q#BqF{;Q{O",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Guangdong.png\" />",
-    "Name": "Gu\u01cengd\u014dng",
-    "Name in simplified Chinese": "\u5e7f\u4e1c",
-    "Name in traditional Chinese": "\u5ee3\u6771",
-    "Name in pinyin": "Gu\u01cengd\u014dng",
-    "Pronunciation": "[sound:Zh-Guangdong.ogg]",
-    "Capital": "Guangzhou",
-    "Etymology": "<div>\u5e7f gu\u01ceng - \"Wide\"</div><div>\u4e1c d\u014dng- \"East\"</div><div>Lit. \"The Eastern Expanse\"</div><div>(Guangxi being West)</div>"
-  },
-  "Gu\u0103ngx\u012b": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "QNX0`(S!]a",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Guangxi.png\">",
-    "Name": "Gu\u0103ngx\u012b",
-    "Name in simplified Chinese": "\u5e7f\u897f",
-    "Name in traditional Chinese": "\u5ee3\u897f",
-    "Name in pinyin": "Gu\u0103ngx\u012b",
-    "Pronunciation": "",
-    "Capital": "Nanning",
-    "Etymology": "<div>Abbreviated from \"Guangnan Xi Lu\" (A \"lu\" was equal to a province or a state in the Song Dynasty)</div><div>\u5e7f = wide</div><div>\u897f = west</div><div>literally, \"The Western Expanse\" (Guangdong being East)</div>"
-  },
-  "Gu\u00eczh\u014du": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "q0F~*W?3Oz",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Guizhou.png\" />",
-    "Name": "Gu\u00eczh\u014du",
-    "Name in simplified Chinese": "\u8d35\u5dde",
-    "Name in traditional Chinese": "\u8cb4\u5dde",
-    "Name in pinyin": "Gu\u00eczh\u014du",
-    "Pronunciation": "[sound:Zh-Guizhou.ogg]",
-    "Capital": "Guiyang",
-    "Etymology": "<div>\u8d35 gu\u00ec - Gui Mountains</div><div>\u5dde zh\u014du - zhou (prefecture)</div>"
-  },
-  "H\u01cein\u00e1n": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "Ctc&>wPxfk",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Hainan.png\" />",
-    "Name": "H\u01cein\u00e1n",
-    "Name in simplified Chinese": "\u6d77\u5357",
-    "Name in traditional Chinese": "\u6d77\u5357",
-    "Name in pinyin": "H\u01cein\u00e1n",
-    "Pronunciation": "[sound:Zh-Hainan.ogg]",
-    "Capital": "Haikou",
-    "Etymology": "<div>\u6d77 h\u01cei \u2013 sea</div><div>\u5357 n\u00e1n \u2013 south</div><div>\"South of the Sea [Qiongzhou Strait]\"</div>"
-  },
-  "H\u00e9b\u011bi": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "h5Xdxg*Y@*",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Hebei.png\" />",
-    "Name": "H\u00e9b\u011bi",
-    "Name in simplified Chinese": "\u6cb3\u5317",
-    "Name in traditional Chinese": "\u6cb3\u5317",
-    "Name in pinyin": "H\u00e9b\u011bi",
-    "Pronunciation": "[sound:Zh-Hebei.ogg]",
-    "Capital": "Shijiazhuang",
-    "Etymology": "<div>\u6cb3 h\u00e9\u2014\"(Yellow) River\"</div><div>\u5317 b\u011bi\u2014\"north\"</div><div>\"north of the Yellow River\"</div>"
-  },
-  "H\u0113il\u00f3ngji\u0101ng": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "H)>J6S}mQ^",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Heilongjiang.png\" />",
-    "Name": "H\u0113il\u00f3ngji\u0101ng",
-    "Name in simplified Chinese": "\u9ed1\u9f99\u6c5f\u7701",
-    "Name in traditional Chinese": "\u9ed1\u9f8d\u6c5f\u7701",
-    "Name in pinyin": "H\u0113il\u00f3ngji\u0101ng",
-    "Pronunciation": "[sound:Zh-Heilongjiang.ogg]",
-    "Capital": "Harbin",
-    "Etymology": "<div>\u9ed1 h\u0113i\u2014black</div><div>\u9f99 l\u00f3ng\u2014dragon</div><div>\u6c5f ji\u0101ng\u2014river</div><div>\"Amur River\"</div>"
-  },
-  "H\u00e9n\u00e1n": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "fYnGu9[];D",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Henan.png\" />",
-    "Name": "H\u00e9n\u00e1n",
-    "Name in simplified Chinese": "\u6cb3\u5357",
-    "Name in traditional Chinese": "\u6cb3\u5357",
-    "Name in pinyin": "H\u00e9n\u00e1n",
-    "Pronunciation": "[sound:Zh-Henan.ogg]",
-    "Capital": "Zhengzhou",
-    "Etymology": "<div>\u6cb3 h\u00e9 - (Yellow) River</div><div>\u5357 n\u00e1n - south</div><div>\"south of the Yellow River\"</div>"
-  },
-  "Hong Kong": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "rUaybtCU<x",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Hong_Kong.png\" />",
-    "Name": "Hong Kong",
-    "Name in simplified Chinese": "\u9999\u6e2f",
-    "Name in traditional Chinese": "\u9999\u6e2f",
-    "Name in pinyin": "Xi\u0101ngg\u01ceng",
-    "Pronunciation": "[sound:xianggang.ogg]",
-    "Capital": "",
-    "Etymology": "fragrant harbour"
-  },
-  "H\u00fab\u011bi": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "pLtg?/%U@M",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Hubei.png\" />",
-    "Name": "H\u00fab\u011bi",
-    "Name in simplified Chinese": "\u6e56\u5317",
-    "Name in traditional Chinese": "\u6e56\u5317",
-    "Name in pinyin": "H\u00fab\u011bi",
-    "Pronunciation": "[sound:Zh-Hubei.ogg]",
-    "Capital": "Wuhan",
-    "Etymology": "<div>\u6e56 h\u00fa - lake</div><div>\u5317 b\u011bi - north</div><div>\"north of Lake Dongting\"</div>"
-  },
-  "H\u00fan\u00e1n": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "AaM:8`XW}_",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Hunan.png\" />",
-    "Name": "H\u00fan\u00e1n",
-    "Name in simplified Chinese": "\u6e56\u5357",
-    "Name in traditional Chinese": "\u6e56\u5357",
-    "Name in pinyin": "H\u00fan\u00e1n",
-    "Pronunciation": "[sound:Zh-Hunan.ogg]",
-    "Capital": "Changsha",
-    "Etymology": "<div>\u6e56 h\u00fa - lake</div><div>\u5357 n\u00e1n - south</div><div>\"south of the lake \"</div>"
-  },
-  "Inner Mongolia": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "GJFQQ=A@T2",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Inner_Mongolia.png\">",
-    "Name": "Inner Mongolia",
-    "Name in simplified Chinese": "\u5185\u8499\u53e4",
-    "Name in traditional Chinese": "\u5185\u8499\u53e4",
-    "Name in pinyin": "N\u00e8i M\u011bngg\u01d4",
-    "Pronunciation": "",
-    "Capital": "Hohhot",
-    "Etymology": "From the Mongolian \u00f6b\u00fcr monggol, where \u00f6b\u00fcr means the front, sunny side of natural barrier (a mountain, mountain range, lake or desert)"
-  },
-  "Ji\u0101ngs\u016b": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "hH9Fnk9g-^",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Jiangsu.png\" />",
-    "Name": "Ji\u0101ngs\u016b",
-    "Name in simplified Chinese": "\u6c5f\u82cf",
-    "Name in traditional Chinese": "\u6c5f\u8607",
-    "Name in pinyin": "Ji\u0101ngs\u016b",
-    "Pronunciation": "[sound:Zh-Jiangsu.ogg]",
-    "Capital": "Nanjing",
-    "Etymology": "<div>\u6c5f ji\u0101ng - Jiangning (now Nanjing)</div><div>\u82cf s\u016b - Suzhou</div>"
-  },
-  "Ji\u0101ngx\u012b": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "uPHtEa^vC!",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Jiangxi.png\">",
-    "Name": "Ji\u0101ngx\u012b",
-    "Name in simplified Chinese": "\u6c5f\u897f",
-    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u6c5f\u897f</span>",
-    "Name in pinyin": "Ji\u0101ngx\u012b",
-    "Pronunciation": "[sound:Zh-Jiangxi.ogg]",
-    "Capital": "Nanchang",
-    "Etymology": "<div>Contraction of:</div><div>\u6c5f\u5357\u897f; Ji\u0101ngn\u00e1n X\u012b</div><div>\"The western Jiangnan\"</div>"
-  },
-  "J\u00edl\u00edn": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "IWQ@IB7X!v",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Jilin.png\" />",
-    "Name": "J\u00edl\u00edn",
-    "Name in simplified Chinese": "\u5409\u6797",
-    "Name in traditional Chinese": "\u5409\u6797",
-    "Name in pinyin": "J\u00edl\u00edn",
-    "Pronunciation": "[sound:Zh-Jilin.ogg]",
-    "Capital": "Changchun",
-    "Etymology": "from girin ula, a Manchu phrase meaning \"along the river\""
-  },
-  "Li\u00e1on\u00edng": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "MNDPmsHd6Q",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Liaoning.png\">",
-    "Name": "Li\u00e1on\u00edng",
-    "Name in simplified Chinese": "\u8fbd\u5b81",
-    "Name in traditional Chinese": "\u907c\u5be7",
-    "Name in pinyin": "Li\u00e1on\u00edng",
-    "Pronunciation": "[sound:Zh-Liaoning.ogg]",
-    "Capital": "Shenyang",
-    "Etymology": "Peace forever for the Liao River watershed"
-  },
-  "Macau": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "n.o^1(IjK7",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Macau.png\">",
-    "Name": "Macau",
-    "Name in simplified Chinese": "\u6fb3\u9580",
-    "Name in traditional Chinese": "\u6fb3\u9580",
-    "Name in pinyin": "\u00c0om\u00e9n",
-    "Pronunciation": "",
-    "Capital": "",
-    "Etymology": "Perhaps from the A-Ma Temple (Chinese: \u5abd\u95a3\u5edf; Mandarin Pinyin: M\u0101g\u00e9 Mi\u00e0o), a temple built in 1448 dedicated to Matsu \u2013 the goddess of seafarers and fishermen.<div>The present Chinese name (Chinese: \u6fb3\u9580; Mandarin Pinyin: \u00c0om\u00e9n) means \"Inlet Gates\".</div>"
-  },
-  "N\u00edngxi\u00e0": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "Hg|gsC(mMV",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Ningxia.png\">",
-    "Name": "N\u00edngxi\u00e0",
-    "Name in simplified Chinese": "\u5b81\u590f",
-    "Name in traditional Chinese": "\u5be7\u590f",
-    "Name in pinyin": "N\u00edngxi\u00e0",
-    "Pronunciation": "[sound:Ning2xia4.ogg]",
-    "Capital": "Yinchuan",
-    "Etymology": "<div>\u5b81 n\u00edng\u2014tranquil</div><div>\u590f xi\u00e0\u2014Western Xia</div><div>\"Tranquil Xia\"</div>"
-  },
-  "Q\u012bngh\u01cei": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "hDS|VHoF#Y",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Qinghai.png\" />",
-    "Name": "Q\u012bngh\u01cei",
-    "Name in simplified Chinese": "\u9752\u6d77",
-    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u9752\u6d77</span>",
-    "Name in pinyin": "Q\u012bngh\u01cei",
-    "Pronunciation": "[sound:Zh-Qinghai.ogg]",
-    "Capital": "Xining",
-    "Etymology": "<div>From Khoshut Oirat K\u00f6knuur:</div><div>K\u00f6ke - blue</div><div>Nuur - Lake</div><div>\"blue lake\" (Qinghai Lake)</div><div>In Chinese:</div><div>\u9752 q\u012bng - cyan</div><div>\u6d77 h\u01cei - sea</div><div>\"qing (blue/green/black) sea\"</div>"
-  },
-  "Sh\u01ceanx\u012b": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "KK%.J3fi<m",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Shaanxi.png\" />",
-    "Name": "Sh\u01ceanx\u012b",
-    "Name in simplified Chinese": "\u9655\u897f",
-    "Name in traditional Chinese": "\u965d\u897f",
-    "Name in pinyin": "Sh\u01cenx\u012b",
-    "Pronunciation": "[sound:Zh-Shaanxi.ogg]",
-    "Capital": "Xi'an",
-    "Etymology": "<div>\u9655 sh\u01cen - Shanzhou (now Shan County, Henan)</div><div>\u897f x\u012b - west</div><div>\"west of Shanzhou\"</div>"
-  },
-  "Sh\u0101nd\u014dng": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "kfKz]{D>.1",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Shandong.png\" />",
-    "Name": "Sh\u0101nd\u014dng",
-    "Name in simplified Chinese": "\u5c71\u4e1c",
-    "Name in traditional Chinese": "\u5c71\u6771",
-    "Name in pinyin": "Sh\u0101nd\u014dng",
-    "Pronunciation": "[sound:Zh-Shandong.ogg]",
-    "Capital": "Jinan",
-    "Etymology": "<div>\u5c71 sh\u0101n \u2013 mountain</div><div>\u4e1c d\u014dng &nbsp;\u2013 east</div><div>\"east of the Taihang Mountains\"</div>"
-  },
-  "Sh\u00e0ngh\u01cei": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "v70![,heR?",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Shanghai.png\">",
-    "Name": "Sh\u00e0ngh\u01cei",
-    "Name in simplified Chinese": "\u4e0a\u6d77",
-    "Name in traditional Chinese": "\u4e0a\u6d77",
-    "Name in pinyin": "Sh\u00e0ngh\u01cei",
-    "Pronunciation": "[sound:Zh-Shanghai.ogg]",
-    "Capital": "",
-    "Etymology": "\u4e0a&nbsp;<span style=\" font-style: normal; font-weight: normal;\">\u2013 above</span><div>\u6d77 \u2013 sea</div><div>\"upon the sea\"</div>"
-  },
-  "Sh\u0101nx\u012b": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "wiW+6_)kNm",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Shanxi.png\">",
-    "Name": "Sh\u0101nx\u012b",
-    "Name in simplified Chinese": "\u5c71\u897f",
-    "Name in traditional Chinese": "\u5c71\u897f",
-    "Name in pinyin": "Sh\u0101nx\u012b",
-    "Pronunciation": "[sound:Zh-Shanxi.ogg]",
-    "Capital": "Taiyuan",
-    "Etymology": "<div>\u5c71 sh\u0101n - mountain</div><div>\u897f x\u012b - west</div><div>\"west of the Taihang Mountains\"</div>"
-  },
-  "S\u00ecchu\u0101n": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "D)+=.f+AOi",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Sichuan.png\" />",
-    "Name": "S\u00ecchu\u0101n",
-    "Name in simplified Chinese": "\u56db\u5ddd",
-    "Name in traditional Chinese": "\u56db\u5ddd",
-    "Name in pinyin": "S\u00ecchu\u0101n",
-    "Pronunciation": "[sound:Zh-Sichuan.ogg]",
-    "Capital": "Chengdu",
-    "Etymology": "<div>Short for \u5ddd\u5ce1\u56db\u8def chu\u0101nxi\u00e1 s\u00ecl\u00f9</div><div>literally \"The Four Circuits</div><div>of the Rivers and Gorges\",</div><div>referring to the four circuits during the Song Dynasty</div>"
-  },
-  "Ti\u0101nj\u012bn": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "QU6s9SP$;>",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Tianjin.png\" />",
-    "Name": "Ti\u0101nj\u012bn",
-    "Name in simplified Chinese": "\u5929\u6d25",
-    "Name in traditional Chinese": "\u5929\u6d25",
-    "Name in pinyin": "Ti\u0101nj\u012bn",
-    "Pronunciation": "[sound:Zh-Tianjin.ogg]",
-    "Capital": "",
-    "Etymology": "<span style=\" font-style: normal; font-weight: normal;\">\u5929&nbsp;</span><span style=\" font-style: normal; font-weight: normal;\">\u2013&nbsp;</span>sky<div></div><div>\u6d25&nbsp;\u2013 ferry</div>"
-  },
-  "Tibet": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "O;Y`&BOXAD",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Tibet.png\" />",
-    "Name": "Tibet",
-    "Name in simplified Chinese": "\u897f\u85cf\u81ea\u6cbb\u533a",
-    "Name in traditional Chinese": "\u897f\u85cf\u81ea\u6cbb\u5340",
-    "Name in pinyin": "X\u012bz\u00e0ng Z\u00eczh\u00ecq\u016b",
-    "Pronunciation": "",
-    "Capital": "Lhasa",
-    "Etymology": "Disputed (Tibet names in European languages are loanwords from Arabic Tibat or Tobatt and Persian Tubbat)"
-  },
-  "X\u012bnji\u0101ng": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "fRC~*nSZ}_",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Xinjiang.png\" />",
-    "Name": "X\u012bnji\u0101ng",
-    "Name in simplified Chinese": "\u65b0\u7586",
-    "Name in traditional Chinese": "\u65b0\u7586",
-    "Name in pinyin": "X\u012bnji\u0101ng",
-    "Pronunciation": "",
-    "Capital": "\u00dcr\u00fcmqi",
-    "Etymology": "<div>\u65b0 x\u012bn \u2013 new</div><div>\u7586 ji\u0101ng \u2013 frontier</div><div>\"new frontier\"</div>"
-  },
-  "Y\u00fann\u00e1n": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "A_Ndckhk1$",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Yunnan.png\" />",
-    "Name": "Y\u00fann\u00e1n",
-    "Name in simplified Chinese": "\u4e91\u5357",
-    "Name in traditional Chinese": "\u96f2\u5357",
-    "Name in pinyin": "Y\u00fann\u00e1n",
-    "Pronunciation": "[sound:Zh-Yunnan.ogg]",
-    "Capital": "Kunming",
-    "Etymology": "<div>\u4e91 y\u00fan \u2013 Yunling Mountains</div><div>\u5357 n\u00e1n \u2013 south</div><div>\"South of the Yunling Mountains\"</div>"
-  },
-  "Zh\u00e8ji\u0101ng": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "ziTm<96-GG",
-    "mtime": 1723753382,
-    "Map": "<img src=\"Zhejiang.png\" />",
-    "Name": "Zh\u00e8ji\u0101ng",
-    "Name in simplified Chinese": "\u6d59\u6c5f",
-    "Name in traditional Chinese": "\u6d59\u6c5f",
-    "Name in pinyin": "Zh\u00e8ji\u0101ng",
-    "Pronunciation": "[sound:Zh-Zhejiang.ogg]",
-    "Capital": "Hangzhou",
-    "Etymology": "<div>\u6298\u6c5f - \"crooked river\"</div><div>Now the river's name is&nbsp;Qiantang River,&nbsp;in honour of the kings of Wuyue</div>"
-  },
   "Beijing": {
-    "model_name": "TriviAnki-UG-China",
-    "guid": "P$Bz4HPi]H",
-    "mtime": 1723753382,
+    "Capital": "",
+    "Etymology": "\u5317 - north<div>\u4eac - capital</div><div>\"Northern Capital\"</div>",
     "Map": "<img src=\"Beijing.png\" />",
     "Name": "Beijing",
+    "Name in pinyin": "B\u011bij\u012bng",
     "Name in simplified Chinese": "\u5317\u4eac",
     "Name in traditional Chinese": "\u5317\u4eac",
-    "Name in pinyin": "B\u011bij\u012bng",
     "Pronunciation": "[sound:Zh-Beijing.ogg]",
+    "guid": "P$Bz4HPi]H",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Ch\u00f3ngq\u00ecng": {
     "Capital": "",
-    "Etymology": "\u5317 - north<div>\u4eac - capital</div><div>\"Northern Capital\"</div>"
+    "Etymology": "double celebration or celebrate again",
+    "Map": "<img src=\"Chongqing.png\" />",
+    "Name": "Ch\u00f3ngq\u00ecng",
+    "Name in pinyin": "Ch\u00f3ngq\u00ecng",
+    "Name in simplified Chinese": "\u91cd\u5e86",
+    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u91cd\u6176</span>",
+    "Pronunciation": "[sound:Zh-Chongqing.ogg]",
+    "guid": "g?0QZk@q3:",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "F\u00faji\u00e0n": {
+    "Capital": "Fuzhou",
+    "Etymology": "<div>\u798f f\u00fa \u2013 Fuzhou</div><div>\u5efa ji\u00e0n \u2013 Jianzhou (today's Jian'ou)</div>",
+    "Map": "<img src=\"Fujian.png\">",
+    "Name": "F\u00faji\u00e0n",
+    "Name in pinyin": "F\u00faji\u00e0n",
+    "Name in simplified Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u798f\u5efa</span>",
+    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u798f\u5efa</span>",
+    "Pronunciation": "[sound:Zh-Fujian.ogg]",
+    "guid": "mHZ*q?+l{6",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Gu\u00eczh\u014du": {
+    "Capital": "Guiyang",
+    "Etymology": "<div>\u8d35 gu\u00ec - Gui Mountains</div><div>\u5dde zh\u014du - zhou (prefecture)</div>",
+    "Map": "<img src=\"Guizhou.png\" />",
+    "Name": "Gu\u00eczh\u014du",
+    "Name in pinyin": "Gu\u00eczh\u014du",
+    "Name in simplified Chinese": "\u8d35\u5dde",
+    "Name in traditional Chinese": "\u8cb4\u5dde",
+    "Pronunciation": "[sound:Zh-Guizhou.ogg]",
+    "guid": "q0F~*W?3Oz",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Gu\u0103ngx\u012b": {
+    "Capital": "Nanning",
+    "Etymology": "<div>Abbreviated from \"Guangnan Xi Lu\" (A \"lu\" was equal to a province or a state in the Song Dynasty)</div><div>\u5e7f = wide</div><div>\u897f = west</div><div>literally, \"The Western Expanse\" (Guangdong being East)</div>",
+    "Map": "<img src=\"Guangxi.png\">",
+    "Name": "Gu\u0103ngx\u012b",
+    "Name in pinyin": "Gu\u0103ngx\u012b",
+    "Name in simplified Chinese": "\u5e7f\u897f",
+    "Name in traditional Chinese": "\u5ee3\u897f",
+    "Pronunciation": "",
+    "guid": "QNX0`(S!]a",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Gu\u01cengd\u014dng": {
+    "Capital": "Guangzhou",
+    "Etymology": "<div>\u5e7f gu\u01ceng - \"Wide\"</div><div>\u4e1c d\u014dng- \"East\"</div><div>Lit. \"The Eastern Expanse\"</div><div>(Guangxi being West)</div>",
+    "Map": "<img src=\"Guangdong.png\" />",
+    "Name": "Gu\u01cengd\u014dng",
+    "Name in pinyin": "Gu\u01cengd\u014dng",
+    "Name in simplified Chinese": "\u5e7f\u4e1c",
+    "Name in traditional Chinese": "\u5ee3\u6771",
+    "Pronunciation": "[sound:Zh-Guangdong.ogg]",
+    "guid": "Q#BqF{;Q{O",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "G\u0101ns\u00f9": {
+    "Capital": "Lanzhou",
+    "Etymology": "<div>\u7518 g\u0101n - Ganzhou District, Zhangye</div><div>\u8083 s\u00f9 - Suzhou District, Jiuquan</div>",
+    "Map": "<img src=\"Gansu.png\" />",
+    "Name": "G\u0101ns\u00f9",
+    "Name in pinyin": "G\u0101ns\u00f9",
+    "Name in simplified Chinese": "\u7518\u8083",
+    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u7518\u8085</span>",
+    "Pronunciation": "[sound:Zh-Gansu.ogg]",
+    "guid": ";]Jq#5ECE",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Hong Kong": {
+    "Capital": "",
+    "Etymology": "fragrant harbour",
+    "Map": "<img src=\"Hong_Kong.png\" />",
+    "Name": "Hong Kong",
+    "Name in pinyin": "Xi\u0101ngg\u01ceng",
+    "Name in simplified Chinese": "\u9999\u6e2f",
+    "Name in traditional Chinese": "\u9999\u6e2f",
+    "Pronunciation": "[sound:xianggang.ogg]",
+    "guid": "rUaybtCU<x",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "H\u00e9b\u011bi": {
+    "Capital": "Shijiazhuang",
+    "Etymology": "<div>\u6cb3 h\u00e9\u2014\"(Yellow) River\"</div><div>\u5317 b\u011bi\u2014\"north\"</div><div>\"north of the Yellow River\"</div>",
+    "Map": "<img src=\"Hebei.png\" />",
+    "Name": "H\u00e9b\u011bi",
+    "Name in pinyin": "H\u00e9b\u011bi",
+    "Name in simplified Chinese": "\u6cb3\u5317",
+    "Name in traditional Chinese": "\u6cb3\u5317",
+    "Pronunciation": "[sound:Zh-Hebei.ogg]",
+    "guid": "h5Xdxg*Y@*",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "H\u00e9n\u00e1n": {
+    "Capital": "Zhengzhou",
+    "Etymology": "<div>\u6cb3 h\u00e9 - (Yellow) River</div><div>\u5357 n\u00e1n - south</div><div>\"south of the Yellow River\"</div>",
+    "Map": "<img src=\"Henan.png\" />",
+    "Name": "H\u00e9n\u00e1n",
+    "Name in pinyin": "H\u00e9n\u00e1n",
+    "Name in simplified Chinese": "\u6cb3\u5357",
+    "Name in traditional Chinese": "\u6cb3\u5357",
+    "Pronunciation": "[sound:Zh-Henan.ogg]",
+    "guid": "fYnGu9[];D",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "H\u00fab\u011bi": {
+    "Capital": "Wuhan",
+    "Etymology": "<div>\u6e56 h\u00fa - lake</div><div>\u5317 b\u011bi - north</div><div>\"north of Lake Dongting\"</div>",
+    "Map": "<img src=\"Hubei.png\" />",
+    "Name": "H\u00fab\u011bi",
+    "Name in pinyin": "H\u00fab\u011bi",
+    "Name in simplified Chinese": "\u6e56\u5317",
+    "Name in traditional Chinese": "\u6e56\u5317",
+    "Pronunciation": "[sound:Zh-Hubei.ogg]",
+    "guid": "pLtg?/%U@M",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "H\u00fan\u00e1n": {
+    "Capital": "Changsha",
+    "Etymology": "<div>\u6e56 h\u00fa - lake</div><div>\u5357 n\u00e1n - south</div><div>\"south of the lake \"</div>",
+    "Map": "<img src=\"Hunan.png\" />",
+    "Name": "H\u00fan\u00e1n",
+    "Name in pinyin": "H\u00fan\u00e1n",
+    "Name in simplified Chinese": "\u6e56\u5357",
+    "Name in traditional Chinese": "\u6e56\u5357",
+    "Pronunciation": "[sound:Zh-Hunan.ogg]",
+    "guid": "AaM:8`XW}_",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "H\u0113il\u00f3ngji\u0101ng": {
+    "Capital": "Harbin",
+    "Etymology": "<div>\u9ed1 h\u0113i\u2014black</div><div>\u9f99 l\u00f3ng\u2014dragon</div><div>\u6c5f ji\u0101ng\u2014river</div><div>\"Amur River\"</div>",
+    "Map": "<img src=\"Heilongjiang.png\" />",
+    "Name": "H\u0113il\u00f3ngji\u0101ng",
+    "Name in pinyin": "H\u0113il\u00f3ngji\u0101ng",
+    "Name in simplified Chinese": "\u9ed1\u9f99\u6c5f\u7701",
+    "Name in traditional Chinese": "\u9ed1\u9f8d\u6c5f\u7701",
+    "Pronunciation": "[sound:Zh-Heilongjiang.ogg]",
+    "guid": "H)>J6S}mQ^",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "H\u01cein\u00e1n": {
+    "Capital": "Haikou",
+    "Etymology": "<div>\u6d77 h\u01cei \u2013 sea</div><div>\u5357 n\u00e1n \u2013 south</div><div>\"South of the Sea [Qiongzhou Strait]\"</div>",
+    "Map": "<img src=\"Hainan.png\" />",
+    "Name": "H\u01cein\u00e1n",
+    "Name in pinyin": "H\u01cein\u00e1n",
+    "Name in simplified Chinese": "\u6d77\u5357",
+    "Name in traditional Chinese": "\u6d77\u5357",
+    "Pronunciation": "[sound:Zh-Hainan.ogg]",
+    "guid": "Ctc&>wPxfk",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Inner Mongolia": {
+    "Capital": "Hohhot",
+    "Etymology": "From the Mongolian \u00f6b\u00fcr monggol, where \u00f6b\u00fcr means the front, sunny side of natural barrier (a mountain, mountain range, lake or desert)",
+    "Map": "<img src=\"Inner_Mongolia.png\">",
+    "Name": "Inner Mongolia",
+    "Name in pinyin": "N\u00e8i M\u011bngg\u01d4",
+    "Name in simplified Chinese": "\u5185\u8499\u53e4",
+    "Name in traditional Chinese": "\u5185\u8499\u53e4",
+    "Pronunciation": "",
+    "guid": "GJFQQ=A@T2",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Ji\u0101ngs\u016b": {
+    "Capital": "Nanjing",
+    "Etymology": "<div>\u6c5f ji\u0101ng - Jiangning (now Nanjing)</div><div>\u82cf s\u016b - Suzhou</div>",
+    "Map": "<img src=\"Jiangsu.png\" />",
+    "Name": "Ji\u0101ngs\u016b",
+    "Name in pinyin": "Ji\u0101ngs\u016b",
+    "Name in simplified Chinese": "\u6c5f\u82cf",
+    "Name in traditional Chinese": "\u6c5f\u8607",
+    "Pronunciation": "[sound:Zh-Jiangsu.ogg]",
+    "guid": "hH9Fnk9g-^",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Ji\u0101ngx\u012b": {
+    "Capital": "Nanchang",
+    "Etymology": "<div>Contraction of:</div><div>\u6c5f\u5357\u897f; Ji\u0101ngn\u00e1n X\u012b</div><div>\"The western Jiangnan\"</div>",
+    "Map": "<img src=\"Jiangxi.png\">",
+    "Name": "Ji\u0101ngx\u012b",
+    "Name in pinyin": "Ji\u0101ngx\u012b",
+    "Name in simplified Chinese": "\u6c5f\u897f",
+    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u6c5f\u897f</span>",
+    "Pronunciation": "[sound:Zh-Jiangxi.ogg]",
+    "guid": "uPHtEa^vC!",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "J\u00edl\u00edn": {
+    "Capital": "Changchun",
+    "Etymology": "from girin ula, a Manchu phrase meaning \"along the river\"",
+    "Map": "<img src=\"Jilin.png\" />",
+    "Name": "J\u00edl\u00edn",
+    "Name in pinyin": "J\u00edl\u00edn",
+    "Name in simplified Chinese": "\u5409\u6797",
+    "Name in traditional Chinese": "\u5409\u6797",
+    "Pronunciation": "[sound:Zh-Jilin.ogg]",
+    "guid": "IWQ@IB7X!v",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Li\u00e1on\u00edng": {
+    "Capital": "Shenyang",
+    "Etymology": "Peace forever for the Liao River watershed",
+    "Map": "<img src=\"Liaoning.png\">",
+    "Name": "Li\u00e1on\u00edng",
+    "Name in pinyin": "Li\u00e1on\u00edng",
+    "Name in simplified Chinese": "\u8fbd\u5b81",
+    "Name in traditional Chinese": "\u907c\u5be7",
+    "Pronunciation": "[sound:Zh-Liaoning.ogg]",
+    "guid": "MNDPmsHd6Q",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Macau": {
+    "Capital": "",
+    "Etymology": "Perhaps from the A-Ma Temple (Chinese: \u5abd\u95a3\u5edf; Mandarin Pinyin: M\u0101g\u00e9 Mi\u00e0o), a temple built in 1448 dedicated to Matsu \u2013 the goddess of seafarers and fishermen.<div>The present Chinese name (Chinese: \u6fb3\u9580; Mandarin Pinyin: \u00c0om\u00e9n) means \"Inlet Gates\".</div>",
+    "Map": "<img src=\"Macau.png\">",
+    "Name": "Macau",
+    "Name in pinyin": "\u00c0om\u00e9n",
+    "Name in simplified Chinese": "\u6fb3\u9580",
+    "Name in traditional Chinese": "\u6fb3\u9580",
+    "Pronunciation": "",
+    "guid": "n.o^1(IjK7",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "N\u00edngxi\u00e0": {
+    "Capital": "Yinchuan",
+    "Etymology": "<div>\u5b81 n\u00edng\u2014tranquil</div><div>\u590f xi\u00e0\u2014Western Xia</div><div>\"Tranquil Xia\"</div>",
+    "Map": "<img src=\"Ningxia.png\">",
+    "Name": "N\u00edngxi\u00e0",
+    "Name in pinyin": "N\u00edngxi\u00e0",
+    "Name in simplified Chinese": "\u5b81\u590f",
+    "Name in traditional Chinese": "\u5be7\u590f",
+    "Pronunciation": "[sound:Ning2xia4.ogg]",
+    "guid": "Hg|gsC(mMV",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Q\u012bngh\u01cei": {
+    "Capital": "Xining",
+    "Etymology": "<div>From Khoshut Oirat K\u00f6knuur:</div><div>K\u00f6ke - blue</div><div>Nuur - Lake</div><div>\"blue lake\" (Qinghai Lake)</div><div>In Chinese:</div><div>\u9752 q\u012bng - cyan</div><div>\u6d77 h\u01cei - sea</div><div>\"qing (blue/green/black) sea\"</div>",
+    "Map": "<img src=\"Qinghai.png\" />",
+    "Name": "Q\u012bngh\u01cei",
+    "Name in pinyin": "Q\u012bngh\u01cei",
+    "Name in simplified Chinese": "\u9752\u6d77",
+    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u9752\u6d77</span>",
+    "Pronunciation": "[sound:Zh-Qinghai.ogg]",
+    "guid": "hDS|VHoF#Y",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Sh\u00e0ngh\u01cei": {
+    "Capital": "",
+    "Etymology": "\u4e0a&nbsp;<span style=\" font-style: normal; font-weight: normal;\">\u2013 above</span><div>\u6d77 \u2013 sea</div><div>\"upon the sea\"</div>",
+    "Map": "<img src=\"Shanghai.png\">",
+    "Name": "Sh\u00e0ngh\u01cei",
+    "Name in pinyin": "Sh\u00e0ngh\u01cei",
+    "Name in simplified Chinese": "\u4e0a\u6d77",
+    "Name in traditional Chinese": "\u4e0a\u6d77",
+    "Pronunciation": "[sound:Zh-Shanghai.ogg]",
+    "guid": "v70![,heR?",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Sh\u0101nd\u014dng": {
+    "Capital": "Jinan",
+    "Etymology": "<div>\u5c71 sh\u0101n \u2013 mountain</div><div>\u4e1c d\u014dng &nbsp;\u2013 east</div><div>\"east of the Taihang Mountains\"</div>",
+    "Map": "<img src=\"Shandong.png\" />",
+    "Name": "Sh\u0101nd\u014dng",
+    "Name in pinyin": "Sh\u0101nd\u014dng",
+    "Name in simplified Chinese": "\u5c71\u4e1c",
+    "Name in traditional Chinese": "\u5c71\u6771",
+    "Pronunciation": "[sound:Zh-Shandong.ogg]",
+    "guid": "kfKz]{D>.1",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Sh\u0101nx\u012b": {
+    "Capital": "Taiyuan",
+    "Etymology": "<div>\u5c71 sh\u0101n - mountain</div><div>\u897f x\u012b - west</div><div>\"west of the Taihang Mountains\"</div>",
+    "Map": "<img src=\"Shanxi.png\">",
+    "Name": "Sh\u0101nx\u012b",
+    "Name in pinyin": "Sh\u0101nx\u012b",
+    "Name in simplified Chinese": "\u5c71\u897f",
+    "Name in traditional Chinese": "\u5c71\u897f",
+    "Pronunciation": "[sound:Zh-Shanxi.ogg]",
+    "guid": "wiW+6_)kNm",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Sh\u01ceanx\u012b": {
+    "Capital": "Xi'an",
+    "Etymology": "<div>\u9655 sh\u01cen - Shanzhou (now Shan County, Henan)</div><div>\u897f x\u012b - west</div><div>\"west of Shanzhou\"</div>",
+    "Map": "<img src=\"Shaanxi.png\" />",
+    "Name": "Sh\u01ceanx\u012b",
+    "Name in pinyin": "Sh\u01cenx\u012b",
+    "Name in simplified Chinese": "\u9655\u897f",
+    "Name in traditional Chinese": "\u965d\u897f",
+    "Pronunciation": "[sound:Zh-Shaanxi.ogg]",
+    "guid": "KK%.J3fi<m",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "S\u00ecchu\u0101n": {
+    "Capital": "Chengdu",
+    "Etymology": "<div>Short for \u5ddd\u5ce1\u56db\u8def chu\u0101nxi\u00e1 s\u00ecl\u00f9</div><div>literally \"The Four Circuits</div><div>of the Rivers and Gorges\",</div><div>referring to the four circuits during the Song Dynasty</div>",
+    "Map": "<img src=\"Sichuan.png\" />",
+    "Name": "S\u00ecchu\u0101n",
+    "Name in pinyin": "S\u00ecchu\u0101n",
+    "Name in simplified Chinese": "\u56db\u5ddd",
+    "Name in traditional Chinese": "\u56db\u5ddd",
+    "Pronunciation": "[sound:Zh-Sichuan.ogg]",
+    "guid": "D)+=.f+AOi",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Tibet": {
+    "Capital": "Lhasa",
+    "Etymology": "Disputed (Tibet names in European languages are loanwords from Arabic Tibat or Tobatt and Persian Tubbat)",
+    "Map": "<img src=\"Tibet.png\" />",
+    "Name": "Tibet",
+    "Name in pinyin": "X\u012bz\u00e0ng Z\u00eczh\u00ecq\u016b",
+    "Name in simplified Chinese": "\u897f\u85cf\u81ea\u6cbb\u533a",
+    "Name in traditional Chinese": "\u897f\u85cf\u81ea\u6cbb\u5340",
+    "Pronunciation": "",
+    "guid": "O;Y`&BOXAD",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Ti\u0101nj\u012bn": {
+    "Capital": "",
+    "Etymology": "<span style=\" font-style: normal; font-weight: normal;\">\u5929&nbsp;</span><span style=\" font-style: normal; font-weight: normal;\">\u2013&nbsp;</span>sky<div></div><div>\u6d25&nbsp;\u2013 ferry</div>",
+    "Map": "<img src=\"Tianjin.png\" />",
+    "Name": "Ti\u0101nj\u012bn",
+    "Name in pinyin": "Ti\u0101nj\u012bn",
+    "Name in simplified Chinese": "\u5929\u6d25",
+    "Name in traditional Chinese": "\u5929\u6d25",
+    "Pronunciation": "[sound:Zh-Tianjin.ogg]",
+    "guid": "QU6s9SP$;>",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "X\u012bnji\u0101ng": {
+    "Capital": "\u00dcr\u00fcmqi",
+    "Etymology": "<div>\u65b0 x\u012bn \u2013 new</div><div>\u7586 ji\u0101ng \u2013 frontier</div><div>\"new frontier\"</div>",
+    "Map": "<img src=\"Xinjiang.png\" />",
+    "Name": "X\u012bnji\u0101ng",
+    "Name in pinyin": "X\u012bnji\u0101ng",
+    "Name in simplified Chinese": "\u65b0\u7586",
+    "Name in traditional Chinese": "\u65b0\u7586",
+    "Pronunciation": "",
+    "guid": "fRC~*nSZ}_",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Y\u00fann\u00e1n": {
+    "Capital": "Kunming",
+    "Etymology": "<div>\u4e91 y\u00fan \u2013 Yunling Mountains</div><div>\u5357 n\u00e1n \u2013 south</div><div>\"South of the Yunling Mountains\"</div>",
+    "Map": "<img src=\"Yunnan.png\" />",
+    "Name": "Y\u00fann\u00e1n",
+    "Name in pinyin": "Y\u00fann\u00e1n",
+    "Name in simplified Chinese": "\u4e91\u5357",
+    "Name in traditional Chinese": "\u96f2\u5357",
+    "Pronunciation": "[sound:Zh-Yunnan.ogg]",
+    "guid": "A_Ndckhk1$",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "Zh\u00e8ji\u0101ng": {
+    "Capital": "Hangzhou",
+    "Etymology": "<div>\u6298\u6c5f - \"crooked river\"</div><div>Now the river's name is&nbsp;Qiantang River,&nbsp;in honour of the kings of Wuyue</div>",
+    "Map": "<img src=\"Zhejiang.png\" />",
+    "Name": "Zh\u00e8ji\u0101ng",
+    "Name in pinyin": "Zh\u00e8ji\u0101ng",
+    "Name in simplified Chinese": "\u6d59\u6c5f",
+    "Name in traditional Chinese": "\u6d59\u6c5f",
+    "Pronunciation": "[sound:Zh-Zhejiang.ogg]",
+    "guid": "ziTm<96-GG",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
+  },
+  "\u0100nhu\u012b": {
+    "Capital": "Hefei",
+    "Etymology": "<div>\u5b89 \u0101n - Anqing</div><div>\u5fbd hu\u012b - Huizhou (now Huangshan city)</div>",
+    "Map": "<img src=\"Anhui.png\" />",
+    "Name": "\u0100nhu\u012b",
+    "Name in pinyin": "\u0100nhu\u012b",
+    "Name in simplified Chinese": "\u5b89\u5fbd",
+    "Name in traditional Chinese": "<span style=\" font-style: normal; font-weight: normal;\">\u5b89\u5fbd</span>",
+    "Pronunciation": "[sound:Zh-Anhui.ogg]",
+    "guid": "r>W6]XX~BS",
+    "model_name": "TriviAnki-UG-China",
+    "mtime": 1723753382,
+    "tags": [
+      "trivia::UE::Geography",
+      "trivia::UE::UG::China"
+    ]
   }
 }

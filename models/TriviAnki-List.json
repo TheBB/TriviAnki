@@ -1,532 +1,532 @@
 {
-    "id": 1737707616305,
-    "name": "TriviAnki-List",
-    "type": 0,
-    "mod": 1746094481,
-    "usn": 0,
-    "sortf": 0,
-    "did": 1590595834392,
-    "tmpls": [
-        {
-            "name": "Item 1",
-            "ord": 0,
-            "qfmt": "\n            {{#Item1}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>First {{ItemName}}{{#FirstContext}} (<span class=\"highlight\">{{FirstContext}}</span>){{/FirstContext}}</div>\n            </div>\n            </div>\n            {{/Item1}}\n            ",
-            "afmt": "\n            {{#Item1}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>First {{ItemName}}{{#FirstContext}} (<span class=\"highlight\">{{FirstContext}}</span>){{/FirstContext}}</div>\n                <hr id=\"answer\">\n                <div class=\"header\">1. {{Item1}}{{^Item2}} (last {{ItemName}}){{/Item2}}</div>\n                {{#Extra1}}<div class=\"supplement\">{{Extra1}}</div>{{/Extra1}}\n            </div>\n            </div>\n            {{/Item1}}\n            ",
-            "bqfmt": "{{Item1}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": null
-        },
-        {
-            "name": "Item 2",
-            "ord": 1,
-            "qfmt": "\n            {{#Item2}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (1) <span class=\"highlight\">{{Item1}}</span></div>\n            </div>\n            </div>\n            {{/Item2}}\n            ",
-            "afmt": "\n            {{#Item2}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (1) <span class=\"highlight\">{{Item1}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">2. {{Item2}}{{^Item3}} (last {{ItemName}}){{/Item3}}</div>\n                {{#Extra2}}<div class=\"supplement\">{{Extra2}}</div>{{/Extra2}}\n            </div>\n            </div>\n            {{/Item2}}\n            ",
-            "bqfmt": "{{Item2}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": -4803297473034166906
-        },
-        {
-            "name": "Item 3",
-            "ord": 2,
-            "qfmt": "\n            {{#Item3}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (2) <span class=\"highlight\">{{Item2}}</span></div>\n            </div>\n            </div>\n            {{/Item3}}\n            ",
-            "afmt": "\n            {{#Item3}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (2) <span class=\"highlight\">{{Item2}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">3. {{Item3}}{{^Item4}} (last {{ItemName}}){{/Item4}}</div>\n                {{#Extra3}}<div class=\"supplement\">{{Extra3}}</div>{{/Extra3}}\n            </div>\n            </div>\n            {{/Item3}}\n            ",
-            "bqfmt": "{{Item3}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": -439273670369047565
-        },
-        {
-            "name": "Item 4",
-            "ord": 3,
-            "qfmt": "\n            {{#Item4}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (3) <span class=\"highlight\">{{Item3}}</span></div>\n            </div>\n            </div>\n            {{/Item4}}\n            ",
-            "afmt": "\n            {{#Item4}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (3) <span class=\"highlight\">{{Item3}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">4. {{Item4}}{{^Item5}} (last {{ItemName}}){{/Item5}}</div>\n                {{#Extra4}}<div class=\"supplement\">{{Extra4}}</div>{{/Extra4}}\n            </div>\n            </div>\n            {{/Item4}}\n            ",
-            "bqfmt": "{{Item4}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": 5221399490343063438
-        },
-        {
-            "name": "Item 5",
-            "ord": 4,
-            "qfmt": "\n            {{#Item5}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (4) <span class=\"highlight\">{{Item4}}</span></div>\n            </div>\n            </div>\n            {{/Item5}}\n            ",
-            "afmt": "\n            {{#Item5}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (4) <span class=\"highlight\">{{Item4}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">5. {{Item5}}{{^Item6}} (last {{ItemName}}){{/Item6}}</div>\n                {{#Extra5}}<div class=\"supplement\">{{Extra5}}</div>{{/Extra5}}\n            </div>\n            </div>\n            {{/Item5}}\n            ",
-            "bqfmt": "{{Item5}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": -4487102314386916537
-        },
-        {
-            "name": "Item 6",
-            "ord": 5,
-            "qfmt": "\n            {{#Item6}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (5) <span class=\"highlight\">{{Item5}}</span></div>\n            </div>\n            </div>\n            {{/Item6}}\n            ",
-            "afmt": "\n            {{#Item6}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (5) <span class=\"highlight\">{{Item5}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">6. {{Item6}}{{^Item7}} (last {{ItemName}}){{/Item7}}</div>\n                {{#Extra6}}<div class=\"supplement\">{{Extra6}}</div>{{/Extra6}}\n            </div>\n            </div>\n            {{/Item6}}\n            ",
-            "bqfmt": "{{Item6}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": -3137946874007009345
-        },
-        {
-            "name": "Item 7",
-            "ord": 6,
-            "qfmt": "\n            {{#Item7}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (6) <span class=\"highlight\">{{Item6}}</span></div>\n            </div>\n            </div>\n            {{/Item7}}\n            ",
-            "afmt": "\n            {{#Item7}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (6) <span class=\"highlight\">{{Item6}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">7. {{Item7}}{{^Item8}} (last {{ItemName}}){{/Item8}}</div>\n                {{#Extra7}}<div class=\"supplement\">{{Extra7}}</div>{{/Extra7}}\n            </div>\n            </div>\n            {{/Item7}}\n            ",
-            "bqfmt": "{{Item7}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": 8285248533296407344
-        },
-        {
-            "name": "Item 8",
-            "ord": 7,
-            "qfmt": "\n            {{#Item8}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (7) <span class=\"highlight\">{{Item7}}</span></div>\n            </div>\n            </div>\n            {{/Item8}}\n            ",
-            "afmt": "\n            {{#Item8}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (7) <span class=\"highlight\">{{Item7}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">8. {{Item8}}{{^Item9}} (last {{ItemName}}){{/Item9}}</div>\n                {{#Extra8}}<div class=\"supplement\">{{Extra8}}</div>{{/Extra8}}\n            </div>\n            </div>\n            {{/Item8}}\n            ",
-            "bqfmt": "{{Item8}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": 3971905364801328284
-        },
-        {
-            "name": "Item 9",
-            "ord": 8,
-            "qfmt": "\n            {{#Item9}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (8) <span class=\"highlight\">{{Item8}}</span></div>\n            </div>\n            </div>\n            {{/Item9}}\n            ",
-            "afmt": "\n            {{#Item9}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (8) <span class=\"highlight\">{{Item8}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">9. {{Item9}} (last {{ItemName}})</div>\n                {{#Extra9}}<div class=\"supplement\">{{Extra9}}</div>{{/Extra9}}\n            </div>\n            </div>\n            {{/Item9}}\n            ",
-            "bqfmt": "{{Item9}}",
-            "bafmt": "",
-            "did": null,
-            "bfont": "",
-            "bsize": 0,
-            "id": -7211016392074523172
-        }
+  "crowdanki_uuid": "df31f0bd-bd66-11ea-bd89-28565a51d1ae",
+  "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
+  "did": 1590595834392,
+  "flds": [
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Header",
+      "ord": 0,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "ItemName",
+      "ord": 1,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "FirstContext",
+      "ord": 2,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item1",
+      "ord": 3,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra1",
+      "ord": 4,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item2",
+      "ord": 5,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra2",
+      "ord": 6,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item3",
+      "ord": 7,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra3",
+      "ord": 8,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item4",
+      "ord": 9,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra4",
+      "ord": 10,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item5",
+      "ord": 11,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra5",
+      "ord": 12,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item6",
+      "ord": 13,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra6",
+      "ord": 14,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item7",
+      "ord": 15,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra7",
+      "ord": 16,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item8",
+      "ord": 17,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra8",
+      "ord": 18,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Item9",
+      "ord": 19,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    },
+    {
+      "collapsed": false,
+      "description": "",
+      "excludeFromSearch": false,
+      "font": "Arial",
+      "id": null,
+      "media": [],
+      "name": "Extra9",
+      "ord": 20,
+      "plainText": false,
+      "preventDeletion": false,
+      "rtl": false,
+      "size": 20,
+      "sticky": false,
+      "tag": null
+    }
+  ],
+  "id": 1737707616305,
+  "latexPost": "\\end{document}",
+  "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+  "latexsvg": false,
+  "mod": 1746094481,
+  "name": "TriviAnki-List",
+  "req": [
+    [
+      0,
+      "all",
+      [
+        3
+      ]
     ],
-    "flds": [
-        {
-            "name": "Header",
-            "ord": 0,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "ItemName",
-            "ord": 1,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "FirstContext",
-            "ord": 2,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item1",
-            "ord": 3,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra1",
-            "ord": 4,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item2",
-            "ord": 5,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra2",
-            "ord": 6,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item3",
-            "ord": 7,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra3",
-            "ord": 8,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item4",
-            "ord": 9,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra4",
-            "ord": 10,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item5",
-            "ord": 11,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra5",
-            "ord": 12,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item6",
-            "ord": 13,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra6",
-            "ord": 14,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item7",
-            "ord": 15,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra7",
-            "ord": 16,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item8",
-            "ord": 17,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra8",
-            "ord": 18,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Item9",
-            "ord": 19,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        },
-        {
-            "name": "Extra9",
-            "ord": 20,
-            "sticky": false,
-            "rtl": false,
-            "font": "Arial",
-            "size": 20,
-            "description": "",
-            "plainText": false,
-            "collapsed": false,
-            "excludeFromSearch": false,
-            "id": null,
-            "tag": null,
-            "preventDeletion": false,
-            "media": []
-        }
+    [
+      1,
+      "all",
+      [
+        5
+      ]
     ],
-    "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
-    "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-    "latexPost": "\\end{document}",
-    "latexsvg": false,
-    "req": [
-        [
-            0,
-            "all",
-            [
-                3
-            ]
-        ],
-        [
-            1,
-            "all",
-            [
-                5
-            ]
-        ],
-        [
-            2,
-            "all",
-            [
-                7
-            ]
-        ],
-        [
-            3,
-            "all",
-            [
-                9
-            ]
-        ],
-        [
-            4,
-            "all",
-            [
-                11
-            ]
-        ],
-        [
-            5,
-            "all",
-            [
-                13
-            ]
-        ],
-        [
-            6,
-            "all",
-            [
-                15
-            ]
-        ],
-        [
-            7,
-            "all",
-            [
-                17
-            ]
-        ],
-        [
-            8,
-            "all",
-            [
-                19
-            ]
-        ]
+    [
+      2,
+      "all",
+      [
+        7
+      ]
     ],
-    "tags": [
-        "BarExam",
-        "Torts"
+    [
+      3,
+      "all",
+      [
+        9
+      ]
     ],
-    "vers": [],
-    "crowdanki_uuid": "df31f0bd-bd66-11ea-bd89-28565a51d1ae"
+    [
+      4,
+      "all",
+      [
+        11
+      ]
+    ],
+    [
+      5,
+      "all",
+      [
+        13
+      ]
+    ],
+    [
+      6,
+      "all",
+      [
+        15
+      ]
+    ],
+    [
+      7,
+      "all",
+      [
+        17
+      ]
+    ],
+    [
+      8,
+      "all",
+      [
+        19
+      ]
+    ]
+  ],
+  "sortf": 0,
+  "tags": [
+    "BarExam",
+    "Torts"
+  ],
+  "tmpls": [
+    {
+      "afmt": "\n            {{#Item1}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>First {{ItemName}}{{#FirstContext}} (<span class=\"highlight\">{{FirstContext}}</span>){{/FirstContext}}</div>\n                <hr id=\"answer\">\n                <div class=\"header\">1. {{Item1}}{{^Item2}} (last {{ItemName}}){{/Item2}}</div>\n                {{#Extra1}}<div class=\"supplement\">{{Extra1}}</div>{{/Extra1}}\n            </div>\n            </div>\n            {{/Item1}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item1}}",
+      "bsize": 0,
+      "did": null,
+      "id": null,
+      "name": "Item 1",
+      "ord": 0,
+      "qfmt": "\n            {{#Item1}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>First {{ItemName}}{{#FirstContext}} (<span class=\"highlight\">{{FirstContext}}</span>){{/FirstContext}}</div>\n            </div>\n            </div>\n            {{/Item1}}\n            "
+    },
+    {
+      "afmt": "\n            {{#Item2}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (1) <span class=\"highlight\">{{Item1}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">2. {{Item2}}{{^Item3}} (last {{ItemName}}){{/Item3}}</div>\n                {{#Extra2}}<div class=\"supplement\">{{Extra2}}</div>{{/Extra2}}\n            </div>\n            </div>\n            {{/Item2}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item2}}",
+      "bsize": 0,
+      "did": null,
+      "id": -4803297473034166906,
+      "name": "Item 2",
+      "ord": 1,
+      "qfmt": "\n            {{#Item2}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (1) <span class=\"highlight\">{{Item1}}</span></div>\n            </div>\n            </div>\n            {{/Item2}}\n            "
+    },
+    {
+      "afmt": "\n            {{#Item3}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (2) <span class=\"highlight\">{{Item2}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">3. {{Item3}}{{^Item4}} (last {{ItemName}}){{/Item4}}</div>\n                {{#Extra3}}<div class=\"supplement\">{{Extra3}}</div>{{/Extra3}}\n            </div>\n            </div>\n            {{/Item3}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item3}}",
+      "bsize": 0,
+      "did": null,
+      "id": -439273670369047565,
+      "name": "Item 3",
+      "ord": 2,
+      "qfmt": "\n            {{#Item3}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (2) <span class=\"highlight\">{{Item2}}</span></div>\n            </div>\n            </div>\n            {{/Item3}}\n            "
+    },
+    {
+      "afmt": "\n            {{#Item4}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (3) <span class=\"highlight\">{{Item3}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">4. {{Item4}}{{^Item5}} (last {{ItemName}}){{/Item5}}</div>\n                {{#Extra4}}<div class=\"supplement\">{{Extra4}}</div>{{/Extra4}}\n            </div>\n            </div>\n            {{/Item4}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item4}}",
+      "bsize": 0,
+      "did": null,
+      "id": 5221399490343063438,
+      "name": "Item 4",
+      "ord": 3,
+      "qfmt": "\n            {{#Item4}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (3) <span class=\"highlight\">{{Item3}}</span></div>\n            </div>\n            </div>\n            {{/Item4}}\n            "
+    },
+    {
+      "afmt": "\n            {{#Item5}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (4) <span class=\"highlight\">{{Item4}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">5. {{Item5}}{{^Item6}} (last {{ItemName}}){{/Item6}}</div>\n                {{#Extra5}}<div class=\"supplement\">{{Extra5}}</div>{{/Extra5}}\n            </div>\n            </div>\n            {{/Item5}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item5}}",
+      "bsize": 0,
+      "did": null,
+      "id": -4487102314386916537,
+      "name": "Item 5",
+      "ord": 4,
+      "qfmt": "\n            {{#Item5}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (4) <span class=\"highlight\">{{Item4}}</span></div>\n            </div>\n            </div>\n            {{/Item5}}\n            "
+    },
+    {
+      "afmt": "\n            {{#Item6}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (5) <span class=\"highlight\">{{Item5}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">6. {{Item6}}{{^Item7}} (last {{ItemName}}){{/Item7}}</div>\n                {{#Extra6}}<div class=\"supplement\">{{Extra6}}</div>{{/Extra6}}\n            </div>\n            </div>\n            {{/Item6}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item6}}",
+      "bsize": 0,
+      "did": null,
+      "id": -3137946874007009345,
+      "name": "Item 6",
+      "ord": 5,
+      "qfmt": "\n            {{#Item6}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (5) <span class=\"highlight\">{{Item5}}</span></div>\n            </div>\n            </div>\n            {{/Item6}}\n            "
+    },
+    {
+      "afmt": "\n            {{#Item7}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (6) <span class=\"highlight\">{{Item6}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">7. {{Item7}}{{^Item8}} (last {{ItemName}}){{/Item8}}</div>\n                {{#Extra7}}<div class=\"supplement\">{{Extra7}}</div>{{/Extra7}}\n            </div>\n            </div>\n            {{/Item7}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item7}}",
+      "bsize": 0,
+      "did": null,
+      "id": 8285248533296407344,
+      "name": "Item 7",
+      "ord": 6,
+      "qfmt": "\n            {{#Item7}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (6) <span class=\"highlight\">{{Item6}}</span></div>\n            </div>\n            </div>\n            {{/Item7}}\n            "
+    },
+    {
+      "afmt": "\n            {{#Item8}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (7) <span class=\"highlight\">{{Item7}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">8. {{Item8}}{{^Item9}} (last {{ItemName}}){{/Item9}}</div>\n                {{#Extra8}}<div class=\"supplement\">{{Extra8}}</div>{{/Extra8}}\n            </div>\n            </div>\n            {{/Item8}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item8}}",
+      "bsize": 0,
+      "did": null,
+      "id": 3971905364801328284,
+      "name": "Item 8",
+      "ord": 7,
+      "qfmt": "\n            {{#Item8}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (7) <span class=\"highlight\">{{Item7}}</span></div>\n            </div>\n            </div>\n            {{/Item8}}\n            "
+    },
+    {
+      "afmt": "\n            {{#Item9}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (8) <span class=\"highlight\">{{Item8}}</span></div>\n                <hr id=\"answer\">\n                <div class=\"header\">9. {{Item9}} (last {{ItemName}})</div>\n                {{#Extra9}}<div class=\"supplement\">{{Extra9}}</div>{{/Extra9}}\n            </div>\n            </div>\n            {{/Item9}}\n            ",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "{{Item9}}",
+      "bsize": 0,
+      "did": null,
+      "id": -7211016392074523172,
+      "name": "Item 9",
+      "ord": 8,
+      "qfmt": "\n            {{#Item9}}\n            <div class=\"container\">\n            <div class=\"top\">\n                <div class=\"notetype\">List</div>\n                <div class=\"header\">{{Header}}</div>\n                <div>After (8) <span class=\"highlight\">{{Item8}}</span></div>\n            </div>\n            </div>\n            {{/Item9}}\n            "
+    }
+  ],
+  "type": 0,
+  "usn": 0,
+  "vers": []
 }
