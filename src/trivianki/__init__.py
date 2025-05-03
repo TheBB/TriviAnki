@@ -9,7 +9,7 @@ from abc import ABC, abstractmethod
 from itertools import chain
 from pathlib import Path
 from tempfile import TemporaryDirectory
-from typing import TYPE_CHECKING, Any, Literal, Self, TypeAlias
+from typing import TYPE_CHECKING, Any, Literal, Self, TypeAlias, ClassVar, Callable, TypeVar
 
 import click
 from anki.collection import Collection, DeckIdLimit, ExportAnkiPackageOptions
@@ -43,11 +43,46 @@ MODELS: list[str] = [
 ]
 
 
-class NoteBase(BaseModel, ABC):
+T = TypeVar("T", bound="type[Note]")
+
+
+class Note(BaseModel, ABC):
+    implementors: ClassVar[dict[str, type[Note]]] = {}
+
     model_name: str
     guid: str
     mtime: int
     tags: list[str]
+
+    @staticmethod
+    def implementor(name: str) -> type[Note]:
+        return Note.implementors[name]
+
+    @staticmethod
+    def register_implementor(name: str) -> Callable[[T], T]:
+        def decorator(cls: T) -> T:
+            Note.implementors[name] = cls
+            return cls
+        return decorator
+
+    @staticmethod
+    def from_anki(note: AnkiNote) -> Note:
+        model = note.note_type()
+        assert model is not None
+        try:
+            return NoteLoader.model_validate(
+                {
+                    "note": {
+                        "model_name": model["name"],
+                        "guid": note.guid,
+                        "mtime": note.mod,
+                        "tags": note.tags,
+                        **dict(note),
+                    },
+                }
+            ).note
+        except ValidationError:
+            raise ValueError(f"Unable to load note of type {model['name']}")
 
     @classmethod
     def load_all(cls, path: Path) -> dict[str, Self]:
@@ -73,7 +108,7 @@ class NoteBase(BaseModel, ABC):
     @classmethod
     def field_names(cls) -> Iterator[str]:
         for field in cls.model_fields:
-            if field not in NoteBase.model_fields:
+            if field not in Note.model_fields:
                 yield field
 
     def files(self) -> Iterator[str]:
@@ -95,7 +130,8 @@ class NoteBase(BaseModel, ABC):
     def uid(self) -> str: ...
 
 
-class UsSubdiv(NoteBase):
+@Note.register_implementor("TriviAnki-UG-USA")
+class UsSubdiv(Note):
     model_name: Literal["TriviAnki-UG-USA"]
     name: str = Field(alias="Name")
     map: str = Field(alias="Map")
@@ -108,7 +144,8 @@ class UsSubdiv(NoteBase):
         return self.name
 
 
-class CanadaSubdiv(NoteBase):
+@Note.register_implementor("TriviAnki-UG-Canada")
+class CanadaSubdiv(Note):
     model_name: Literal["TriviAnki-UG-Canada"]
     territory: str = Field(alias="Territory")
     capital: str = Field(alias="Capital")
@@ -124,7 +161,8 @@ class CanadaSubdiv(NoteBase):
         return self.territory
 
 
-class ChinaSubdiv(NoteBase):
+@Note.register_implementor("TriviAnki-UG-China")
+class ChinaSubdiv(Note):
     model_name: Literal["TriviAnki-UG-China"]
     map: str = Field(alias="Map")
     name: str = Field(alias="Name")
@@ -140,7 +178,8 @@ class ChinaSubdiv(NoteBase):
         return self.name
 
 
-class AustraliaSubdiv(NoteBase):
+@Note.register_implementor("TriviAnki-UG-Australia")
+class AustraliaSubdiv(Note):
     model_name: Literal["TriviAnki-UG-Australia"]
     name: str = Field(alias="Name")
     picture: str = Field(alias="Picture")
@@ -153,7 +192,8 @@ class AustraliaSubdiv(NoteBase):
         return self.name
 
 
-class GermanySubdiv(NoteBase):
+@Note.register_implementor("TriviAnki-UG-Germany")
+class GermanySubdiv(Note):
     model_name: Literal["TriviAnki-UG-Germany"]
     name: str = Field(alias="German State")
     capital: str = Field(alias="Capital")
@@ -166,7 +206,8 @@ class GermanySubdiv(NoteBase):
         return self.name
 
 
-class Country(NoteBase):
+@Note.register_implementor("TriviAnki-UG-Country")
+class Country(Note):
     model_name: Literal["TriviAnki-UG-Country"]
     country: str = Field(alias="Country")
     country_info: str = Field(alias="Country info")
@@ -182,7 +223,8 @@ class Country(NoteBase):
         return self.country
 
 
-class Location(NoteBase):
+@Note.register_implementor("TriviAnki-UG-Location")
+class Location(Note):
     model_name: Literal["TriviAnki-UG-Location"]
     name: str = Field(alias="Name")
     map: str = Field(alias="Map")
@@ -193,7 +235,8 @@ class Location(NoteBase):
         return self.name
 
 
-class Art(NoteBase):
+@Note.register_implementor("TriviAnki-Art")
+class Art(Note):
     model_name: Literal["TriviAnki-Art"]
     artwork: str = Field(alias="Artwork")
     artist: str = Field(alias="Artist")
@@ -210,7 +253,8 @@ class Art(NoteBase):
         return self.artwork
 
 
-class Team(NoteBase):
+@Note.register_implementor("TriviAnki-SportsTeams")
+class Team(Note):
     model_name: Literal["TriviAnki-SportsTeams"]
     name: str = Field(alias="Team Name")
     city: str = Field(alias="City")
@@ -228,7 +272,8 @@ class Team(NoteBase):
         return f"{self.city} {self.name}"
 
 
-class Greek(NoteBase):
+@Note.register_implementor("TriviAnki-GreekAlphabet")
+class Greek(Note):
     model_name: Literal["TriviAnki-GreekAlphabet"]
     front: str = Field(alias="Front")
     back: str = Field(alias="Back")
@@ -238,7 +283,8 @@ class Greek(NoteBase):
         return self.front
 
 
-class Basic(NoteBase):
+@Note.register_implementor("TriviAnki-Basic")
+class Basic(Note):
     model_name: Literal["TriviAnki-Basic"]
     front: str = Field(alias="Front")
     back: str = Field(alias="Back")
@@ -248,7 +294,8 @@ class Basic(NoteBase):
         return self.guid
 
 
-class BasicImg(NoteBase):
+@Note.register_implementor("TriviAnki-Basic-Img")
+class BasicImg(Note):
     model_name: Literal["TriviAnki-Basic-Img"]
     front: str = Field(alias="Front")
     image: str = Field(alias="Image")
@@ -259,7 +306,8 @@ class BasicImg(NoteBase):
         return self.guid
 
 
-class Cloze(NoteBase):
+@Note.register_implementor("TriviAnki-Cloze")
+class Cloze(Note):
     model_name: Literal["TriviAnki-Cloze"]
     text: str = Field(alias="Text")
     extra: str = Field(alias="Extra")
@@ -269,7 +317,8 @@ class Cloze(NoteBase):
         return self.guid
 
 
-class Occlusion(NoteBase):
+@Note.register_implementor("TriviAnki-IO")
+class Occlusion(Note):
     model_name: Literal["TriviAnki-IO"]
     occlusion: str = Field(alias="Occlusion")
     image: str = Field(alias="Image")
@@ -282,7 +331,8 @@ class Occlusion(NoteBase):
         return self.guid
 
 
-class List(NoteBase):
+@Note.register_implementor("TriviAnki-List")
+class List(Note):
     model_name: Literal["TriviAnki-List"]
     header: str = Field(alias="Header")
     item_name: str = Field(alias="ItemName")
@@ -332,7 +382,7 @@ class List(NoteBase):
             yield from iter(files_in_str(string))
 
 
-Note: TypeAlias = (
+NoteUnion: TypeAlias = (
     UsSubdiv
     | CanadaSubdiv
     | ChinaSubdiv
@@ -352,47 +402,13 @@ Note: TypeAlias = (
 
 
 class NoteLoader(BaseModel):
-    note: Note
-
-    @staticmethod
-    def from_anki(note: AnkiNote) -> Note:
-        model = note.note_type()
-        assert model is not None
-        try:
-            return NoteLoader.model_validate(
-                {
-                    "note": {
-                        "model_name": model["name"],
-                        "guid": note.guid,
-                        "mtime": note.mod,
-                        "tags": note.tags,
-                        **dict(note),
-                    },
-                }
-            ).note
-        except ValidationError:
-            raise ValueError(f"Unable to load note of type {model['name']}")
+    note: NoteUnion
 
 
 class Database(BaseModel):
     root_path: Path
 
-    usa: dict[str, UsSubdiv]
-    canada: dict[str, CanadaSubdiv]
-    china: dict[str, ChinaSubdiv]
-    australia: dict[str, AustraliaSubdiv]
-    germany: dict[str, GermanySubdiv]
-    countries: dict[str, Country]
-    locations: dict[str, Location]
-    art: dict[str, Art]
-    teams: dict[str, Team]
-    greek: dict[str, Greek]
-
-    basic: dict[str, Basic]
-    basic_img: dict[str, BasicImg]
-    cloze: dict[str, Cloze]
-    occlusions: dict[str, Occlusion]
-    lists: dict[str, List]
+    all_notes: dict[str, dict[str, Note]]
 
     @property
     def media_path(self) -> Path:
@@ -421,121 +437,32 @@ class Database(BaseModel):
             yield self.get_model(filename.with_suffix("").name)
 
     def insert_note(self, anki_note: AnkiNote) -> None:
-        note = NoteLoader.from_anki(anki_note)
-
-        match note:
-            case UsSubdiv():
-                self.usa[note.uid] = note
-            case CanadaSubdiv():
-                self.canada[note.uid] = note
-            case ChinaSubdiv():
-                self.china[note.uid] = note
-            case AustraliaSubdiv():
-                self.australia[note.uid] = note
-            case GermanySubdiv():
-                self.germany[note.uid] = note
-            case Country():
-                self.countries[note.uid] = note
-            case Location():
-                self.locations[note.uid] = note
-            case Art():
-                self.art[note.uid] = note
-            case Team():
-                self.teams[note.uid] = note
-            case Greek():
-                self.greek[note.uid] = note
-            case Basic():
-                self.basic[note.uid] = note
-            case BasicImg():
-                self.basic_img[note.uid] = note
-            case Cloze():
-                self.cloze[note.uid] = note
-            case Occlusion():
-                self.occlusions[note.uid] = note
-            case List():
-                self.lists[note.uid] = note
-            case _:
-                raise ValueError(f"Unknown note type: {note.model_name}")
+        note = Note.from_anki(anki_note)
+        self.all_notes[note.model_name][note.uid] = note
 
         for file in note.files():
             shutil.copy(str(Path(anki_note.col.media._dir) / file), str(self.media_path / file))
 
     def note_count(self) -> int:
-        return (
-            len(self.usa)
-            + len(self.canada)
-            + len(self.china)
-            + len(self.australia)
-            + len(self.germany)
-            + len(self.countries)
-            + len(self.locations)
-            + len(self.art)
-            + len(self.teams)
-            + len(self.greek)
-            + len(self.basic)
-            + len(self.basic_img)
-            + len(self.cloze)
-            + len(self.occlusions)
-            + len(self.lists)
-        )
+        return sum(len(notes) for notes in self.all_notes.values())
 
     def notes(self) -> Iterator[Note]:
-        notes = chain(
-            self.usa.values(),
-            self.canada.values(),
-            self.china.values(),
-            self.australia.values(),
-            self.germany.values(),
-            self.countries.values(),
-            self.locations.values(),
-            self.art.values(),
-            self.teams.values(),
-            self.greek.values(),
-            self.basic.values(),
-            self.basic_img.values(),
-            self.cloze.values(),
-            self.occlusions.values(),
-            self.lists.values(),
-        )
-        yield from notes
+        yield from chain.from_iterable(notes.values() for notes in self.all_notes.values())
 
     @staticmethod
     def load(root_path: Path) -> Database:
+        notes = {
+            name: cls.load_all(root_path / "notes")
+            for name, cls in Note.implementors.items()
+        }
         return Database(
             root_path=root_path,
-            usa=UsSubdiv.load_all(root_path / "notes"),
-            canada=CanadaSubdiv.load_all(root_path / "notes"),
-            china=ChinaSubdiv.load_all(root_path / "notes"),
-            australia=AustraliaSubdiv.load_all(root_path / "notes"),
-            germany=GermanySubdiv.load_all(root_path / "notes"),
-            countries=Country.load_all(root_path / "notes"),
-            locations=Location.load_all(root_path / "notes"),
-            art=Art.load_all(root_path / "notes"),
-            teams=Team.load_all(root_path / "notes"),
-            greek=Greek.load_all(root_path / "notes"),
-            basic=Basic.load_all(root_path / "notes"),
-            basic_img=BasicImg.load_all(root_path / "notes"),
-            cloze=Cloze.load_all(root_path / "notes"),
-            occlusions=Occlusion.load_all(root_path / "notes"),
-            lists=List.load_all(root_path / "notes"),
+            all_notes=notes,
         )
 
     def dump(self) -> None:
-        UsSubdiv.dump_all(self.notes_path, self.usa)
-        CanadaSubdiv.dump_all(self.notes_path, self.canada)
-        ChinaSubdiv.dump_all(self.notes_path, self.china)
-        AustraliaSubdiv.dump_all(self.notes_path, self.australia)
-        GermanySubdiv.dump_all(self.notes_path, self.germany)
-        Country.dump_all(self.notes_path, self.countries)
-        Location.dump_all(self.notes_path, self.locations)
-        Art.dump_all(self.notes_path, self.art)
-        Team.dump_all(self.notes_path, self.teams)
-        Greek.dump_all(self.notes_path, self.greek)
-        Basic.dump_all(self.notes_path, self.basic)
-        BasicImg.dump_all(self.notes_path, self.basic_img)
-        Cloze.dump_all(self.notes_path, self.cloze)
-        Occlusion.dump_all(self.notes_path, self.occlusions)
-        List.dump_all(self.notes_path, self.lists)
+        for name, cls in Note.implementors.items():
+            cls.dump_all(self.notes_path, self.all_notes[name])
 
     def stored_media_files(self) -> set[str]:
         filenames: set[str] = set()
