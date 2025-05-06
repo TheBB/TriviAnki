@@ -4502,7 +4502,6 @@
     "model_name": "TriviAnki-Cloze",
     "mtime": 1746108712,
     "tags": [
-      "marked",
       "trivia::UE::History",
       "trivia::UE::Military"
     ]
@@ -7754,7 +7753,7 @@
     "Text": "{{c2::Carthage::who?}} ceded {{c4::Sicily::which province?}} to {{c3::Rome::which civilization?}} at the end of {{c1::the First Punic War::which war?}}",
     "guid": "HBj>|Bm<QE",
     "model_name": "TriviAnki-Cloze",
-    "mtime": 1723753382,
+    "mtime": 1746263457,
     "tags": [
       "trivia::UE::History",
       "trivia::UE::Military"
@@ -8790,7 +8789,7 @@
     "Text": "{{c1::The Battle of the Little Bighorn::which famous battle?}} took place in 1876",
     "guid": "I9qf**p(Oe",
     "model_name": "TriviAnki-Cloze",
-    "mtime": 1591026764,
+    "mtime": 1746537175,
     "tags": []
   },
   "I:PB.rA71U": {
@@ -17576,9 +17575,7 @@
     "guid": "Q_)yvqq8%M",
     "model_name": "TriviAnki-Cloze",
     "mtime": 1746108802,
-    "tags": [
-      "marked"
-    ]
+    "tags": []
   },
   "Q`Ew(}it)?": {
     "Extra": "<img src=\"paste-14eceef1e12e4a89af39d8601457d7edeb525363.png\">",
@@ -21270,7 +21267,7 @@
     "Text": "Michel de Notredame was better known as {{c1::Nostradamus::which name?}}",
     "guid": "d`gSfQJ^wu",
     "model_name": "TriviAnki-Cloze",
-    "mtime": 1587519383,
+    "mtime": 1746300238,
     "tags": []
   },
   "dbph4CQHWN": {
@@ -25815,7 +25812,7 @@
     "Text": "In the Bible, {{c2::uncut hair::what?}} was the source of {{c1::Samson's strength::what?}}",
     "guid": "hu]#+A+6~q",
     "model_name": "TriviAnki-Cloze",
-    "mtime": 1588021094,
+    "mtime": 1746384985,
     "tags": []
   },
   "hwTG;2EW?N": {
@@ -35939,9 +35936,7 @@
     "guid": "reo|z7}WRi",
     "model_name": "TriviAnki-Cloze",
     "mtime": 1746048343,
-    "tags": [
-      "marked"
-    ]
+    "tags": []
   },
   "rgm1mJ3]Ki": {
     "Extra": "<img src=\"paste-e746885cddde67af6f4e075f661981a2dcffd905.jpg\">",
@@ -36639,7 +36634,6 @@
     "model_name": "TriviAnki-Cloze",
     "mtime": 1746043990,
     "tags": [
-      "marked",
       "trivia::UE::Geography",
       "trivia::UE::History"
     ]

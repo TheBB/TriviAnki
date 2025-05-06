@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import contextlib
 import json
+import os
 import re
 import shutil
 import sqlite3
@@ -9,7 +10,7 @@ from abc import ABC, abstractmethod
 from itertools import chain
 from pathlib import Path
 from tempfile import TemporaryDirectory
-from typing import TYPE_CHECKING, Any, Literal, Self, TypeAlias, ClassVar, Callable, TypeVar
+from typing import TYPE_CHECKING, Any, ClassVar, Literal, Self, TypeAlias, TypeVar
 
 import click
 from anki.collection import Collection, DeckIdLimit, ExportAnkiPackageOptions
@@ -18,10 +19,16 @@ from pydantic import BaseModel, Field, ValidationError, model_serializer, model_
 from tqdm import tqdm
 
 if TYPE_CHECKING:
-    from collections.abc import Iterator
+    from collections.abc import Callable, Iterator
 
     from anki.models import NotetypeDict
     from anki.notes import Note as AnkiNote
+
+
+@contextlib.contextmanager
+def suppress_stdout() -> Iterator[None]:
+    with Path(os.devnull).open("w") as f, contextlib.redirect_stdout(f):
+        yield
 
 
 MODELS: list[str] = [
@@ -63,6 +70,7 @@ class Note(BaseModel, ABC):
         def decorator(cls: T) -> T:
             Note.implementors[name] = cls
             return cls
+
         return decorator
 
     @staticmethod
@@ -76,7 +84,7 @@ class Note(BaseModel, ABC):
                         "model_name": model["name"],
                         "guid": note.guid,
                         "mtime": note.mod,
-                        "tags": note.tags,
+                        "tags": [tag for tag in note.tags if tag not in {"marked"}],
                         **dict(note),
                     },
                 }
@@ -451,10 +459,7 @@ class Database(BaseModel):
 
     @staticmethod
     def load(root_path: Path) -> Database:
-        notes = {
-            name: cls.load_all(root_path / "notes")
-            for name, cls in Note.implementors.items()
-        }
+        notes = {name: cls.load_all(root_path / "notes") for name, cls in Note.implementors.items()}
         return Database(
             root_path=root_path,
             all_notes=notes,
@@ -598,17 +603,19 @@ def build(output_path: Path, with_media: bool) -> None:
 
         with collection(Path(path_str)) as col:
             # Check database integrity
-            err, ok = col.fix_integrity()
+            with suppress_stdout():
+                err, ok = col.fix_integrity()
             assert ok, err
 
             # Export
-            col.export_anki_package(
-                out_path=str(output_path.absolute()),
-                options=ExportAnkiPackageOptions(
-                    with_scheduling=False,
-                    with_deck_configs=False,
-                    with_media=True,
-                    legacy=False,
-                ),
-                limit=DeckIdLimit(deck_id),
-            )
+            with suppress_stdout():
+                col.export_anki_package(
+                    out_path=str(output_path.absolute()),
+                    options=ExportAnkiPackageOptions(
+                        with_scheduling=False,
+                        with_deck_configs=False,
+                        with_media=True,
+                        legacy=False,
+                    ),
+                    limit=DeckIdLimit(deck_id),
+                )
