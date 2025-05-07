@@ -136,7 +136,7 @@
   "latexPost": "\\end{document}",
   "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
   "latexsvg": false,
-  "mod": 1746126771,
+  "mod": 1746610332,
   "name": "TriviAnki-UG-Country",
   "originalId": 1552818477320,
   "req": [
@@ -165,6 +165,22 @@
       3,
       "any",
       [
+        7
+      ]
+    ],
+    [
+      4,
+      "all",
+      [
+        0,
+        5
+      ]
+    ],
+    [
+      5,
+      "all",
+      [
+        0,
         7
       ]
     ]
@@ -222,6 +238,30 @@
       "name": "Map - Country",
       "ord": 3,
       "qfmt": "{{#Map}}\n<div class=\"container trivia\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div class=\"imgblock\">\n    <div class=\"question\">Name</div>\n    {{Map}}\n  </div>\n</div>\n\n</div>\n{{/Map}}"
+    },
+    {
+      "afmt": "{{#Flag}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>Flag of <span class=\"highlight\">{{Country}}?</span></div>\n  <hr id=\"answer\">\n  {{Flag}}\n</div>\n\n</div>\n{{/Flag}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": 8514661910181756957,
+      "name": "Card 5",
+      "ord": 4,
+      "qfmt": "{{#Flag}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>Flag of <span class=\"highlight\">{{Country}}?</span></div>\n</div>\n\n</div>\n{{/Flag}}"
+    },
+    {
+      "afmt": "{{#Map}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>Location of <span class=\"highlight\">{{Country}}?</span></div>\n  <hr id=\"answer\">\n  {{Map}}\n</div>\n\n</div>\n{{/Map}}",
+      "bafmt": "",
+      "bfont": "",
+      "bqfmt": "",
+      "bsize": 0,
+      "did": null,
+      "id": -8677176800990924427,
+      "name": "Card 6",
+      "ord": 5,
+      "qfmt": "{{#Map}}\n<div class=\"container\">\n\n<div class=\"top\">\n  <div class=\"notetype\">Geography</div>\n  <div>Location of <span class=\"highlight\">{{Country}}?</span></div>\n</div>\n\n</div>\n{{/Map}}"
     }
   ],
   "type": 0,

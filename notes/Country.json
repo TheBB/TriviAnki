@@ -1,38 +1,472 @@
 {
+  "Abkhazia": {
+    "Capital": "Sukhumi",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Abkhazia",
+    "Country info": "Independent state claimed by Georgia.",
+    "Flag": "<img src=\"ug-flag-abkhazia.svg\">",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-abkhazia.png\">",
+    "guid": "sRw-ik:I$v",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Adriatic Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Adriatic Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-adriatic_sea.png\" />",
+    "guid": "yX:tmrd5;]",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Aegean Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Aegean Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-aegean_sea.png\" />",
+    "guid": "iB-8Br~onq",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Afghanistan": {
+    "Capital": "Kabul",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Afghanistan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-afghanistan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-afghanistan.png\" />",
+    "guid": "m5j,b/y<EE",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Africa": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Africa",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-africa-nobox.png\" />",
+    "guid": "pwwZu{7f~(",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Continents"
+    ]
+  },
+  "Akrotiri and Dhekelia": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Akrotiri and Dhekelia",
+    "Country info": "Overseas territory of the United Kingdom.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-akrotiri_and_dhekelia.png\" />",
+    "guid": "wa>{k!2cXc",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East"
+    ]
+  },
+  "Alaska": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Alaska",
+    "Country info": "State of the United States.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-alaska.png\" />",
+    "guid": "ssbyA9}]QP",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Albania": {
+    "Capital": "Tirana",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Albania",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-albania.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-albania.png\" />",
+    "guid": "gz9${p}er*",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Algeria": {
+    "Capital": "Algiers",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Algeria",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-algeria.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-algeria.png\" />",
+    "guid": "bd~Ght5tLR",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "American Samoa": {
-    "Capital": "Pago Pago",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "American Samoa",
-    "Country info": "Unincorporated territory of the United States",
-    "Flag": "<img src=\"ug-flag-american_samoa.svg\">",
+    "Country info": "Unincorporated territory of the United States.",
+    "Flag": "<img src=\"ug-flag-american_samoa.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"paste-885a25d9f67764dcb4433c1976a949b2cd985cee.jpg\">",
+    "Map": "<img src=\"ug-map-american_samoa.png\">",
     "guid": "niJUFZF$Y:",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1746126761,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "Andorra": {
+    "Capital": "Andorra la Vella",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Andorra",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-andorra.svg\" />",
+    "Flag similarity": "Moldova (wider, coat of arms with eagle)",
+    "Map": "<img src=\"ug-map-andorra.png\" />",
+    "guid": "dY96`C-f(_",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Angola": {
+    "Capital": "Luanda",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Angola",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-angola.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-angola.png\">",
+    "guid": "onMKID2d;D",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610117,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Anguilla": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Anguilla",
+    "Country info": "Overseas territory of the United Kingdom.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-anguilla.png\" />",
+    "guid": "e<X;[vACXC",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Antarctica": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Antarctica",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-antarctica-nobox.png\">",
+    "guid": "Cf2@;p<aL",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610091,
+    "tags": [
+      "trivia::UE::UG::Continents"
+    ]
+  },
+  "Antigua and Barbuda": {
+    "Capital": "St. John's",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Antigua and Barbuda",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-antigua_and_barbuda.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-antigua_and_barbuda.png\">",
+    "guid": "m2F|cUkKhv",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610123,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Arabian Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Arabian Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-arabian_sea.png\" />",
+    "guid": "r(h9&#wc~B",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Aral Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Aral Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-aral_sea.png\" />",
+    "guid": "qiv/4tOlf=",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Arctic Ocean": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Arctic Ocean",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-arctic_ocean-nobox.png\">",
+    "guid": "gG6SWfM>H0",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Argentina": {
+    "Capital": "Buenos Aires",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Argentina",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-argentina.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-argentina.png\" />",
+    "guid": "n&>e`2FO/S",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Armenia": {
+    "Capital": "Yerevan",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Armenia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-armenia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-armenia.png\" />",
+    "guid": "c(,2{yXI#E",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Aruba": {
+    "Capital": "Oranjestad",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Aruba",
+    "Country info": "Constituent country of the Kingdom of the Netherlands.",
+    "Flag": "<img src=\"ug-flag-aruba.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-aruba.png\">",
+    "guid": "uv1fGXHN@)",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Asia": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Asia",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-asia-nobox.png\" />",
+    "guid": "Qlib4)q2Hk",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Continents"
+    ]
+  },
+  "Atlantic Ocean": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Atlantic Ocean",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-atlantic_ocean-nobox.png\">",
+    "guid": "nuU8A_$i2M",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Australia": {
+    "Capital": "Canberra",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Australia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-australia.svg\" />",
+    "Flag similarity": "New Zealand (red stars, two fewer stars)",
+    "Map": "<img src=\"ug-map-australia.png\" />",
+    "guid": "k0{O[6l]bH",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
       "trivia::UE::UG::Oceania",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Austria": {
+    "Capital": "Vienna",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Austria",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-austria.svg\" />",
+    "Flag similarity": "Latvia (darker red, narrower white band)",
+    "Map": "<img src=\"ug-map-austria.png\" />",
+    "guid": "r>aI-$$|wT",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Azerbaijan": {
+    "Capital": "Baku",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Azerbaijan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-azerbaijan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-azerbaijan.png\" />",
+    "guid": "k9E.p^<u$,",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Azores": {
-    "Capital": "Ponta Delgada",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Azores",
-    "Country info": "Autonomous region of Portugal",
+    "Country info": "Autonomous region of Portugal.",
     "Flag": "<img src=\"ug-flag-azores.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-azores.png\">",
+    "Map": "<img src=\"ug-map-azores.png\" />",
     "guid": "j=L,YBvsBk",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632989,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
-      "trivia::UE::UG::Europe",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Bahrain": {
+    "Capital": "Manama",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bahrain",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-bahrain.svg\" />",
+    "Flag similarity": "Qatar (wider, more serrated edges, maroon)",
+    "Map": "<img src=\"ug-map-bahrain.png\" />",
+    "guid": "stRa/S(0$F",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Balearic Islands": {
@@ -54,39 +488,253 @@
     ]
   },
   "Bali": {
-    "Capital": "Denpasar",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Bali",
-    "Country info": "Province of Indonesia",
-    "Flag": "<img src=\"ug-flag-bali.png\" />",
+    "Country info": "Island of Indonesia.",
+    "Flag": "<img src=\"ug-flag-bali.png\">",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-bali.png\">",
+    "Map": "<img src=\"ug-map-bali-d7280c245bddcb7937d3e1ec26bb8d9db268236b.png\" />",
     "guid": "O~pXkAbd3",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632986,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
+      "trivia::UE::UG::Asia"
+    ]
+  },
+  "Balkan Peninsula": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Balkan Peninsula",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-balkan_peninsula.png\">",
+    "guid": "zSc]-^U=0=",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610090,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Baltic Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Baltic Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-baltic_sea.png\" />",
+    "guid": "epvt3>HH?U",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Banda Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Banda Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-banda_sea.png\" />",
+    "guid": "kopwzzB``A",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Bangladesh": {
+    "Capital": "Dhaka",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bangladesh",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-bangladesh.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-bangladesh.png\" />",
+    "guid": "l+>Ki!j#v+",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
       "trivia::UE::UG::Asia",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Barbados": {
+    "Capital": "Bridgetown",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Barbados",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-barbados.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-barbados.png\" />",
+    "guid": "e{e8vi@^PY",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Barents Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Barents Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-barents_sea.png\" />",
+    "guid": "h9Jr(H[=1~",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Bay of Bengal": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bay of Bengal",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-bay_of_bengal.png\">",
+    "guid": "z:*d{z(~V2",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Bay of Biscay": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bay of Biscay",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-bay_of_biscay.png\">",
+    "guid": "H*c[ML+`s=",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Belarus": {
+    "Capital": "Minsk",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Belarus",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-belarus.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-belarus.png\" />",
+    "guid": "l$zM~ihPFE",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Belgium": {
+    "Capital": "Brussels",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Belgium",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-belgium.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-belgium.png\" />",
+    "guid": "jTNoKo}Bu+",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Belize": {
+    "Capital": "Belmopan",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Belize",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-belize.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-belize.png\" />",
+    "guid": "tcneuK7v%`",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Benin": {
+    "Capital": "Porto-Novo",
+    "Capital hint": "",
+    "Capital info": "While Porto-Novo is the official capital, Cotonou is the de facto seat of government.",
+    "Country": "Benin",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-benin.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-benin.png\" />",
+    "guid": "q8fF$4,c6_",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Bering Strait": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bering Strait",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-bering_strait.png\" />",
+    "guid": "J%,fuysl*&",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
     ]
   },
   "Bermuda": {
-    "Capital": "Hamilton",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Bermuda",
-    "Country info": "Overseas territory of the United Kingdom",
+    "Country info": "Overseas territory of the United Kingdom.",
     "Flag": "<img src=\"ug-flag-bermuda.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-bermuda.png\">",
+    "Map": "<img src=\"ug-map-bermuda.png\" />",
     "guid": "gBCR?!O*;E",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1723753382,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
       "trivia::UE::UG::Caribbean",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::North_America"
     ]
   },
   "Bermuda Triangle": {
@@ -105,6 +753,124 @@
       "trivia::UE::Geography",
       "trivia::UE::UG::Bodies_Of_Water",
       "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Bhutan": {
+    "Capital": "Thimphu",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bhutan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-bhutan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-bhutan.png\" />",
+    "guid": "kQ:NIhJy~E",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Black Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Black Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-black_sea.png\" />",
+    "guid": "e_;dzXj8de",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Bolivia": {
+    "Capital": "Sucre",
+    "Capital hint": "",
+    "Capital info": "While Sucre is the constitutional capital, La Paz is the seat of government.",
+    "Country": "Bolivia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-bolivia-blur.svg\" /><img src=\"ug-flag-bolivia.svg\" />",
+    "Flag similarity": "Ghana (star instead of coat of arms)",
+    "Map": "<img src=\"ug-map-bolivia.png\" />",
+    "guid": "khB~(m^@Z5",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    "Capital": "Sarajevo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bosnia and Herzegovina",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-bosnia_and_herzegovina.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-bosnia_and_herzegovina.png\" />",
+    "guid": "mz[>>AxIr4",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Botswana": {
+    "Capital": "Gaborone",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Botswana",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-botswana.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-botswana.png\" />",
+    "guid": "upiX0g1quR",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Bougainville": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bougainville",
+    "Country info": "Autonomous region of Papua New Guinea.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-bougainville.png\" />",
+    "guid": "vKx<0Qa!aP",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "Brazil": {
+    "Capital": "Bras\u00edlia",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Brazil",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-brazil.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-brazil.png\" />",
+    "guid": "spKoFRM4if",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "British Indian Ocean Territory": {
@@ -126,57 +892,276 @@
     ]
   },
   "British Virgin Islands": {
-    "Capital": "Road Town",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "British Virgin Islands",
-    "Country info": "Overseas territory of the United Kingdom",
+    "Country info": "Overseas territory of the United Kingdom.",
     "Flag": "<img src=\"ug-flag-british_virgin_islands.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-british_virgin_islands_1552818477320.png\">",
+    "Map": "<img src=\"ug-map-british_virgin_islands.png\" />",
     "guid": "q[}7hk(+=e",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632986,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
       "trivia::UE::UG::Caribbean",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Brunei": {
+    "Capital": "Bandar Seri Begawan",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Brunei",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-brunei.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-brunei.png\" />",
+    "guid": "sY>@9w~i^p",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Bulgaria": {
+    "Capital": "Sofia",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Bulgaria",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-bulgaria.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-bulgaria.png\" />",
+    "guid": "u4^lH.xem5",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Burkina Faso": {
+    "Capital": "Ouagadougou",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Burkina Faso",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-burkina_faso.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-burkina_faso.png\" />",
+    "guid": "n:7&>YT5A=",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Burundi": {
+    "Capital": "Gitega",
+    "Capital hint": "",
+    "Capital info": "Official capital was moved from Bujumbura to Gitega in 2019.",
+    "Country": "Burundi",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-burundi.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-burundi.png\" />",
+    "guid": "EWXNc<g5)",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Cambodia": {
+    "Capital": "Phnom Penh",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Cambodia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-cambodia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-cambodia.png\" />",
+    "guid": "bW)ch:vs1P",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Cameroon": {
+    "Capital": "Yaound\u00e9",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Cameroon",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-cameroon.svg\" />",
+    "Flag similarity": "Senegal (green/yellow/red, green star)",
+    "Map": "<img src=\"ug-map-cameroon.png\" />",
+    "guid": "j2IQ=f=w3@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Canada": {
+    "Capital": "Ottawa",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Canada",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-canada.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-canada.png\" />",
+    "guid": "e?h=Xhs+K&",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Canary Islands": {
-    "Capital": "Santa Cruz and Las Palmas",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Canary Islands",
-    "Country info": "Autonomous community of Spain",
-    "Flag": "<img src=\"ug-flag-canary_islands.svg\">",
+    "Country info": "Autonomous community of Spain.",
+    "Flag": "<img src=\"ug-flag-canary_islands.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-canary_islands.png\">",
+    "Map": "<img src=\"ug-map-canary_islands.png\" />",
     "guid": "e?Xq9gy=@[",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632981,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
+      "trivia::UE::UG::Africa"
+    ]
+  },
+  "Cape Verde": {
+    "Capital": "Praia",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Cape Verde",
+    "Country info": "Also known as Cabo Verde.",
+    "Flag": "<img src=\"ug-flag-cape_verde.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-cape_verde.png\" />",
+    "guid": "gFOojQO(MH",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
       "trivia::UE::UG::Africa",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Caribbean Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Caribbean Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-caribbean_sea.png\" />",
+    "guid": "jYz[ibrr9m",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Caspian Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Caspian Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-caspian_sea.png\" />",
+    "guid": "x2d4n4ADcP",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
     ]
   },
   "Cayman Islands": {
-    "Capital": "George Town",
-    "Capital hint": "Two-word country name",
+    "Capital": "",
+    "Capital hint": "",
     "Capital info": "",
     "Country": "Cayman Islands",
-    "Country info": "Overseas territory of the United Kingdom",
+    "Country info": "Overseas territory of the United Kingdom.",
     "Flag": "<img src=\"ug-flag-cayman_islands.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-cayman_islands.png\">",
+    "Map": "<img src=\"ug-map-cayman_islands.png\" />",
     "guid": "vwc3}.=Z#&",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632988,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
       "trivia::UE::UG::Caribbean",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Celebes Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Celebes Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-celebes_sea.png\" />",
+    "guid": "e!KSebP}pt",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Celtic Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Celtic Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-celtic_sea.png\">",
+    "guid": "E3u*2.<9#`",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Central African Republic": {
+    "Capital": "Bangui",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Central African Republic",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-central_african_republic.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-central_african_republic.png\" />",
+    "guid": "vNiD6A.v#s",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Ceuta": {
@@ -195,6 +1180,57 @@
       "trivia::UE::Geography",
       "trivia::UE::UG::Europe",
       "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Chad": {
+    "Capital": "N'Djamena",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Chad",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-chad.svg\" />",
+    "Flag similarity": "Romania (slightly lighter blue)",
+    "Map": "<img src=\"ug-map-chad.png\" />",
+    "guid": "?n!)c/h=Q",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Chile": {
+    "Capital": "Santiago",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Chile",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-chile.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-chile.png\" />",
+    "guid": "q8][)Ri}=q",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "China": {
+    "Capital": "Beijing",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "China",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-china.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-china.png\" />",
+    "guid": "mJH4kwPF.-",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Christmas Island": {
@@ -216,22 +1252,105 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Colombia": {
+    "Capital": "Bogot\u00e1",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Colombia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-colombia.svg\" />",
+    "Flag similarity": "Ecuador (with coat of arms)",
+    "Map": "<img src=\"ug-map-colombia.png\" />",
+    "guid": "hoHandbYAy",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Comoros": {
+    "Capital": "Moroni",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Comoros",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-comoros.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-comoros.png\" />",
+    "guid": "t`cagaWApo",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Cook Islands": {
+    "Capital": "Avarua",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Cook Islands",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-cook_islands.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-cook_islands.png\" />",
+    "guid": "s4E?ZF[E<>",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Coral Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Coral Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-coral_sea.png\">",
+    "guid": "s|K&2S,UP|",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
   "Corsica": {
-    "Capital": "Ajaccio",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Corsica",
-    "Country info": "",
+    "Country info": "Region of France.",
     "Flag": "<img src=\"ug-flag-corsica.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-corsica.jpg\">",
+    "Map": "<img src=\"ug-map-corsica.png\" />",
     "guid": "xb&P*pH(Q",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1732479882,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
-      "trivia::UE::UG::Europe",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Costa Rica": {
+    "Capital": "San Jos\u00e9",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Costa Rica",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-costa_rica-blur.svg\" /><img src=\"ug-flag-costa_rica.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-costa_rica.png\" />",
+    "guid": "uH*Q(mcRt5",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Crete": {
@@ -252,6 +1371,251 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Croatia": {
+    "Capital": "Zagreb",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Croatia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-croatia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-croatia.png\" />",
+    "guid": "bk2ByZIeU+",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Cuba": {
+    "Capital": "Havana",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Cuba",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-cuba.svg\" />",
+    "Flag similarity": "Puerto Rico (blue triangle, red stripes)",
+    "Map": "<img src=\"ug-map-cuba.png\" />",
+    "guid": "rPekx@n9:L",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Cura\u00e7ao": {
+    "Capital": "Willemstad",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Cura\u00e7ao",
+    "Country info": "Constituent country of the Kingdom of the Netherlands.",
+    "Flag": "<img src=\"ug-flag-curacao.svg\" />",
+    "Flag similarity": "Nauru (single star below yellow band)",
+    "Map": "<img src=\"ug-map-curacao.png\" />",
+    "guid": "oa87&PB&Bm",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Cyprus": {
+    "Capital": "Nicosia",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Cyprus",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-cyprus.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-cyprus.png\" />",
+    "guid": "kkbYQXw5b;",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Czech Republic": {
+    "Capital": "Prague",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Czech Republic",
+    "Country info": "Also known as Czechia.",
+    "Flag": "<img src=\"ug-flag-czech_republic.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-czech_republic.png\" />",
+    "guid": "twrhzJ[k:Z",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Dead Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Dead Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-dead_sea.png\">",
+    "guid": "B:x<p&Q=t)",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Democratic Republic of the Congo": {
+    "Capital": "Kinshasa",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Democratic Republic of the Congo",
+    "Country info": "Formerly Zaire.",
+    "Flag": "<img src=\"ug-flag-democratic_republic_of_the_congo.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-democratic_republic_of_the_congo.png\" />",
+    "guid": "o3VS!KWb/@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Denmark": {
+    "Capital": "Copenhagen",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Denmark",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-denmark.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-denmark.png\" />",
+    "guid": "kS)hDm%w}R",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Denmark Strait": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Denmark Strait",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-denmark_strait.png\">",
+    "guid": "eN#^kPGv*L",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Djibouti": {
+    "Capital": "Djibouti",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Djibouti",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-djibouti.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-djibouti.png\" />",
+    "guid": "iR;U<J:CJJ",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Dominica": {
+    "Capital": "Roseau",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Dominica",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-dominica.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-dominica.png\" />",
+    "guid": "k}4/oj#$~s",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Dominican Republic": {
+    "Capital": "Santo Domingo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Dominican Republic",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-dominican_republic.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-dominican_republic.png\" />",
+    "guid": "lAxH.CfJB@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "East China Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "East China Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-east_china_sea.png\" />",
+    "guid": "pYRw[=6;JI",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "East Siberian Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "East Siberian Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-east_siberian_sea.png\" />",
+    "guid": "gRVZ]qJ#>O",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
   "Easter Island": {
     "Capital": "",
     "Capital hint": "",
@@ -270,40 +1634,361 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Ecuador": {
+    "Capital": "Quito",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Ecuador",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-ecuador.svg\" />",
+    "Flag similarity": "Colombia (no coat of arms)",
+    "Map": "<img src=\"ug-map-ecuador.png\" />",
+    "guid": "lmRujD!(A7",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Egypt": {
+    "Capital": "Cairo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Egypt",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-egypt.svg\" />",
+    "Flag similarity": "Iraq (text instead of emblem), Yemen (no emblem)",
+    "Map": "<img src=\"ug-map-egypt.png\" />",
+    "guid": "j%*8gN)q>d",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "El Salvador": {
+    "Capital": "San Salvador",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "El Salvador",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-el_salvador-blur.svg\" /><img src=\"ug-flag-el_salvador.svg\" />",
+    "Flag similarity": "Nicaragua (different coat of arms, slightly lighter blue)",
+    "Map": "<img src=\"ug-map-el_salvador.png\" />",
+    "guid": "k$1_yaF?9#",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "England": {
+    "Capital": "London",
+    "Capital hint": "Not a sovereign country",
+    "Capital info": "",
+    "Country": "England",
+    "Country info": "Constituent country of the United Kingdom.",
+    "Flag": "<img src=\"ug-flag-england.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-england.png\">",
+    "guid": "e+/O]%*qfk",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "English Channel": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "English Channel",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-english_channel.png\">",
+    "guid": "q1Q3Do8S>g",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Equatorial Guinea": {
+    "Capital": "Malabo",
+    "Capital hint": "",
+    "Capital info": "Ciudad de la Paz is being built to replace Malabo as capital.",
+    "Country": "Equatorial Guinea",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-equatorial_guinea.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-equatorial_guinea.png\" />",
+    "guid": "gYIoR`|AxW",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Eritrea": {
+    "Capital": "Asmara",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Eritrea",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-eritrea.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-eritrea.png\" />",
+    "guid": "pS>DrFhd%u",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Estonia": {
+    "Capital": "Tallinn",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Estonia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-estonia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-estonia.png\" />",
+    "guid": "AES],s:8=",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Eswatini": {
+    "Capital": "Mbabane",
+    "Capital hint": "",
+    "Capital info": "While Mbabane is the official, executive capital, Lobamba is the traditional, spiritual and legislative capital.",
+    "Country": "Eswatini",
+    "Country info": "Known as Swaziland until 2018.",
+    "Flag": "<img src=\"ug-flag-eswatini.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-eswatini.png\">",
+    "guid": "e5P*D#I{m{",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Ethiopia": {
+    "Capital": "Addis Ababa",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Ethiopia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-ethiopia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-ethiopia.png\" />",
+    "guid": "t|h3|;E4g{",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Europe": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Europe",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-europe-nobox.png\" />",
+    "guid": "oV/JG7fwZq",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Continents"
+    ]
+  },
+  "European Union": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "European Union",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-european_union.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-european_union.png\" />",
+    "guid": "Bszsaz0Iuo",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
   "Falkland Islands": {
-    "Capital": "Stanley",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Falkland Islands",
-    "Country info": "Overseas territory of the United Kingdom",
+    "Country info": "Overseas territory of the United Kingdom.",
     "Flag": "<img src=\"ug-flag-falkland_islands.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-falkland_islands.png\">",
+    "Map": "<img src=\"ug-map-falkland_islands.png\" />",
     "guid": "p#R$-mG/L",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1746126630,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
-      "trivia::UE::UG::South_America",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::South_America"
+    ]
+  },
+  "Faroe Islands": {
+    "Capital": "T\u00f3rshavn",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Faroe Islands",
+    "Country info": "Constituent country in the Kingdom of Denmark.",
+    "Flag": "<img src=\"ug-flag-faroe_islands.svg\" />",
+    "Flag similarity": "Iceland (blue background, red and white cross), Norway (red background, blue and white cross)",
+    "Map": "<img src=\"ug-map-faroe_islands.png\" />",
+    "guid": "k[)#L4.[v3",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Federated States of Micronesia": {
+    "Capital": "Palikir",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Federated States of Micronesia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-federated_states_of_micronesia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-federated_states_of_micronesia.png\" />",
+    "guid": "k1]FH+s8j@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Fiji": {
+    "Capital": "Suva",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Fiji",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-fiji.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-fiji.png\" />",
+    "guid": "gB|K:+r?1V",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Finland": {
+    "Capital": "Helsinki",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Finland",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-finland.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-finland.png\" />",
+    "guid": "k}A9]O:0xw",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "France": {
+    "Capital": "Paris",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "France",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-france.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-france.png\" />",
+    "guid": "m*#%sE.`.;",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "French Guiana": {
-    "Capital": "Cayenne",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "French Guiana",
-    "Country info": "Overseas department of France",
+    "Country info": "Overseas department of France.",
     "Flag": "",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-french_guiana.png\">",
+    "Map": "<img src=\"ug-map-french_guiana.png\" />",
     "guid": "b^Try&me1A",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632992,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
-      "trivia::UE::UG::South_America",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::South_America"
+    ]
+  },
+  "French Polynesia": {
+    "Capital": "Papeete",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "French Polynesia",
+    "Country info": "Overseas territory of France.",
+    "Flag": "<img src=\"ug-flag-french_polynesia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-french_polynesia.png\" />",
+    "guid": "lH^2D]w;[H",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "Gabon": {
+    "Capital": "Libreville",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Gabon",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-gabon.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-gabon.png\" />",
+    "guid": "p.yv>BQ470",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Gal\u00e1pagos Islands": {
@@ -323,23 +2008,74 @@
       "trivia::UE::UG::South_America"
     ]
   },
+  "Georgia": {
+    "Capital": "Tbilisi",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Georgia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-georgia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-georgia.png\" />",
+    "guid": "jN|NAUP*h}",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Germany": {
+    "Capital": "Berlin",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Germany",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-germany.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-germany.png\" />",
+    "guid": "j|z@PMgdx,",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Ghana": {
+    "Capital": "Accra",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Ghana",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-ghana.svg\" />",
+    "Flag similarity": "Bolivia (coat of arms instead of star)",
+    "Map": "<img src=\"ug-map-ghana.png\" />",
+    "guid": "gx:;za!?C9",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
   "Gibraltar": {
-    "Capital": "Gibraltar",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Gibraltar",
-    "Country info": "Overseas territory of the United Kingdom",
+    "Country info": "Overseas territory of the United Kingdom.",
     "Flag": "<img src=\"ug-flag-gibraltar.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-gibraltar.png\">",
+    "Map": "<img src=\"ug-map-gibraltar-f92d8656ec81c4f359df17f3a7192d753bc16222.png\" />",
     "guid": "o``:?0>/yz",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632993,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
       "trivia::UE::UG::Europe",
-      "trivia::UE::UG::Mediterranean",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Mediterranean"
     ]
   },
   "Great Barrier Reef": {
@@ -360,22 +2096,175 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Greece": {
+    "Capital": "Athens",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Greece",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-greece.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-greece.png\" />",
+    "guid": "n+t>2`:;P/",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Greenland": {
+    "Capital": "Nuuk",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Greenland",
+    "Country info": "Constituent country in the Kingdom of Denmark.",
+    "Flag": "<img src=\"ug-flag-greenland.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-greenland.png\" />",
+    "guid": "ilGtw#=asM",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Grenada": {
+    "Capital": "St. George's",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Grenada",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-grenada.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-grenada.png\" />",
+    "guid": "f*LO~>!0PN",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Guadeloupe": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Guadeloupe",
+    "Country info": "Overseas department of France.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-guadeloupe.png\" />",
+    "guid": "tTnCoO/*tk",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Guam": {
+    "Capital": "Hag\u00e5t\u00f1a",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Guam",
+    "Country info": "Unincorporated territory of the United States.",
+    "Flag": "<img src=\"ug-flag-guam-blur.svg\" /><img src=\"ug-flag-guam.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-guam.png\" />",
+    "guid": "dWA49p}F{k",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "Guatemala": {
+    "Capital": "Guatemala City",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Guatemala",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-guatemala.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-guatemala.png\" />",
+    "guid": "dUZ^=SE5BG",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Guernsey": {
-    "Capital": "St. Peter Port",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Guernsey",
-    "Country info": "Crown dependency of the United Kingdom",
+    "Country info": "Crown dependency of the United Kingdom.",
     "Flag": "<img src=\"ug-flag-guernsey.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"paste-890a5672af224ba64c6c0daf5d7a80e46188f94b.jpg\">",
+    "Map": "<img src=\"ug-map-guernsey.png\" />",
     "guid": "pz(G*<F93/",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632993,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
-      "trivia::UE::UG::Europe",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Guinea": {
+    "Capital": "Conakry",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Guinea",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-guinea.svg\" />",
+    "Flag similarity": "Mali (red and green flipped, slightly brighter green)",
+    "Map": "<img src=\"ug-map-guinea.png\" />",
+    "guid": "r]*Ioa%$bK",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Guinea-Bissau": {
+    "Capital": "Bissau",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Guinea-Bissau",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-guinea-bissau.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-guinea-bissau.png\" />",
+    "guid": "i^J8&$(1]|",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Gulf of Alaska": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Gulf of Alaska",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-gulf_of_alaska.png\" />",
+    "guid": "igiK,ff[eO",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
     ]
   },
   "Gulf of Aqaba (Gulf of Eilat)": {
@@ -394,6 +2283,70 @@
       "trivia::UE::Geography",
       "trivia::UE::UG::Bodies_Of_Water",
       "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Gulf of California": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Gulf of California",
+    "Country info": "Also known as the Sea of Cortez.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-gulf_of_california.png\" />",
+    "guid": "SlOEXfq#|",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Gulf of Carpentaria": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Gulf of Carpentaria",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-gulf_of_carpentaria.png\" />",
+    "guid": "pQpX%(EVOH",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Gulf of Guinea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Gulf of Guinea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-gulf_of_guinea.png\" />",
+    "guid": "BJ,,^wMC%N",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Gulf of Mexico": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Gulf of Mexico",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-gulf_of_mexico.png\" />",
+    "guid": "JOT:U4ayh@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
     ]
   },
   "Gulf of Suez": {
@@ -432,6 +2385,208 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Gulf of Thailand": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Gulf of Thailand",
+    "Country info": "Also known as the Gulf of Siam.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-gulf_of_thailand.png\">",
+    "guid": "rSneU!3}bn",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Guyana": {
+    "Capital": "Georgetown",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Guyana",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-guyana.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-guyana.png\" />",
+    "guid": "q:XyGf#>Wg",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Haiti": {
+    "Capital": "Port-au-Prince",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Haiti",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-haiti.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-haiti.png\">",
+    "guid": "hZ/V/D&rO`",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Hawaii": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Hawaii",
+    "Country info": "State of the United States.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-hawaii.png\" />",
+    "guid": "s>f40rn,O]",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "Honduras": {
+    "Capital": "Tegucigalpa",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Honduras",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-honduras.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-honduras.png\" />",
+    "guid": "t_h*fbN#:(",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Hong Kong": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Hong Kong",
+    "Country info": "Special Administrative Region of China.",
+    "Flag": "<img src=\"ug-flag-hong_kong.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-hong_kong-f376a83b04972ca5d97cb0a73d597b6a79149b63.png\" />",
+    "guid": "lpbD0St&OU",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia"
+    ]
+  },
+  "Hudson Bay": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Hudson Bay",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-hudson_bay.png\" />",
+    "guid": "sM0GPt1HS1",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Hungary": {
+    "Capital": "Budapest",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Hungary",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-hungary.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-hungary.png\" />",
+    "guid": "mcc&0Kq^xE",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Iceland": {
+    "Capital": "Reykjav\u00edk",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Iceland",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-iceland.svg\" />",
+    "Flag similarity": "Norway (red background, blue cross), Faroe Islands (white background, red and blue cross)",
+    "Map": "<img src=\"ug-map-iceland.png\" />",
+    "guid": "j7eEZkzsCZ",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "India": {
+    "Capital": "New Delhi",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "India",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-india.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-india.png\" />",
+    "guid": "q2#Yv[O0:|",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Indian Ocean": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Indian Ocean",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-indian_ocean-nobox.png\" />",
+    "guid": "fT!w8R#>dg",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Indonesia": {
+    "Capital": "Jakarta",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Indonesia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-indonesia.svg\" />",
+    "Flag similarity": "Monaco (narrower, darker red), Poland (red and white flipped, darker red)",
+    "Map": "<img src=\"ug-map-indonesia.png\" />",
+    "guid": "sx|l+io`B@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Ionian Sea": {
     "Capital": "",
     "Capital hint": "",
@@ -450,40 +2605,492 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Iran": {
+    "Capital": "Tehran",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Iran",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-iran.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-iran.png\" />",
+    "guid": "mbz=7n[0v9",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Iraq": {
+    "Capital": "Baghdad",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Iraq",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-iraq.svg\" />",
+    "Flag similarity": "Egypt (emblem instead of text), Yemen (no text)",
+    "Map": "<img src=\"ug-map-iraq.png\">",
+    "guid": "jI9P-f6r3M",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Ireland": {
+    "Capital": "Dublin",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Ireland",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-ireland.svg\" />",
+    "Flag similarity": "Ivory Coast (green and orange flipped, narrower)",
+    "Map": "<img src=\"ug-map-ireland.png\" />",
+    "guid": "s<_WLSB3I/",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Isle of Man": {
-    "Capital": "Douglas",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Isle of Man",
-    "Country info": "Crown dependency of the United Kingdom",
+    "Country info": "Crown dependency of the United Kingdom.",
     "Flag": "<img src=\"ug-flag-isle_of_man.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-isle_of_man.png\">",
+    "Map": "<img src=\"ug-map-isle_of_man.png\" />",
     "guid": "cV4idO^r8W",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632994,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Israel": {
+    "Capital": "Jerusalem",
+    "Capital hint": "Claimed and controlled",
+    "Capital info": "Disputed; claimed by Palestine.",
+    "Country": "Israel",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-israel.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-israel.png\" />",
+    "guid": "ijP>aJBT!9",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Italy": {
+    "Capital": "Rome",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Italy",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-italy.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-italy.png\" />",
+    "guid": "cYKvF#ptF7",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
       "trivia::UE::UG::Europe",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Ivory Coast": {
+    "Capital": "Yamoussoukro",
+    "Capital hint": "",
+    "Capital info": "While Yamoussoukro is the official capital, Abidjan is the de facto seat of government.",
+    "Country": "Ivory Coast",
+    "Country info": "Officially C\u00f4te d'Ivoire.",
+    "Flag": "<img src=\"ug-flag-ivory_coast.svg\" />",
+    "Flag similarity": "Ireland (orange and green flipped, wider)",
+    "Map": "<img src=\"ug-map-ivory_coast.png\" />",
+    "guid": "jN^Vc%9OQ5",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Jamaica": {
+    "Capital": "Kingston",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Jamaica",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-jamaica.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-jamaica.png\">",
+    "guid": "h&`>n98~V1",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Japan": {
+    "Capital": "Tokyo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Japan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-japan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-japan.png\" />",
+    "guid": "l}[BG9.nQS",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Java": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Java",
+    "Country info": "Island of Indonesia.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-java.png\" />",
+    "guid": "gDsLPj(9S#",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia"
+    ]
+  },
+  "Jeju": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Jeju",
+    "Country info": "Autonomous province of South Korea.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-jeju.png\" />",
+    "guid": "fkq7lhLkdH",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia"
     ]
   },
   "Jersey": {
-    "Capital": "Saint Helier",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Jersey",
-    "Country info": "Crown dependency of the United Kingdom",
+    "Country info": "Crown dependency of the United Kingdom.",
     "Flag": "<img src=\"ug-flag-jersey.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"paste-207c142eca34041de14031591ced9ce9bd155b84.jpg\">",
+    "Map": "<img src=\"ug-map-jersey.png\" />",
     "guid": "m*PYE=#wr^",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632995,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Jordan": {
+    "Capital": "Amman",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Jordan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-jordan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-jordan.png\" />",
+    "guid": "i)]+09JUR&",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Kaliningrad Oblast": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Kaliningrad Oblast",
+    "Country info": "Oblast (administrative region) of the Russian Federation.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-kaliningrad_oblast.png\" />",
+    "guid": "dC:e5G4J/p",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Kazakhstan": {
+    "Capital": "Astana",
+    "Capital hint": "",
+    "Capital info": "Known as Nur-Sultan until September 2022.",
+    "Country": "Kazakhstan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-kazakhstan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-kazakhstan.png\" />",
+    "guid": "ia8as9sCY|",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Kenya": {
+    "Capital": "Nairobi",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Kenya",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-kenya.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-kenya.png\" />",
+    "guid": "j<egqG@)EL",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Kiribati": {
+    "Capital": "South Tarawa",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Kiribati",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-kiribati.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-kiribati.png\" />",
+    "guid": "sXzvT.g31p",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Kosovo": {
+    "Capital": "Pristina",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Kosovo",
+    "Country info": "Partially recognised state claimed by Serbia.",
+    "Flag": "<img src=\"ug-flag-kosovo.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-kosovo.png\" />",
+    "guid": "libliptkB4",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
       "trivia::UE::UG::Europe",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Kuwait": {
+    "Capital": "Kuwait City",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Kuwait",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-kuwait.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-kuwait.png\" />",
+    "guid": "euW0jm=wfR",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Kyrgyzstan": {
+    "Capital": "Bishkek",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Kyrgyzstan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-kyrgyzstan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-kyrgyzstan.png\" />",
+    "guid": "pkj3RPBUrF",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Labrador Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Labrador Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-labrador_sea.png\" />",
+    "guid": "dlU7VG|3Gd",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Laos": {
+    "Capital": "Vientiane",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Laos",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-laos.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-laos.png\" />",
+    "guid": "iW>m(L/~c=",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Latvia": {
+    "Capital": "Riga",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Latvia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-latvia.svg\" />",
+    "Flag similarity": "Austria (brighter red, wider white band)",
+    "Map": "<img src=\"ug-map-latvia.png\" />",
+    "guid": "m)WUtJS`H&",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Lebanon": {
+    "Capital": "Beirut",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Lebanon",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-lebanon.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-lebanon.png\" />",
+    "guid": "mtd;>7T|g>",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Lesotho": {
+    "Capital": "Maseru",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Lesotho",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-lesotho.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-lesotho.png\" />",
+    "guid": "oNpApS<AoJ",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Liberia": {
+    "Capital": "Monrovia",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Liberia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-liberia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-liberia.png\" />",
+    "guid": "nsS59c`VL,",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Libya": {
+    "Capital": "Tripoli",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Libya",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-libya.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-libya.png\" />",
+    "guid": "jrM28*HbyG",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Liechtenstein": {
+    "Capital": "Vaduz",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Liechtenstein",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-liechtenstein.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-liechtenstein.png\" />",
+    "guid": "l$2O|9w`F~",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Ligurian Sea": {
@@ -504,22 +3111,299 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Lithuania": {
+    "Capital": "Vilnius",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Lithuania",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-lithuania.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-lithuania.png\" />",
+    "guid": "kZ52zV#[Iv",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Luxembourg": {
+    "Capital": "Luxembourg City",
+    "Capital hint": "",
+    "Capital info": "Officially Luxembourg.",
+    "Country": "Luxembourg",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-luxembourg.svg\" />",
+    "Flag similarity": "Netherlands (darker blue)",
+    "Map": "<img src=\"ug-map-luxembourg.png\" />",
+    "guid": "i2]v|D3@:j",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Macau": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Macau",
+    "Country info": "Special Administrative Region of China.",
+    "Flag": "<img src=\"ug-flag-macau.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-macau-e9ea75392f8bbc665dab6957d11efcbc70462eeb.png\" />",
+    "guid": "mq)8`hi{hb",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia"
+    ]
+  },
+  "Madagascar": {
+    "Capital": "Antananarivo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Madagascar",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-madagascar.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-madagascar.png\" />",
+    "guid": "m{noqE29%I",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Madeira": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Madeira",
+    "Country info": "Autonomous region of Portugal.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-madeira.png\" />",
+    "guid": "h}lnSN_f$_",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Malawi": {
+    "Capital": "Lilongwe",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Malawi",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-malawi.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-malawi.png\">",
+    "guid": "sSW/?WMy17",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Malaysia": {
+    "Capital": "Kuala Lumpur",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Malaysia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-malaysia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-malaysia.png\" />",
+    "guid": "mk20`,N=`=",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Maldives": {
+    "Capital": "Mal\u00e9",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Maldives",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-maldives.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-maldives.png\" />",
+    "guid": "hXNTVF<:SH",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Mali": {
+    "Capital": "Bamako",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Mali",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-mali.svg\" />",
+    "Flag similarity": "Guinea (green and red flipped, slightly darker green)",
+    "Map": "<img src=\"ug-map-mali.png\" />",
+    "guid": "d-q4J~CNW_",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Malta": {
+    "Capital": "Valletta",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Malta",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-malta.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-malta.png\" />",
+    "guid": "nIfRn<aY:N",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Marshall Islands": {
+    "Capital": "Majuro",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Marshall Islands",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-marshall_islands.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-marshall_islands.png\">",
+    "guid": "eT<gzg?q,r",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610087,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Martinique": {
-    "Capital": "Fort-de-France",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Martinique",
-    "Country info": "Overseas department of France",
+    "Country info": "Overseas department of France.",
     "Flag": "",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-martinique_1552818477320.png\">",
+    "Map": "<img src=\"ug-map-martinique.png\" />",
     "guid": "u;|vR#mVMW",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737633012,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
       "trivia::UE::UG::Caribbean",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Mauritania": {
+    "Capital": "Nouakchott",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Mauritania",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-mauritania.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-mauritania.png\" />",
+    "guid": "jKO,9y0M;#",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Mauritius": {
+    "Capital": "Port Louis",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Mauritius",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-mauritius.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-mauritius.png\" />",
+    "guid": "skOM(?n$GG",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Mayotte": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Mayotte",
+    "Country info": "Overseas department of France.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-mayotte.png\" />",
+    "guid": "xqrJ^d[.(O",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa"
+    ]
+  },
+  "Mediterranean Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Mediterranean Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-mediterranean_sea.png\">",
+    "guid": "Gn;q2Y)Xe4",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610087,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Melanesia": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Melanesia",
+    "Country info": "Subregion of Oceania, which includes the four countries of Vanuatu, the Solomon Islands, Fiji, and Papua New Guinea.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-melanesia.png\" />",
+    "guid": "o9{x<AyA]B",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
     ]
   },
   "Melilla": {
@@ -537,6 +3421,109 @@
     "tags": [
       "trivia::UE::Geography",
       "trivia::UE::UG::Europe"
+    ]
+  },
+  "Mexico": {
+    "Capital": "Mexico City",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Mexico",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-mexico.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-mexico.png\" />",
+    "guid": "sxOMs+bE8@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Micronesia": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Micronesia",
+    "Country info": "Subregion of Oceania comprising thousands of small islands in the western Pacific Ocean.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-micronesia.png\">",
+    "guid": "cv+Nq9:a<P",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "Moldova": {
+    "Capital": "Chi\u0219in\u0103u",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Moldova",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-moldova.svg\" />",
+    "Flag similarity": "Andorra (narrower, coat of arms with motto)",
+    "Map": "<img src=\"ug-map-moldova.png\" />",
+    "guid": "5S(f7%O-$",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Monaco": {
+    "Capital": "Monaco",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Monaco",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-monaco.svg\" />",
+    "Flag similarity": "Indonesia (wider, brighter red), Poland (red and white flipped, wider)",
+    "Map": "<img src=\"ug-map-monaco.png\" />",
+    "guid": "m?}%V6s8]*",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Mongolia": {
+    "Capital": "Ulaanbaatar",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Mongolia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-mongolia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-mongolia.png\" />",
+    "guid": "d3c`&/1Y^D",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Montenegro": {
+    "Capital": "Podgorica",
+    "Capital hint": "",
+    "Capital info": "Cetinje is an honorary capital.",
+    "Country": "Montenegro",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-montenegro.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-montenegro.png\" />",
+    "guid": "uRo^w#p5Be",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Montserrat": {
@@ -557,6 +3544,24 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Morocco": {
+    "Capital": "Rabat",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Morocco",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-morocco.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-morocco.png\" />",
+    "guid": "mi+kf0LTW.",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Mount Athos": {
     "Capital": "Karyes",
     "Capital hint": "",
@@ -573,6 +3578,214 @@
       "trivia::UE::Geography",
       "trivia::UE::UG::Europe",
       "trivia::UE::UltimateGeographyRemastered"
+    ]
+  },
+  "Mozambique": {
+    "Capital": "Maputo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Mozambique",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-mozambique.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-mozambique.png\" />",
+    "guid": "vgdj#X?8dB",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Myanmar": {
+    "Capital": "Naypyidaw",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Myanmar",
+    "Country info": "Also known as Burma.",
+    "Flag": "<img src=\"ug-flag-myanmar.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-myanmar.png\" />",
+    "guid": "l*j*EE:!Y?",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Namibia": {
+    "Capital": "Windhoek",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Namibia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-namibia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-namibia.png\" />",
+    "guid": "mkgcU7[bA%",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Nauru": {
+    "Capital": "Yaren",
+    "Capital hint": "",
+    "Capital info": "Nauru has no official capital; the Yaren District is the de facto capital.",
+    "Country": "Nauru",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-nauru.svg\" />",
+    "Flag similarity": "Cura\u00e7ao (two stars in top-left corner)",
+    "Map": "<img src=\"ug-map-nauru.png\" />",
+    "guid": "vE[T$`n9T)",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Nepal": {
+    "Capital": "Kathmandu",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Nepal",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-nepal-nobox.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-nepal.png\" />",
+    "guid": "l3Ly8PBxt(",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Netherlands": {
+    "Capital": "Amsterdam",
+    "Capital hint": "",
+    "Capital info": "While Amsterdam is the official capital, The Hague is the seat of the executive and legislative branches.",
+    "Country": "Netherlands",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-netherlands.svg\" />",
+    "Flag similarity": "Luxembourg (lighter blue)",
+    "Map": "<img src=\"ug-map-netherlands.png\" />",
+    "guid": "o=,%hU&yX%",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "New Caledonia": {
+    "Capital": "Noum\u00e9a",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "New Caledonia",
+    "Country info": "Overseas territory of France.",
+    "Flag": "<img src=\"ug-flag-new_caledonia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-new_caledonia.png\" />",
+    "guid": "tj&bK}%P!F",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "New Zealand": {
+    "Capital": "Wellington",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "New Zealand",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-new_zealand.svg\" />",
+    "Flag similarity": "Australia (white stars, two more stars)",
+    "Map": "<img src=\"ug-map-new_zealand.png\" />",
+    "guid": ")Y}Qy.3GK",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Nicaragua": {
+    "Capital": "Managua",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Nicaragua",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-nicaragua-blur.svg\" /><img src=\"ug-flag-nicaragua.svg\" />",
+    "Flag similarity": "El Salvador (different coat of arms, slightly darker blue)",
+    "Map": "<img src=\"ug-map-nicaragua.png\" />",
+    "guid": "q=w[<m2Bk&",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Niger": {
+    "Capital": "Niamey",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Niger",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-niger.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-niger.png\" />",
+    "guid": "jcu!gLw/&r",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Nigeria": {
+    "Capital": "Abuja",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Nigeria",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-nigeria.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-nigeria.png\" />",
+    "guid": "sB7rZQsR<l",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Niue": {
+    "Capital": "Alofi",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Niue",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-niue.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-niue.png\" />",
+    "guid": "kX]hN=_.c-",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Norfolk Island": {
@@ -593,6 +3806,56 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "North America": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "North America",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-north_america-nobox.png\" />",
+    "guid": "bD?R}i8_[c",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Continents"
+    ]
+  },
+  "North Korea": {
+    "Capital": "Pyongyang",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "North Korea",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-north_korea.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-north_korea.png\" />",
+    "guid": "r6BV%|..*5",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "North Macedonia": {
+    "Capital": "Skopje",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "North Macedonia",
+    "Country info": "Formerly known as Macedonia.",
+    "Flag": "<img src=\"ug-flag-north_macedonia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-north_macedonia.png\" />",
+    "guid": "r5C646H*+*",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "North Sea": {
     "Capital": "",
     "Capital hint": "",
@@ -601,32 +3864,317 @@
     "Country info": "",
     "Flag": "",
     "Flag similarity": "",
-    "Map": "<img src=\"paste-bd5c94ba6596e2a427ad83efb96916a78fd043ad.jpg\">",
-    "guid": "bhHKIY9c1a",
+    "Map": "<img src=\"ug-map-north_sea.png\" />",
+    "guid": "b`5Q_Z=HQT",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1723753382,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
-      "trivia::UE::UG::Bodies_Of_Water",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Northern Cyprus": {
+    "Capital": "North Nicosia",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Northern Cyprus",
+    "Country info": "State recognised only by Turkey and claimed by Cyprus.",
+    "Flag": "<img src=\"ug-flag-northern_cyprus.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-northern_cyprus.png\" />",
+    "guid": "r/B|ra%L,.",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Northern Ireland": {
+    "Capital": "Belfast",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Northern Ireland",
+    "Country info": "Constituent country of the United Kingdom.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-northern_ireland.png\" />",
+    "guid": "cPO|Cru8n<",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
     ]
   },
   "Northern Mariana Islands": {
-    "Capital": "Saipan",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Northern Mariana Islands",
-    "Country info": "Unincorporated territory of the United States",
+    "Country info": "Unincorporated territory of the United States.",
     "Flag": "<img src=\"ug-flag-northern_mariana_islands.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-northern_mariana_islands.png\">",
+    "Map": "<img src=\"ug-map-northern_mariana_islands.png\" />",
     "guid": "p}Qa|!7PpR",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737633010,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "Norway": {
+    "Capital": "Oslo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Norway",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-norway.svg\" />",
+    "Flag similarity": "Iceland (blue background, red cross), Faroe Islands (white background, red and blue cross)",
+    "Map": "<img src=\"ug-map-norway.png\" />",
+    "guid": "lq`T^ZBF2Y",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Norwegian Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Norwegian Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-norwegian_sea.png\" />",
+    "guid": "lp@e##m.!+",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Oceania": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Oceania",
+    "Country info": "World region covering the Australian continent and most of the islands in the Pacific Ocean.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-oceania-nobox.png\" />",
+    "guid": "qFuGdDx^Yv",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Continents"
+    ]
+  },
+  "Oman": {
+    "Capital": "Muscat",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Oman",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-oman.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-oman.png\" />",
+    "guid": "eALZe^HCHq",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Pacific Ocean": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Pacific Ocean",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-pacific_ocean-nobox.png\">",
+    "guid": "f*2@qiHh_1",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Pakistan": {
+    "Capital": "Islamabad",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Pakistan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-pakistan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-pakistan.png\" />",
+    "guid": "iIS#Nw]tr]",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Palau": {
+    "Capital": "Ngerulmud",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Palau",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-palau.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-palau.png\" />",
+    "guid": "r?E$4f-d0/",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
       "trivia::UE::UG::Oceania",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Palestine": {
+    "Capital": "Jerusalem",
+    "Capital hint": "Claimed but not controlled",
+    "Capital info": "Disputed; claimed by Israel; Ramallah is the administrative centre.",
+    "Country": "Palestine",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-palestine.svg\" />",
+    "Flag similarity": "Sudan (red/white/black, green arrow), Sahrawi Arab Democratic Republic (with star and crescent)",
+    "Map": "<img src=\"ug-map-palestine.png\" />",
+    "guid": "g<[f89~U)A",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Panama": {
+    "Capital": "Panama City",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Panama",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-panama.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-panama.png\" />",
+    "guid": "vpOTK6tMr@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Papua New Guinea": {
+    "Capital": "Port Moresby",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Papua New Guinea",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-papua_new_guinea.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-papua_new_guinea.png\" />",
+    "guid": "lhWI;$JC9(",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Paraguay": {
+    "Capital": "Asunci\u00f3n",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Paraguay",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-paraguay-blur.svg\" /><img src=\"ug-flag-paraguay.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-paraguay.png\" />",
+    "guid": "s#:aIK$9^x",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Persian Gulf": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Persian Gulf",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-persian_gulf.png\" />",
+    "guid": "M$bc0[jYf0",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Peru": {
+    "Capital": "Lima",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Peru",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-peru.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-peru.png\" />",
+    "guid": "jBd@A?>g|}",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Philippine Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Philippine Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-philippine_sea.png\" />",
+    "guid": "G/^_##fcPN",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Philippines": {
+    "Capital": "Manila",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Philippines",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-philippines.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-philippines.png\" />",
+    "guid": "qx%>fB$d+$",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Pitcairn Islands": {
@@ -647,6 +4195,213 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Poland": {
+    "Capital": "Warsaw",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Poland",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-poland.svg\" />",
+    "Flag similarity": "Indonesia (white and red flipped, brighter red), Monaco (white and red flipped, narrower)",
+    "Map": "<img src=\"ug-map-poland.png\" />",
+    "guid": "f>c7x2E]Q6",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Polynesia": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Polynesia",
+    "Country info": "Subregion of Oceania comprising thousands of small islands in the central and southern Pacific Ocean.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-polynesia.png\" />",
+    "guid": "d5m8%D6,;u",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "Portugal": {
+    "Capital": "Lisbon",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Portugal",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-portugal.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-portugal.png\" />",
+    "guid": "q[S4`,F0D=",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Puerto Rico": {
+    "Capital": "San Juan",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Puerto Rico",
+    "Country info": "Unincorporated territory of the United States.",
+    "Flag": "<img src=\"ug-flag-puerto_rico.svg\" />",
+    "Flag similarity": "Cuba (red triangle, blue stripes)",
+    "Map": "<img src=\"ug-map-puerto_rico.png\" />",
+    "guid": "t3aZXtpNyi",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Qatar": {
+    "Capital": "Doha",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Qatar",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-qatar.svg\" />",
+    "Flag similarity": "Bahrain (narrower, fewer serrated edges, red)",
+    "Map": "<img src=\"ug-map-qatar.png\" />",
+    "guid": "m{oM,jr>C#",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Red Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Red Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-red_sea.png\">",
+    "guid": "_]DH+g9!$",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Republic of the Congo": {
+    "Capital": "Brazzaville",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Republic of the Congo",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-republic_of_the_congo.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-republic_of_the_congo.png\" />",
+    "guid": "u|I}oElaH)",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Romania": {
+    "Capital": "Bucharest",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Romania",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-romania.svg\" />",
+    "Flag similarity": "Chad (slightly darker blue)",
+    "Map": "<img src=\"ug-map-romania.png\" />",
+    "guid": "jCd]`-=k,:",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Russia": {
+    "Capital": "Moscow",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Russia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-russia.svg\" />",
+    "Flag similarity": "Slovakia (with coat of arms)",
+    "Map": "<img src=\"ug-map-russia.png\" />",
+    "guid": "vf)G?[_?Pf",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Rwanda": {
+    "Capital": "Kigali",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Rwanda",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-rwanda.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-rwanda.png\" />",
+    "guid": "j)i)pB*HJ,",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "R\u00e9union": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "R\u00e9union",
+    "Country info": "Overseas department of France.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-reunion.png\" />",
+    "guid": "vrn%j%6{nu",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa"
+    ]
+  },
+  "Sahrawi Arab Democratic Republic": {
+    "Capital": "Laayoune",
+    "Capital hint": "",
+    "Capital info": "While Laayoune, also known as El Aai\u00fan, is the declared capital, Tifariti is the de facto seat of government.",
+    "Country": "Sahrawi Arab Democratic Republic",
+    "Country info": "Partially recognised state claimed by Morocco. Also known as Western Sahara.",
+    "Flag": "<img src=\"ug-flag-sahrawi_arab_democratic_republic.svg\" />",
+    "Flag similarity": "Palestine (no symbol)",
+    "Map": "<img src=\"ug-map-sahrawi_arab_democratic_republic.png\">",
+    "guid": "cAlyc~G.y%",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Saint Helena": {
     "Capital": "Jamestown",
     "Capital hint": "",
@@ -665,22 +4420,175 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Saint Kitts and Nevis": {
+    "Capital": "Basseterre",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Saint Kitts and Nevis",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-saint_kitts_and_nevis.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-saint_kitts_and_nevis.png\" />",
+    "guid": "b[(2`4t&?J",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Saint Lucia": {
+    "Capital": "Castries",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Saint Lucia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-saint_lucia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-saint_lucia.png\" />",
+    "guid": "leh^fmrt*#",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Saint Martin": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Saint Martin",
+    "Country info": "Overseas territory of France.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-saint_martin.png\" />",
+    "guid": "t2&ri|[Un:",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Saint Vincent and the Grenadines": {
+    "Capital": "Kingstown",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Saint Vincent and the Grenadines",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-saint_vincent_and_the_grenadines.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-saint_vincent_and_the_grenadines.png\" />",
+    "guid": "va/ky=f5pK",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Samoa": {
+    "Capital": "Apia",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Samoa",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-samoa.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-samoa.png\" />",
+    "guid": "qvITjNxkLN",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "San Marino": {
+    "Capital": "City of San Marino",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "San Marino",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-san_marino.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-san_marino.png\" />",
+    "guid": "j9:K,~DQ2v",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Sardinia": {
-    "Capital": "Cagliari",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Sardinia",
-    "Country info": "Autonomous region of Italy",
+    "Country info": "Autonomous region of Italy.",
     "Flag": "<img src=\"ug-flag-sardinia.svg\" />",
-    "Flag similarity": "<b><u>Those guys are packed in there like sardines</u></b><br>",
-    "Map": "<img src=\"ug-map-sardinia.png\">",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sardinia.png\" />",
     "guid": "jKIDq|}J&c",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737633011,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
-      "trivia::UE::UG::Europe",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Saudi Arabia": {
+    "Capital": "Riyadh",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Saudi Arabia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-saudi_arabia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-saudi_arabia.png\" />",
+    "guid": "ln^3p)j3b.",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Scandinavia": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Scandinavia",
+    "Country info": "Historical and cultural region in Northern Europe, which includes the countries of Denmark, Norway and Sweden, and sometimes Finland and Iceland.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-scandinavia.png\" />",
+    "guid": "He!e=h?_2V",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Scotland": {
+    "Capital": "Edinburgh",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Scotland",
+    "Country info": "Constituent country of the United Kingdom.",
+    "Flag": "<img src=\"ug-flag-scotland.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-scotland.png\">",
+    "guid": "h~5xz+=ke~",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
     ]
   },
   "Scottish Highlands": {
@@ -701,40 +4609,868 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Sea of Galilee": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Sea of Galilee",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sea_of_galilee.png\" />",
+    "guid": "QSq%~rFaP-",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Sea of Japan": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Sea of Japan",
+    "Country info": "A naming dispute exists between the sea's bordering countries, with South Korea notably supporting the name East Sea.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sea_of_japan.png\">",
+    "guid": "d}R:qHj1,7",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Sea of Okhotsk": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Sea of Okhotsk",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sea_of_okhotsk.png\" />",
+    "guid": "tfCY4j6KEZ",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Senegal": {
+    "Capital": "Dakar",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Senegal",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-senegal.svg\" />",
+    "Flag similarity": "Cameroon (green/red/yellow, yellow star)",
+    "Map": "<img src=\"ug-map-senegal.png\" />",
+    "guid": "t-0>F]bu>P",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Serbia": {
+    "Capital": "Belgrade",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Serbia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-serbia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-serbia.png\" />",
+    "guid": "ui3>b-?a@m",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Seychelles": {
+    "Capital": "Victoria",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Seychelles",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-seychelles.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-seychelles.png\" />",
+    "guid": "hrI_uiW>E]",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Sicily": {
-    "Capital": "Palermo",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Sicily",
-    "Country info": "Autonomous region of Italy",
+    "Country info": "Autonomous region of Italy.",
     "Flag": "<img src=\"ug-flag-sicily.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-sicily.png\">",
+    "Map": "<img src=\"ug-map-sicily.png\" />",
     "guid": "n{{o2K1:dw",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737633015,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Sierra Leone": {
+    "Capital": "Freetown",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Sierra Leone",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-sierra_leone.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sierra_leone.png\" />",
+    "guid": "uc61ToT%gt",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Singapore": {
+    "Capital": "Singapore",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Singapore",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-singapore.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-singapore.png\" />",
+    "guid": "cL?8!xP#Wj",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Sint Maarten": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Sint Maarten",
+    "Country info": "Constituent country of the Kingdom of the Netherlands.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sint_maarten.png\" />",
+    "guid": "bnEK#)[;qT",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Slovakia": {
+    "Capital": "Bratislava",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Slovakia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-slovakia.svg\" />",
+    "Flag similarity": "Russia (no coat of arms), Slovenia (wider, smaller coat of arms)",
+    "Map": "<img src=\"ug-map-slovakia.png\" />",
+    "guid": "qVi;t%/`F|",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
       "trivia::UE::UG::Europe",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Slovenia": {
+    "Capital": "Ljubljana",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Slovenia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-slovenia.svg\" />",
+    "Flag similarity": "Slovakia (narrower, bigger coat of arms)",
+    "Map": "<img src=\"ug-map-slovenia.png\" />",
+    "guid": "g-]bb&[.E!",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Solomon Islands": {
+    "Capital": "Honiara",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Solomon Islands",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-solomon_islands.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-solomon_islands.png\" />",
+    "guid": "r>g<|,FWi%",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Somalia": {
+    "Capital": "Mogadishu",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Somalia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-somalia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-somalia.png\" />",
+    "guid": "c,5(mUGzYT",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Somaliland": {
+    "Capital": "Hargeisa",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Somaliland",
+    "Country info": "Independent state claimed by Somalia.",
+    "Flag": "<img src=\"ug-flag-somaliland.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-somaliland.png\" />",
+    "guid": "jX=#G8wu#(",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "South Africa": {
+    "Capital": "Pretoria, Cape Town, Bloemfontein",
+    "Capital hint": "",
+    "Capital info": "South Africa has no legally defined capital: the branches of government are split over three cities: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).",
+    "Country": "South Africa",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-south_africa.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-south_africa.png\" />",
+    "guid": "e.t$Vi5,>f",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "South America": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "South America",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-south_america-nobox.png\" />",
+    "guid": "Lol+XIvY21",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Continents"
+    ]
+  },
+  "South China Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "South China Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-south_china_sea.png\">",
+    "guid": "t$y1C2R-Av",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "South Korea": {
+    "Capital": "Seoul",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "South Korea",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-south_korea.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-south_korea.png\" />",
+    "guid": "h?a*UKfT_M",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "South Ossetia": {
+    "Capital": "Tskhinvali",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "South Ossetia",
+    "Country info": "Independent state claimed by Georgia.",
+    "Flag": "<img src=\"ug-flag-south_ossetia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-south_ossetia.png\" />",
+    "guid": "p]t8:Tka7q",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "South Sudan": {
+    "Capital": "Juba",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "South Sudan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-south_sudan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-south_sudan.png\" />",
+    "guid": "l&#7I)Ah/E",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Southern Ocean": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Southern Ocean",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-southern_ocean-nobox.png\" />",
+    "guid": "LPF4AfaHKR",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Spain": {
+    "Capital": "Madrid",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Spain",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-spain.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-spain.png\" />",
+    "guid": "f21=-A~W;~",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Sri Lanka": {
+    "Capital": "Sri Jayawardenepura Kotte",
+    "Capital hint": "",
+    "Capital info": "Colombo is often referred to as the capital but Sri Jayawardenepura Kotte, a suburb of Colombo, is the official, legislative capital.",
+    "Country": "Sri Lanka",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-sri_lanka.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sri_lanka.png\" />",
+    "guid": "g9v~y/;=z(",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Sudan": {
+    "Capital": "Khartoum",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Sudan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-sudan.svg\" />",
+    "Flag similarity": "Palestine (black/white/green, red arrow)",
+    "Map": "<img src=\"ug-map-sudan.png\" />",
+    "guid": "k/u1:B%DJH",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Sumatra": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Sumatra",
+    "Country info": "Island of Indonesia.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sumatra.png\" />",
+    "guid": "ck!6;xK$/^",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia"
+    ]
+  },
+  "Suriname": {
+    "Capital": "Paramaribo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Suriname",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-suriname.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-suriname.png\" />",
+    "guid": "koI(}OyJ:@",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Svalbard": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Svalbard",
+    "Country info": "Unincorporated internal area of Norway.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-svalbard.png\" />",
+    "guid": "5JJ2]i)p4",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Sweden": {
+    "Capital": "Stockholm",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Sweden",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-sweden.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sweden.png\" />",
+    "guid": "sT5=H|@KU|",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::European_Union",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Switzerland": {
+    "Capital": "Bern",
+    "Capital hint": "",
+    "Capital info": "Switzerland has no official capital; Bern is the de facto capital.",
+    "Country": "Switzerland",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-switzerland.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-switzerland.png\" />",
+    "guid": "lU@C3<C8Wk",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Syria": {
+    "Capital": "Damascus",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Syria",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-syria.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-syria.png\" />",
+    "guid": "e=.VHQ9E+M",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+    "Capital": "S\u00e3o Tom\u00e9",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-sao_tome_and_principe.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-sao_tome_and_principe.png\" />",
+    "guid": "gePC:Xt_nW",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Taiwan": {
+    "Capital": "Taipei",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Taiwan",
+    "Country info": "Partially recognised state claimed by China.",
+    "Flag": "<img src=\"ug-flag-taiwan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-taiwan.png\" />",
+    "guid": "m[96fa+HDS",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Tajikistan": {
+    "Capital": "Dushanbe",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Tajikistan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-tajikistan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-tajikistan.png\" />",
+    "guid": "g~%pF`(x{u",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Tanzania": {
+    "Capital": "Dodoma",
+    "Capital hint": "",
+    "Capital info": "While Dodoma is the official capital, Dar es Salaam is the de facto seat of government.",
+    "Country": "Tanzania",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-tanzania.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-tanzania.png\" />",
+    "guid": "p:SPZ:e/*[",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Tasman Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Tasman Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-tasman_sea.png\" />",
+    "guid": "eHJ?)TAdTo",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Thailand": {
+    "Capital": "Bangkok",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Thailand",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-thailand.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-thailand.png\" />",
+    "guid": "hE5j*e,Q?[",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "The Bahamas": {
+    "Capital": "Nassau",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "The Bahamas",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-the_bahamas.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-the_bahamas.png\" />",
+    "guid": "W5?6yQZD2",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "The Gambia": {
+    "Capital": "Banjul",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "The Gambia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-the_gambia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-the_gambia.png\" />",
+    "guid": "f#4-L[mp5*",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Timor Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Timor Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-timor_sea.png\" />",
+    "guid": "vppEA|$@~g",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Timor-Leste": {
+    "Capital": "Dili",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Timor-Leste",
+    "Country info": "Also known as Timor-Leste.",
+    "Flag": "<img src=\"ug-flag-timor-leste.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-timor-leste.png\" />",
+    "guid": "fRSM{K+;[w",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Togo": {
+    "Capital": "Lom\u00e9",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Togo",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-togo.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-togo.png\" />",
+    "guid": "t+v9b--,qs",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Sovereign_State",
+      "trivia::UE::UG::West_Africa"
+    ]
+  },
+  "Tonga": {
+    "Capital": "Nuku\u02bbalofa",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Tonga",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-tonga.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-tonga.png\">",
+    "guid": "c^,~EC6Pb2",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Transnistria": {
+    "Capital": "Tiraspol",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Transnistria",
+    "Country info": "Independent state claimed by Moldova.",
+    "Flag": "<img src=\"ug-flag-transnistria.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-transnistria.png\" />",
+    "guid": "tMMtBUpb$&",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Trinidad and Tobago": {
+    "Capital": "Port of Spain",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Trinidad and Tobago",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-trinidad_and_tobago.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-trinidad_and_tobago.png\" />",
+    "guid": "t50y/[AEhF",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Tunisia": {
+    "Capital": "Tunis",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Tunisia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-tunisia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-tunisia.png\" />",
+    "guid": "fV`&p81%d(",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Turkey": {
+    "Capital": "Ankara",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Turkey",
+    "Country info": "Also known as T\u00fcrkiye",
+    "Flag": "<img src=\"ug-flag-turkey.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-turkey.png\" />",
+    "guid": "jDA-V?/hVj",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Mediterranean",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Turkmenistan": {
+    "Capital": "Ashgabat",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Turkmenistan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-turkmenistan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-turkmenistan.png\" />",
+    "guid": "u-`cspdp)D",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Turks and Caicos Islands": {
-    "Capital": "Cockburn Town",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Turks and Caicos Islands",
-    "Country info": "Overseas territory of the United Kingdom",
-    "Flag": "<img src=\"ug-flag-turks_and_caicos_islands.svg\">",
+    "Country info": "Overseas territory of the United Kingdom.",
+    "Flag": "",
     "Flag similarity": "",
     "Map": "<img src=\"ug-map-turks_and_caicos_islands.png\">",
     "guid": "q7do-wLx%E",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632987,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
       "trivia::UE::UG::Caribbean",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "Tuvalu": {
+    "Capital": "Funafuti",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Tuvalu",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-tuvalu.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-tuvalu.png\" />",
+    "guid": "de=9c:,@j9",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
     ]
   },
   "Tyrrhenian Sea": {
@@ -755,22 +5491,361 @@
       "trivia::UE::UltimateGeographyRemastered"
     ]
   },
+  "Uganda": {
+    "Capital": "Kampala",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Uganda",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-uganda.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-uganda.png\" />",
+    "guid": "gsS{jR,]|Q",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Ukraine": {
+    "Capital": "Kyiv",
+    "Capital hint": "",
+    "Capital info": "Also known as Kiev.",
+    "Country": "Ukraine",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-ukraine.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-ukraine.png\" />",
+    "guid": "h_9=mkZXAH",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "United Arab Emirates": {
+    "Capital": "Abu Dhabi",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "United Arab Emirates",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-united_arab_emirates.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-united_arab_emirates.png\">",
+    "guid": "o~}KVA:VbI",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "United Kingdom": {
+    "Capital": "London",
+    "Capital hint": "Sovereign country",
+    "Capital info": "",
+    "Country": "United Kingdom",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-united_kingdom.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-united_kingdom.png\" />",
+    "guid": "s9-GL*@AXD",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "United States Virgin Islands": {
+    "Capital": "Charlotte Amalie",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "United States Virgin Islands",
+    "Country info": "Unincorporated territory of the United States.",
+    "Flag": "<img src=\"ug-flag-united_states_virgin_islands.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-united_states_virgin_islands.png\" />",
+    "guid": "kE!iKHLN_g",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Caribbean",
+      "trivia::UE::UG::North_America"
+    ]
+  },
+  "United States of America": {
+    "Capital": "Washington, D.C.",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "United States of America",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-united_states_of_america.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-united_states_of_america.png\" />",
+    "guid": "b@M[XTc?}5",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::North_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Uruguay": {
+    "Capital": "Montevideo",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Uruguay",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-uruguay.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-uruguay.png\" />",
+    "guid": "e?gIaPc$Ox",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Uzbekistan": {
+    "Capital": "Tashkent",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Uzbekistan",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-uzbekistan.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-uzbekistan.png\" />",
+    "guid": "mbGXc0y3Pe",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Vanuatu": {
+    "Capital": "Port Vila",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Vanuatu",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-vanuatu.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-vanuatu.png\" />",
+    "guid": "K*b}<I3(~",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Vatican City": {
+    "Capital": "Vatican City",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Vatican City",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-vatican_city.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-vatican_city.png\" />",
+    "guid": "mk1VltJl<]",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Venezuela": {
+    "Capital": "Caracas",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Venezuela",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-venezuela.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-venezuela.png\" />",
+    "guid": "o#&RMA_REo",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::South_America",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Vietnam": {
+    "Capital": "Hanoi",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Vietnam",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-vietnam.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-vietnam.png\" />",
+    "guid": "pD<Pd$Ag@J",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Southeast_Asia",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Wales": {
+    "Capital": "Cardiff",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Wales",
+    "Country info": "Constituent country of the United Kingdom.",
+    "Flag": "<img src=\"ug-flag-wales.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-wales.png\" />",
+    "guid": "hNE9}>;Q&-",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
+    ]
+  },
+  "Wallis and Futuna": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Wallis and Futuna",
+    "Country info": "Overseas territory of France.",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-wallis_and_futuna.png\" />",
+    "guid": "dbP/Cj}sB+",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceania"
+    ]
+  },
+  "White Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "White Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-white_sea.png\" />",
+    "guid": "cEO^y)Md[G",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Yellow Sea": {
+    "Capital": "",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Yellow Sea",
+    "Country info": "",
+    "Flag": "",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-yellow_sea.png\">",
+    "guid": "L5M1*yG7eH",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Oceans+Seas"
+    ]
+  },
+  "Yemen": {
+    "Capital": "Sanaa",
+    "Capital hint": "",
+    "Capital info": "Also spelled as Sana'a.",
+    "Country": "Yemen",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-yemen.svg\" />",
+    "Flag similarity": "Egypt (with emblem), Iraq (with text)",
+    "Map": "<img src=\"ug-map-yemen.png\" />",
+    "guid": "e42BpV,P}C",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Asia",
+      "trivia::UE::UG::Middle_East",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "Zambia": {
+    "Capital": "Lusaka",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Zambia",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-zambia.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-zambia.png\" />",
+    "guid": "fxAN),FAc$",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Africa",
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
   "Zanzibar": {
-    "Capital": "Zanzibar City",
+    "Capital": "",
     "Capital hint": "",
     "Capital info": "",
     "Country": "Zanzibar",
-    "Country info": "Semi-autonomous region of Tanzania",
+    "Country info": "Semi-autonomous region of Tanzania.",
     "Flag": "<img src=\"ug-flag-zanzibar.svg\" />",
     "Flag similarity": "",
-    "Map": "<img src=\"ug-map-zanzibar.png\">",
+    "Map": "<img src=\"ug-map-zanzibar.png\" />",
     "guid": "gp[h@]y13l",
     "model_name": "TriviAnki-UG-Country",
-    "mtime": 1737632983,
+    "mtime": 1746610081,
     "tags": [
-      "trivia::UE::Geography",
+      "trivia::UE::UG::Africa"
+    ]
+  },
+  "Zimbabwe": {
+    "Capital": "Harare",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "Zimbabwe",
+    "Country info": "",
+    "Flag": "<img src=\"ug-flag-zimbabwe.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-zimbabwe.png\" />",
+    "guid": "r<N4LAAnnB",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
       "trivia::UE::UG::Africa",
-      "trivia::UE::UltimateGeographyRemastered"
+      "trivia::UE::UG::East_Africa",
+      "trivia::UE::UG::Sovereign_State"
+    ]
+  },
+  "\u00c5land Islands": {
+    "Capital": "Mariehamn",
+    "Capital hint": "",
+    "Capital info": "",
+    "Country": "\u00c5land Islands",
+    "Country info": "Autonomous region of Finland.",
+    "Flag": "<img src=\"ug-flag-aland_islands.svg\" />",
+    "Flag similarity": "",
+    "Map": "<img src=\"ug-map-aland_islands.png\" />",
+    "guid": "d``B*6:eCx",
+    "model_name": "TriviAnki-UG-Country",
+    "mtime": 1746610081,
+    "tags": [
+      "trivia::UE::UG::Europe"
     ]
   }
 }
