@@ -557,8 +557,9 @@ def clean() -> None:
 
 @main.command("build")
 @click.option("--with-media/--without-media", "with_media", default=True)
+@click.option("--with-timestamps/--without-timestamps", "with_timestamps", default=True)
 @click.argument("output_path", type=click.Path(file_okay=True, dir_okay=False, path_type=Path))
-def build(output_path: Path, with_media: bool) -> None:
+def build(output_path: Path, with_media: bool, with_timestamps: bool) -> None:
     with TemporaryDirectory() as path_str, Database.enter(Path()) as db:
         path = Path(path_str)
 
@@ -590,16 +591,17 @@ def build(output_path: Path, with_media: bool) -> None:
                     col.media.add_file(str(db.media_path / filename))
 
         # Tweak modified times
-        connection = sqlite3.connect(str(collection_path(path)))
-        for note in tqdm(db.notes(), desc="Updating modification timestamps", total=db.note_count()):
-            connection.execute("UPDATE notes SET mod = ? WHERE guid = ?", (note.mtime, note.guid))
-        for model in db.models():
-            connection.execute(
-                "UPDATE notetypes SET mtime_secs = ? WHERE id = ?",
-                (model["mod"], model["id"]),
-            )
-        connection.commit()
-        connection.close()
+        if with_timestamps:
+            connection = sqlite3.connect(str(collection_path(path)))
+            for note in tqdm(db.notes(), desc="Updating modification timestamps", total=db.note_count()):
+                connection.execute("UPDATE notes SET mod = ? WHERE guid = ?", (note.mtime, note.guid))
+            for model in db.models():
+                connection.execute(
+                    "UPDATE notetypes SET mtime_secs = ? WHERE id = ?",
+                    (model["mod"], model["id"]),
+                )
+            connection.commit()
+            connection.close()
 
         with collection(Path(path_str)) as col:
             # Check database integrity

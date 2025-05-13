@@ -1,6 +1,6 @@
 {
   "crowdanki_uuid": "df2b18e9-bd66-11ea-a8ef-28565a51d1ae",
-  "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
+  "css": "@font-face{font-family:normalfont;src:url(\"_ubuntu.ttf\")}.card{margin:0px;font-family:normalfont;font-weight:600;text-align:left}.container{display:flex;flex-direction:column;justify-content:space-between;border-style:solid;border-width:0.2rem;border-radius:0.8rem;height:95vh;max-width:50vh;margin-left:auto;margin-right:auto;position:relative;overflow:hidden}.container>.top{padding:1.5rem 1rem 1rem 1rem}.container>.bottom{padding:1rem;padding-bottom:1rem}body.isLin .container{height:90vh !important;margin-top:10px;margin-bottom:10px}.hidden{display:none}.notetype{text-transform:uppercase;font-size:0.6rem;font-weight:800;position:absolute;top:0;right:0;padding:0.2rem;padding-left:0.3rem;border-radius:0 0 0 0.15rem}.card{font-size:20px}img{display:block;max-width:90%;max-height:50vh !important;margin:1rem auto 1rem auto}.imgblock{display:flex;flex-direction:column;align-items:center}.imgblock img{margin:0.5rem auto 0.5rem auto}.imgblock div.question{font-size:1rem}.supplement{font-size:0.8rem}.header{margin-bottom:1rem}.card:not(.nightMode) .container{background-color:#e4e4e4}.card:not(.nightMode) .notetype{background-color:#020202;color:#ffffff}.card:not(.nightMode) hr#answer{border-color:#000000}.card:not(.nightMode) .clozetext .cloze{color:#0000ff}.card:not(.nightMode) .highlight{color:#6f00ff}.card.nightMode .notetype{background-color:#ffffff;color:#020202}.card.nightMode hr#answer{border-color:#ffffff}.card.nightMode .clozetext .cloze{color:#add8e6}.card.nightMode .highlight{color:#ffff00}\n",
   "did": 1342698098775,
   "flds": [
     {
@@ -81,13 +81,14 @@
       "tag": null
     }
   ],
-  "id": 1342698098732,
+  "id": 1746910736157,
   "latexPost": "\\end{document}",
   "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
   "latexsvg": false,
-  "mod": 1746127674,
+  "mod": 1747081092,
   "name": "TriviAnki-UG-USA",
-  "originalId": 1342698098732,
+  "originalId": 1746910736157,
+  "originalStockKind": 1,
   "req": [
     [
       0,
@@ -210,6 +211,6 @@
     }
   ],
   "type": 0,
-  "usn": 0,
+  "usn": 8790,
   "vers": []
 }

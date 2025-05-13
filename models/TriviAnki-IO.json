@@ -78,12 +78,13 @@
       "tag": 4
     }
   ],
-  "id": 1737640749997,
+  "id": 1746910736246,
   "latexPost": "\\end{document}",
   "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
   "latexsvg": false,
-  "mod": 1746094478,
+  "mod": 1747081092,
   "name": "TriviAnki-IO",
+  "originalId": 1746910736246,
   "originalStockKind": 6,
   "req": [
     [
@@ -112,5 +113,5 @@
     }
   ],
   "type": 1,
-  "usn": 0
+  "usn": 8790
 }
